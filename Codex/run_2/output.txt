@@ -1,0 +1,23 @@
+The folder Orthogroups.calcifying_loose_fastas_codex contains the FASTA files of selected orthogroups. Please annotate the biological functions of each orthogroup and check their relevances to calcification, based on blast_out, PFAM domains in hmm_out, deeptmhmm_results and signalp_results in the folder. Generate additional data if necessary.
+2:45 PM
+
+
+
+
+Worked for 13m 8s
+I generated the orthogroup annotations and calcification-relevance assessment in orthogroup_annotation_report.md and the underlying evidence table in orthogroup_annotation_evidence.tsv. The parser/report workflow is in orthogroup_annotation_report.py, with regression tests in test_orthogroup_annotation_report.py.
+
+At the current evidence level, none of the 73 orthogroups landed in a clear “likely direct” calcification bin. I classified 34 as plausible indirect, mostly secreted or membrane-associated families, glycosyltransferase-like proteins, sulfatase/sulfotransferase-like enzymes, receptor-like proteins, and redox proteins. Stronger candidates in that set include OG0011061 (GT47 exostosin-like membrane glycosyltransferase), OG0009816 (mannosyltransferase-like enzyme), OG0017305 and OG0020703 (sulfotransferase-like), OG0017138 (arylsulfatase-like), OG0018986 (FG-GAP repeat receptor-like membrane protein), OG0024846 (MUCI70/TOD1-like glycosyltransferase), and OG0025059 (secreted novel family). The remaining 39 are mostly low-confidence novel families or general housekeeping proteins.
+
+Verification: python -m unittest tests/test_orthogroup_annotation_report.py -v passed with 12/12 tests, and the generated table/report contain 73 unique orthogroups.
+
+
+
+
+2:58 PM
+2 files changed
++876
+-0
+Undo
+orthogroup_annotation_report.py
+tests/test_orthogroup_annotation_report.py
