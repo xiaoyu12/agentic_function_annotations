@@ -1,0 +1,955 @@
+##gff-version 3
+# OG0021517__000007 Length: 269
+# OG0021517__000007 Number of predicted TMRs: 0
+OG0021517__000007	inside	1	269				
+//
+# OG0021517__000008 Length: 267
+# OG0021517__000008 Number of predicted TMRs: 0
+OG0021517__000008	inside	1	267				
+//
+# OG0021517__000009 Length: 281
+# OG0021517__000009 Number of predicted TMRs: 0
+OG0021517__000009	inside	1	281				
+//
+# OG0021517__000010 Length: 235
+# OG0021517__000010 Number of predicted TMRs: 0
+OG0021517__000010	inside	1	235				
+//
+# OG0021520__000001 Length: 984
+# OG0021520__000001 Number of predicted TMRs: 0
+OG0021520__000001	inside	1	984				
+//
+# OG0021520__000002 Length: 567
+# OG0021520__000002 Number of predicted TMRs: 0
+OG0021520__000002	outside	1	567				
+//
+# OG0021520__000003 Length: 273
+# OG0021520__000003 Number of predicted TMRs: 0
+OG0021520__000003	inside	1	273				
+//
+# OG0021520__000004 Length: 376
+# OG0021520__000004 Number of predicted TMRs: 0
+OG0021520__000004	outside	1	376				
+//
+# OG0021520__000005 Length: 330
+# OG0021520__000005 Number of predicted TMRs: 0
+OG0021520__000005	outside	1	330				
+//
+# OG0021520__000006 Length: 500
+# OG0021520__000006 Number of predicted TMRs: 14
+OG0021520__000006	signal	1	10				
+OG0021520__000006	periplasm	11	11				
+OG0021520__000006	Beta sheet	12	16				
+OG0021520__000006	outside	17	17				
+OG0021520__000006	Beta sheet	18	22				
+OG0021520__000006	periplasm	23	27				
+OG0021520__000006	Beta sheet	28	35				
+OG0021520__000006	outside	36	205				
+OG0021520__000006	Beta sheet	206	214				
+OG0021520__000006	periplasm	215	221				
+OG0021520__000006	Beta sheet	222	230				
+OG0021520__000006	outside	231	257				
+OG0021520__000006	Beta sheet	258	262				
+OG0021520__000006	periplasm	263	263				
+OG0021520__000006	Beta sheet	264	268				
+OG0021520__000006	outside	269	362				
+OG0021520__000006	Beta sheet	363	367				
+OG0021520__000006	periplasm	368	368				
+OG0021520__000006	Beta sheet	369	373				
+OG0021520__000006	outside	374	383				
+OG0021520__000006	Beta sheet	384	392				
+OG0021520__000006	periplasm	393	427				
+OG0021520__000006	Beta sheet	428	434				
+OG0021520__000006	outside	435	445				
+OG0021520__000006	Beta sheet	446	454				
+OG0021520__000006	periplasm	455	461				
+OG0021520__000006	Beta sheet	462	470				
+OG0021520__000006	outside	471	489				
+OG0021520__000006	Beta sheet	490	498				
+OG0021520__000006	periplasm	499	500				
+//
+# OG0021520__000007 Length: 1005
+# OG0021520__000007 Number of predicted TMRs: 0
+OG0021520__000007	outside	1	1005				
+//
+# OG0021520__000008 Length: 593
+# OG0021520__000008 Number of predicted TMRs: 0
+OG0021520__000008	outside	1	593				
+//
+# OG0021520__000009 Length: 412
+# OG0021520__000009 Number of predicted TMRs: 0
+OG0021520__000009	outside	1	412				
+//
+# OG0021520__000010 Length: 828
+# OG0021520__000010 Number of predicted TMRs: 0
+OG0021520__000010	inside	1	828				
+//
+# OG0021523__000001 Length: 342
+# OG0021523__000001 Number of predicted TMRs: 0
+OG0021523__000001	inside	1	342				
+//
+# OG0021523__000002 Length: 295
+# OG0021523__000002 Number of predicted TMRs: 0
+OG0021523__000002	inside	1	295				
+//
+# OG0021523__000003 Length: 199
+# OG0021523__000003 Number of predicted TMRs: 0
+OG0021523__000003	inside	1	199				
+//
+# OG0021523__000004 Length: 161
+# OG0021523__000004 Number of predicted TMRs: 0
+OG0021523__000004	inside	1	161				
+//
+# OG0021523__000005 Length: 142
+# OG0021523__000005 Number of predicted TMRs: 0
+OG0021523__000005	inside	1	142				
+//
+# OG0021523__000006 Length: 133
+# OG0021523__000006 Number of predicted TMRs: 0
+OG0021523__000006	inside	1	133				
+//
+# OG0021523__000007 Length: 630
+# OG0021523__000007 Number of predicted TMRs: 0
+OG0021523__000007	inside	1	630				
+//
+# OG0021523__000008 Length: 611
+# OG0021523__000008 Number of predicted TMRs: 0
+OG0021523__000008	inside	1	611				
+//
+# OG0021523__000009 Length: 389
+# OG0021523__000009 Number of predicted TMRs: 0
+OG0021523__000009	inside	1	389				
+//
+# OG0021523__000010 Length: 340
+# OG0021523__000010 Number of predicted TMRs: 0
+OG0021523__000010	inside	1	340				
+//
+# OG0021531__000001 Length: 239
+# OG0021531__000001 Number of predicted TMRs: 0
+OG0021531__000001	signal	1	10				
+OG0021531__000001	outside	11	239				
+//
+# OG0021531__000002 Length: 254
+# OG0021531__000002 Number of predicted TMRs: 0
+OG0021531__000002	outside	1	254				
+//
+# OG0021531__000003 Length: 155
+# OG0021531__000003 Number of predicted TMRs: 0
+OG0021531__000003	inside	1	155				
+//
+# OG0021531__000004 Length: 372
+# OG0021531__000004 Number of predicted TMRs: 0
+OG0021531__000004	inside	1	372				
+//
+# OG0021531__000005 Length: 192
+# OG0021531__000005 Number of predicted TMRs: 0
+OG0021531__000005	outside	1	192				
+//
+# OG0021531__000006 Length: 202
+# OG0021531__000006 Number of predicted TMRs: 0
+OG0021531__000006	inside	1	202				
+//
+# OG0021531__000007 Length: 441
+# OG0021531__000007 Number of predicted TMRs: 0
+OG0021531__000007	inside	1	441				
+//
+# OG0021531__000008 Length: 215
+# OG0021531__000008 Number of predicted TMRs: 0
+OG0021531__000008	outside	1	215				
+//
+# OG0021531__000009 Length: 279
+# OG0021531__000009 Number of predicted TMRs: 0
+OG0021531__000009	inside	1	279				
+//
+# OG0021531__000010 Length: 374
+# OG0021531__000010 Number of predicted TMRs: 0
+OG0021531__000010	inside	1	374				
+//
+# OG0022355__000001 Length: 757
+# OG0022355__000001 Number of predicted TMRs: 1
+OG0022355__000001	signal	1	17				
+OG0022355__000001	outside	18	690				
+OG0022355__000001	TMhelix	691	712				
+OG0022355__000001	inside	713	757				
+//
+# OG0022355__000002 Length: 124
+# OG0022355__000002 Number of predicted TMRs: 0
+OG0022355__000002	inside	1	124				
+//
+# OG0022355__000003 Length: 133
+# OG0022355__000003 Number of predicted TMRs: 0
+OG0022355__000003	signal	1	15				
+OG0022355__000003	outside	16	133				
+//
+# OG0022355__000004 Length: 626
+# OG0022355__000004 Number of predicted TMRs: 1
+OG0022355__000004	signal	1	15				
+OG0022355__000004	outside	16	565				
+OG0022355__000004	TMhelix	566	583				
+OG0022355__000004	inside	584	626				
+//
+# OG0022355__000005 Length: 789
+# OG0022355__000005 Number of predicted TMRs: 1
+OG0022355__000005	signal	1	31				
+OG0022355__000005	outside	32	697				
+OG0022355__000005	TMhelix	698	718				
+OG0022355__000005	inside	719	789				
+//
+# OG0022355__000006 Length: 723
+# OG0022355__000006 Number of predicted TMRs: 1
+OG0022355__000006	signal	1	15				
+OG0022355__000006	outside	16	661				
+OG0022355__000006	TMhelix	662	680				
+OG0022355__000006	inside	681	723				
+//
+# OG0022355__000007 Length: 694
+# OG0022355__000007 Number of predicted TMRs: 0
+OG0022355__000007	signal	1	17				
+OG0022355__000007	outside	18	694				
+//
+# OG0022355__000008 Length: 770
+# OG0022355__000008 Number of predicted TMRs: 1
+OG0022355__000008	signal	1	15				
+OG0022355__000008	outside	16	696				
+OG0022355__000008	TMhelix	697	717				
+OG0022355__000008	inside	718	770				
+//
+# OG0022355__000009 Length: 770
+# OG0022355__000009 Number of predicted TMRs: 1
+OG0022355__000009	signal	1	15				
+OG0022355__000009	outside	16	696				
+OG0022355__000009	TMhelix	697	717				
+OG0022355__000009	inside	718	770				
+//
+# OG0022381__000001 Length: 645
+# OG0022381__000001 Number of predicted TMRs: 1
+OG0022381__000001	outside	1	7				
+OG0022381__000001	TMhelix	8	24				
+OG0022381__000001	inside	25	645				
+//
+# OG0022381__000002 Length: 457
+# OG0022381__000002 Number of predicted TMRs: 1
+OG0022381__000002	outside	1	12				
+OG0022381__000002	TMhelix	13	27				
+OG0022381__000002	inside	28	457				
+//
+# OG0022381__000003 Length: 229
+# OG0022381__000003 Number of predicted TMRs: 0
+OG0022381__000003	inside	1	229				
+//
+# OG0022381__000004 Length: 380
+# OG0022381__000004 Number of predicted TMRs: 0
+OG0022381__000004	inside	1	380				
+//
+# OG0022381__000005 Length: 631
+# OG0022381__000005 Number of predicted TMRs: 1
+OG0022381__000005	signal	1	10				
+OG0022381__000005	outside	11	11				
+OG0022381__000005	TMhelix	12	21				
+OG0022381__000005	inside	22	631				
+//
+# OG0022381__000006 Length: 656
+# OG0022381__000006 Number of predicted TMRs: 0
+OG0022381__000006	inside	1	656				
+//
+# OG0022381__000007 Length: 656
+# OG0022381__000007 Number of predicted TMRs: 0
+OG0022381__000007	inside	1	656				
+//
+# OG0022381__000008 Length: 665
+# OG0022381__000008 Number of predicted TMRs: 1
+OG0022381__000008	outside	1	20				
+OG0022381__000008	TMhelix	21	35				
+OG0022381__000008	inside	36	665				
+//
+# OG0022381__000009 Length: 297
+# OG0022381__000009 Number of predicted TMRs: 0
+OG0022381__000009	inside	1	297				
+//
+# OG0022455__000001 Length: 248
+# OG0022455__000001 Number of predicted TMRs: 0
+OG0022455__000001	inside	1	248				
+//
+# OG0022455__000002 Length: 131
+# OG0022455__000002 Number of predicted TMRs: 0
+OG0022455__000002	inside	1	131				
+//
+# OG0022455__000003 Length: 99
+# OG0022455__000003 Number of predicted TMRs: 0
+OG0022455__000003	signal	1	10				
+OG0022455__000003	outside	11	99				
+//
+# OG0022455__000004 Length: 86
+# OG0022455__000004 Number of predicted TMRs: 0
+OG0022455__000004	inside	1	86				
+//
+# OG0022455__000005 Length: 184
+# OG0022455__000005 Number of predicted TMRs: 0
+OG0022455__000005	inside	1	184				
+//
+# OG0022455__000006 Length: 303
+# OG0022455__000006 Number of predicted TMRs: 0
+OG0022455__000006	inside	1	303				
+//
+# OG0022455__000007 Length: 107
+# OG0022455__000007 Number of predicted TMRs: 0
+OG0022455__000007	inside	1	107				
+//
+# OG0022455__000008 Length: 288
+# OG0022455__000008 Number of predicted TMRs: 0
+OG0022455__000008	signal	1	52				
+OG0022455__000008	outside	53	288				
+//
+# OG0022455__000009 Length: 145
+# OG0022455__000009 Number of predicted TMRs: 0
+OG0022455__000009	inside	1	145				
+//
+# OG0022473__000001 Length: 411
+# OG0022473__000001 Number of predicted TMRs: 1
+OG0022473__000001	signal	1	17				
+OG0022473__000001	outside	18	258				
+OG0022473__000001	TMhelix	259	268				
+OG0022473__000001	inside	269	411				
+//
+# OG0022473__000002 Length: 349
+# OG0022473__000002 Number of predicted TMRs: 0
+OG0022473__000002	inside	1	349				
+//
+# OG0022473__000003 Length: 423
+# OG0022473__000003 Number of predicted TMRs: 1
+OG0022473__000003	signal	1	17				
+OG0022473__000003	outside	18	256				
+OG0022473__000003	TMhelix	257	266				
+OG0022473__000003	inside	267	423				
+//
+# OG0022473__000004 Length: 169
+# OG0022473__000004 Number of predicted TMRs: 0
+OG0022473__000004	inside	1	169				
+//
+# OG0022473__000005 Length: 162
+# OG0022473__000005 Number of predicted TMRs: 0
+OG0022473__000005	inside	1	162				
+//
+# OG0022473__000006 Length: 365
+# OG0022473__000006 Number of predicted TMRs: 1
+OG0022473__000006	signal	1	21				
+OG0022473__000006	outside	22	212				
+OG0022473__000006	TMhelix	213	222				
+OG0022473__000006	inside	223	365				
+//
+# OG0022473__000007 Length: 337
+# OG0022473__000007 Number of predicted TMRs: 0
+OG0022473__000007	inside	1	337				
+//
+# OG0022473__000008 Length: 373
+# OG0022473__000008 Number of predicted TMRs: 0
+OG0022473__000008	signal	1	16				
+OG0022473__000008	outside	17	373				
+//
+# OG0022473__000009 Length: 388
+# OG0022473__000009 Number of predicted TMRs: 0
+OG0022473__000009	inside	1	388				
+//
+# OG0022474__000001 Length: 271
+# OG0022474__000001 Number of predicted TMRs: 0
+OG0022474__000001	inside	1	271				
+//
+# OG0022474__000002 Length: 209
+# OG0022474__000002 Number of predicted TMRs: 0
+OG0022474__000002	inside	1	209				
+//
+# OG0022474__000003 Length: 225
+# OG0022474__000003 Number of predicted TMRs: 0
+OG0022474__000003	inside	1	225				
+//
+# OG0022474__000004 Length: 121
+# OG0022474__000004 Number of predicted TMRs: 0
+OG0022474__000004	inside	1	121				
+//
+# OG0022474__000005 Length: 213
+# OG0022474__000005 Number of predicted TMRs: 0
+OG0022474__000005	inside	1	213				
+//
+# OG0022474__000006 Length: 173
+# OG0022474__000006 Number of predicted TMRs: 0
+OG0022474__000006	inside	1	173				
+//
+# OG0022474__000007 Length: 262
+# OG0022474__000007 Number of predicted TMRs: 0
+OG0022474__000007	inside	1	262				
+//
+# OG0022474__000008 Length: 230
+# OG0022474__000008 Number of predicted TMRs: 0
+OG0022474__000008	inside	1	230				
+//
+# OG0022474__000009 Length: 231
+# OG0022474__000009 Number of predicted TMRs: 0
+OG0022474__000009	inside	1	231				
+//
+# OG0022492__000001 Length: 681
+# OG0022492__000001 Number of predicted TMRs: 0
+OG0022492__000001	inside	1	681				
+//
+# OG0022492__000002 Length: 320
+# OG0022492__000002 Number of predicted TMRs: 0
+OG0022492__000002	inside	1	320				
+//
+# OG0022492__000003 Length: 862
+# OG0022492__000003 Number of predicted TMRs: 0
+OG0022492__000003	inside	1	862				
+//
+# OG0022492__000004 Length: 481
+# OG0022492__000004 Number of predicted TMRs: 0
+OG0022492__000004	inside	1	481				
+//
+# OG0022492__000005 Length: 481
+# OG0022492__000005 Number of predicted TMRs: 0
+OG0022492__000005	inside	1	481				
+//
+# OG0022492__000006 Length: 421
+# OG0022492__000006 Number of predicted TMRs: 0
+OG0022492__000006	inside	1	421				
+//
+# OG0022492__000007 Length: 350
+# OG0022492__000007 Number of predicted TMRs: 0
+OG0022492__000007	inside	1	350				
+//
+# OG0022492__000008 Length: 325
+# OG0022492__000008 Number of predicted TMRs: 0
+OG0022492__000008	inside	1	325				
+//
+# OG0022492__000009 Length: 329
+# OG0022492__000009 Number of predicted TMRs: 0
+OG0022492__000009	inside	1	329				
+//
+# OG0022500__000001 Length: 270
+# OG0022500__000001 Number of predicted TMRs: 0
+OG0022500__000001	inside	1	270				
+//
+# OG0022500__000002 Length: 211
+# OG0022500__000002 Number of predicted TMRs: 0
+OG0022500__000002	outside	1	211				
+//
+# OG0022500__000003 Length: 256
+# OG0022500__000003 Number of predicted TMRs: 0
+OG0022500__000003	inside	1	256				
+//
+# OG0022500__000004 Length: 285
+# OG0022500__000004 Number of predicted TMRs: 0
+OG0022500__000004	inside	1	285				
+//
+# OG0022500__000005 Length: 274
+# OG0022500__000005 Number of predicted TMRs: 0
+OG0022500__000005	inside	1	274				
+//
+# OG0022500__000006 Length: 274
+# OG0022500__000006 Number of predicted TMRs: 0
+OG0022500__000006	inside	1	274				
+//
+# OG0022500__000007 Length: 405
+# OG0022500__000007 Number of predicted TMRs: 0
+OG0022500__000007	inside	1	405				
+//
+# OG0022500__000008 Length: 314
+# OG0022500__000008 Number of predicted TMRs: 0
+OG0022500__000008	inside	1	314				
+//
+# OG0022500__000009 Length: 273
+# OG0022500__000009 Number of predicted TMRs: 0
+OG0022500__000009	inside	1	273				
+//
+# OG0022520__000001 Length: 233
+# OG0022520__000001 Number of predicted TMRs: 0
+OG0022520__000001	inside	1	233				
+//
+# OG0022520__000002 Length: 270
+# OG0022520__000002 Number of predicted TMRs: 0
+OG0022520__000002	inside	1	270				
+//
+# OG0022520__000003 Length: 270
+# OG0022520__000003 Number of predicted TMRs: 0
+OG0022520__000003	inside	1	270				
+//
+# OG0022520__000004 Length: 254
+# OG0022520__000004 Number of predicted TMRs: 0
+OG0022520__000004	inside	1	254				
+//
+# OG0022520__000005 Length: 259
+# OG0022520__000005 Number of predicted TMRs: 0
+OG0022520__000005	inside	1	259				
+//
+# OG0022520__000006 Length: 259
+# OG0022520__000006 Number of predicted TMRs: 0
+OG0022520__000006	inside	1	259				
+//
+# OG0022520__000007 Length: 270
+# OG0022520__000007 Number of predicted TMRs: 0
+OG0022520__000007	inside	1	270				
+//
+# OG0022520__000008 Length: 239
+# OG0022520__000008 Number of predicted TMRs: 0
+OG0022520__000008	inside	1	239				
+//
+# OG0022520__000009 Length: 194
+# OG0022520__000009 Number of predicted TMRs: 0
+OG0022520__000009	inside	1	194				
+//
+# OG0022524__000001 Length: 476
+# OG0022524__000001 Number of predicted TMRs: 0
+OG0022524__000001	inside	1	476				
+//
+# OG0022524__000002 Length: 158
+# OG0022524__000002 Number of predicted TMRs: 0
+OG0022524__000002	inside	1	158				
+//
+# OG0022524__000003 Length: 158
+# OG0022524__000003 Number of predicted TMRs: 0
+OG0022524__000003	inside	1	158				
+//
+# OG0022524__000004 Length: 265
+# OG0022524__000004 Number of predicted TMRs: 0
+OG0022524__000004	inside	1	265				
+//
+# OG0022524__000005 Length: 292
+# OG0022524__000005 Number of predicted TMRs: 0
+OG0022524__000005	inside	1	292				
+//
+# OG0022524__000006 Length: 158
+# OG0022524__000006 Number of predicted TMRs: 0
+OG0022524__000006	inside	1	158				
+//
+# OG0022524__000007 Length: 548
+# OG0022524__000007 Number of predicted TMRs: 0
+OG0022524__000007	inside	1	548				
+//
+# OG0022524__000008 Length: 525
+# OG0022524__000008 Number of predicted TMRs: 0
+OG0022524__000008	inside	1	525				
+//
+# OG0022524__000009 Length: 525
+# OG0022524__000009 Number of predicted TMRs: 0
+OG0022524__000009	inside	1	525				
+//
+# OG0022528__000001 Length: 360
+# OG0022528__000001 Number of predicted TMRs: 0
+OG0022528__000001	inside	1	360				
+//
+# OG0022528__000002 Length: 275
+# OG0022528__000002 Number of predicted TMRs: 0
+OG0022528__000002	inside	1	275				
+//
+# OG0022528__000003 Length: 269
+# OG0022528__000003 Number of predicted TMRs: 0
+OG0022528__000003	inside	1	269				
+//
+# OG0022528__000004 Length: 134
+# OG0022528__000004 Number of predicted TMRs: 0
+OG0022528__000004	inside	1	134				
+//
+# OG0022528__000005 Length: 255
+# OG0022528__000005 Number of predicted TMRs: 0
+OG0022528__000005	inside	1	255				
+//
+# OG0022528__000006 Length: 256
+# OG0022528__000006 Number of predicted TMRs: 0
+OG0022528__000006	inside	1	256				
+//
+# OG0022528__000007 Length: 638
+# OG0022528__000007 Number of predicted TMRs: 0
+OG0022528__000007	inside	1	638				
+//
+# OG0022528__000008 Length: 281
+# OG0022528__000008 Number of predicted TMRs: 0
+OG0022528__000008	inside	1	281				
+//
+# OG0022528__000009 Length: 415
+# OG0022528__000009 Number of predicted TMRs: 0
+OG0022528__000009	inside	1	415				
+//
+# OG0023496__000001 Length: 412
+# OG0023496__000001 Number of predicted TMRs: 0
+OG0023496__000001	inside	1	412				
+//
+# OG0023496__000002 Length: 389
+# OG0023496__000002 Number of predicted TMRs: 0
+OG0023496__000002	inside	1	389				
+//
+# OG0023496__000003 Length: 322
+# OG0023496__000003 Number of predicted TMRs: 0
+OG0023496__000003	inside	1	322				
+//
+# OG0023496__000004 Length: 431
+# OG0023496__000004 Number of predicted TMRs: 0
+OG0023496__000004	inside	1	431				
+//
+# OG0023496__000005 Length: 408
+# OG0023496__000005 Number of predicted TMRs: 0
+OG0023496__000005	inside	1	408				
+//
+# OG0023496__000006 Length: 497
+# OG0023496__000006 Number of predicted TMRs: 0
+OG0023496__000006	inside	1	497				
+//
+# OG0023496__000007 Length: 380
+# OG0023496__000007 Number of predicted TMRs: 0
+OG0023496__000007	inside	1	380				
+//
+# OG0023496__000008 Length: 452
+# OG0023496__000008 Number of predicted TMRs: 0
+OG0023496__000008	inside	1	452				
+//
+# OG0023566__000001 Length: 417
+# OG0023566__000001 Number of predicted TMRs: 0
+OG0023566__000001	signal	1	15				
+OG0023566__000001	outside	16	417				
+//
+# OG0023566__000002 Length: 214
+# OG0023566__000002 Number of predicted TMRs: 0
+OG0023566__000002	inside	1	214				
+//
+# OG0023566__000003 Length: 554
+# OG0023566__000003 Number of predicted TMRs: 0
+OG0023566__000003	signal	1	19				
+OG0023566__000003	outside	20	554				
+//
+# OG0023566__000004 Length: 567
+# OG0023566__000004 Number of predicted TMRs: 0
+OG0023566__000004	inside	1	567				
+//
+# OG0023566__000005 Length: 318
+# OG0023566__000005 Number of predicted TMRs: 0
+OG0023566__000005	inside	1	318				
+//
+# OG0023566__000006 Length: 535
+# OG0023566__000006 Number of predicted TMRs: 0
+OG0023566__000006	inside	1	535				
+//
+# OG0023566__000007 Length: 557
+# OG0023566__000007 Number of predicted TMRs: 0
+OG0023566__000007	inside	1	557				
+//
+# OG0023566__000008 Length: 638
+# OG0023566__000008 Number of predicted TMRs: 1
+OG0023566__000008	inside	1	466				
+OG0023566__000008	TMhelix	467	476				
+OG0023566__000008	outside	477	638				
+//
+# OG0023594__000001 Length: 680
+# OG0023594__000001 Number of predicted TMRs: 0
+OG0023594__000001	outside	1	680				
+//
+# OG0023594__000002 Length: 933
+# OG0023594__000002 Number of predicted TMRs: 2
+OG0023594__000002	signal	1	17				
+OG0023594__000002	outside	18	363				
+OG0023594__000002	TMhelix	364	373				
+OG0023594__000002	inside	374	374				
+OG0023594__000002	TMhelix	375	388				
+OG0023594__000002	outside	389	933				
+//
+# OG0023594__000003 Length: 198
+# OG0023594__000003 Number of predicted TMRs: 0
+OG0023594__000003	inside	1	198				
+//
+# OG0023594__000004 Length: 392
+# OG0023594__000004 Number of predicted TMRs: 0
+OG0023594__000004	outside	1	392				
+//
+# OG0023594__000005 Length: 456
+# OG0023594__000005 Number of predicted TMRs: 0
+OG0023594__000005	inside	1	456				
+//
+# OG0023594__000006 Length: 574
+# OG0023594__000006 Number of predicted TMRs: 0
+OG0023594__000006	outside	1	574				
+//
+# OG0023594__000007 Length: 593
+# OG0023594__000007 Number of predicted TMRs: 0
+OG0023594__000007	outside	1	593				
+//
+# OG0023594__000008 Length: 698
+# OG0023594__000008 Number of predicted TMRs: 0
+OG0023594__000008	outside	1	698				
+//
+# OG0023657__000001 Length: 333
+# OG0023657__000001 Number of predicted TMRs: 0
+OG0023657__000001	inside	1	333				
+//
+# OG0023657__000002 Length: 302
+# OG0023657__000002 Number of predicted TMRs: 0
+OG0023657__000002	inside	1	302				
+//
+# OG0023657__000003 Length: 347
+# OG0023657__000003 Number of predicted TMRs: 0
+OG0023657__000003	inside	1	347				
+//
+# OG0023657__000004 Length: 331
+# OG0023657__000004 Number of predicted TMRs: 0
+OG0023657__000004	inside	1	331				
+//
+# OG0023657__000005 Length: 331
+# OG0023657__000005 Number of predicted TMRs: 0
+OG0023657__000005	inside	1	331				
+//
+# OG0023657__000006 Length: 329
+# OG0023657__000006 Number of predicted TMRs: 0
+OG0023657__000006	inside	1	329				
+//
+# OG0023657__000007 Length: 334
+# OG0023657__000007 Number of predicted TMRs: 0
+OG0023657__000007	inside	1	334				
+//
+# OG0023657__000008 Length: 341
+# OG0023657__000008 Number of predicted TMRs: 0
+OG0023657__000008	inside	1	341				
+//
+# OG0023790__000001 Length: 296
+# OG0023790__000001 Number of predicted TMRs: 0
+OG0023790__000001	inside	1	296				
+//
+# OG0023790__000002 Length: 310
+# OG0023790__000002 Number of predicted TMRs: 0
+OG0023790__000002	inside	1	310				
+//
+# OG0023790__000003 Length: 219
+# OG0023790__000003 Number of predicted TMRs: 0
+OG0023790__000003	signal	1	32				
+OG0023790__000003	outside	33	219				
+//
+# OG0023790__000004 Length: 314
+# OG0023790__000004 Number of predicted TMRs: 0
+OG0023790__000004	signal	1	10				
+OG0023790__000004	outside	11	314				
+//
+# OG0023790__000005 Length: 325
+# OG0023790__000005 Number of predicted TMRs: 0
+OG0023790__000005	signal	1	15				
+OG0023790__000005	outside	16	325				
+//
+# OG0023790__000006 Length: 314
+# OG0023790__000006 Number of predicted TMRs: 0
+OG0023790__000006	signal	1	10				
+OG0023790__000006	outside	11	314				
+//
+# OG0023790__000007 Length: 364
+# OG0023790__000007 Number of predicted TMRs: 0
+OG0023790__000007	inside	1	364				
+//
+# OG0023790__000008 Length: 313
+# OG0023790__000008 Number of predicted TMRs: 0
+OG0023790__000008	inside	1	313				
+//
+# OG0024846__000001 Length: 344
+# OG0024846__000001 Number of predicted TMRs: 0
+OG0024846__000001	outside	1	344				
+//
+# OG0024846__000002 Length: 362
+# OG0024846__000002 Number of predicted TMRs: 0
+OG0024846__000002	inside	1	362				
+//
+# OG0024846__000003 Length: 216
+# OG0024846__000003 Number of predicted TMRs: 0
+OG0024846__000003	inside	1	216				
+//
+# OG0024846__000004 Length: 368
+# OG0024846__000004 Number of predicted TMRs: 0
+OG0024846__000004	signal	1	10				
+OG0024846__000004	outside	11	368				
+//
+# OG0024846__000005 Length: 450
+# OG0024846__000005 Number of predicted TMRs: 0
+OG0024846__000005	outside	1	450				
+//
+# OG0024846__000006 Length: 158
+# OG0024846__000006 Number of predicted TMRs: 0
+OG0024846__000006	signal	1	22				
+OG0024846__000006	outside	23	158				
+//
+# OG0024846__000007 Length: 433
+# OG0024846__000007 Number of predicted TMRs: 0
+OG0024846__000007	inside	1	433				
+//
+# OG0024979__000001 Length: 624
+# OG0024979__000001 Number of predicted TMRs: 0
+OG0024979__000001	inside	1	624				
+//
+# OG0024979__000002 Length: 139
+# OG0024979__000002 Number of predicted TMRs: 0
+OG0024979__000002	inside	1	139				
+//
+# OG0024979__000003 Length: 232
+# OG0024979__000003 Number of predicted TMRs: 0
+OG0024979__000003	inside	1	232				
+//
+# OG0024979__000004 Length: 1097
+# OG0024979__000004 Number of predicted TMRs: 0
+OG0024979__000004	inside	1	1097				
+//
+# OG0024979__000005 Length: 534
+# OG0024979__000005 Number of predicted TMRs: 0
+OG0024979__000005	inside	1	534				
+//
+# OG0024979__000006 Length: 232
+# OG0024979__000006 Number of predicted TMRs: 0
+OG0024979__000006	inside	1	232				
+//
+# OG0024979__000007 Length: 586
+# OG0024979__000007 Number of predicted TMRs: 0
+OG0024979__000007	inside	1	586				
+//
+# OG0025015__000001 Length: 235
+# OG0025015__000001 Number of predicted TMRs: 3
+OG0025015__000001	inside	1	123				
+OG0025015__000001	TMhelix	124	147				
+OG0025015__000001	outside	148	155				
+OG0025015__000001	TMhelix	156	177				
+OG0025015__000001	inside	178	189				
+OG0025015__000001	TMhelix	190	211				
+OG0025015__000001	outside	212	235				
+//
+# OG0025015__000002 Length: 114
+# OG0025015__000002 Number of predicted TMRs: 2
+OG0025015__000002	inside	1	8				
+OG0025015__000002	TMhelix	9	26				
+OG0025015__000002	outside	27	62				
+OG0025015__000002	TMhelix	63	83				
+OG0025015__000002	inside	84	114				
+//
+# OG0025015__000003 Length: 164
+# OG0025015__000003 Number of predicted TMRs: 4
+OG0025015__000003	inside	1	8				
+OG0025015__000003	TMhelix	9	27				
+OG0025015__000003	outside	28	52				
+OG0025015__000003	TMhelix	53	73				
+OG0025015__000003	inside	74	83				
+OG0025015__000003	TMhelix	84	104				
+OG0025015__000003	outside	105	118				
+OG0025015__000003	TMhelix	119	137				
+OG0025015__000003	inside	138	164				
+//
+# OG0025015__000004 Length: 179
+# OG0025015__000004 Number of predicted TMRs: 4
+OG0025015__000004	outside	1	12				
+OG0025015__000004	TMhelix	13	31				
+OG0025015__000004	inside	32	58				
+OG0025015__000004	TMhelix	59	80				
+OG0025015__000004	outside	81	91				
+OG0025015__000004	TMhelix	92	107				
+OG0025015__000004	inside	108	120				
+OG0025015__000004	TMhelix	121	130				
+OG0025015__000004	outside	131	179				
+//
+# OG0025015__000005 Length: 134
+# OG0025015__000005 Number of predicted TMRs: 3
+OG0025015__000005	inside	1	23				
+OG0025015__000005	TMhelix	24	47				
+OG0025015__000005	outside	48	54				
+OG0025015__000005	TMhelix	55	75				
+OG0025015__000005	inside	76	89				
+OG0025015__000005	TMhelix	90	110				
+OG0025015__000005	outside	111	134				
+//
+# OG0025015__000006 Length: 177
+# OG0025015__000006 Number of predicted TMRs: 2
+OG0025015__000006	inside	1	7				
+OG0025015__000006	TMhelix	8	31				
+OG0025015__000006	outside	32	38				
+OG0025015__000006	TMhelix	39	59				
+OG0025015__000006	inside	60	177				
+//
+# OG0025015__000007 Length: 168
+# OG0025015__000007 Number of predicted TMRs: 4
+OG0025015__000007	outside	1	12				
+OG0025015__000007	TMhelix	13	31				
+OG0025015__000007	inside	32	58				
+OG0025015__000007	TMhelix	59	80				
+OG0025015__000007	outside	81	89				
+OG0025015__000007	TMhelix	90	110				
+OG0025015__000007	inside	111	123				
+OG0025015__000007	TMhelix	124	144				
+OG0025015__000007	outside	145	168				
+//
+# OG0025016__000001 Length: 219
+# OG0025016__000001 Number of predicted TMRs: 0
+OG0025016__000001	inside	1	219				
+//
+# OG0025016__000002 Length: 161
+# OG0025016__000002 Number of predicted TMRs: 0
+OG0025016__000002	inside	1	161				
+//
+# OG0025016__000003 Length: 240
+# OG0025016__000003 Number of predicted TMRs: 0
+OG0025016__000003	inside	1	240				
+//
+# OG0025016__000004 Length: 210
+# OG0025016__000004 Number of predicted TMRs: 0
+OG0025016__000004	inside	1	210				
+//
+# OG0025016__000005 Length: 219
+# OG0025016__000005 Number of predicted TMRs: 0
+OG0025016__000005	inside	1	219				
+//
+# OG0025016__000006 Length: 222
+# OG0025016__000006 Number of predicted TMRs: 0
+OG0025016__000006	inside	1	222				
+//
+# OG0025016__000007 Length: 245
+# OG0025016__000007 Number of predicted TMRs: 0
+OG0025016__000007	inside	1	245				
+//
+# OG0025059__000001 Length: 362
+# OG0025059__000001 Number of predicted TMRs: 0
+OG0025059__000001	inside	1	362				
+//
+# OG0025059__000002 Length: 158
+# OG0025059__000002 Number of predicted TMRs: 0
+OG0025059__000002	inside	1	158				
+//
+# OG0025059__000003 Length: 167
+# OG0025059__000003 Number of predicted TMRs: 0
+OG0025059__000003	signal	1	31				
+OG0025059__000003	outside	32	167				
+//
+# OG0025059__000004 Length: 169
+# OG0025059__000004 Number of predicted TMRs: 0
+OG0025059__000004	signal	1	17				
+OG0025059__000004	outside	18	169				
+//
+# OG0025059__000005 Length: 187
+# OG0025059__000005 Number of predicted TMRs: 0
+OG0025059__000005	signal	1	24				
+OG0025059__000005	outside	25	187				
+//
+# OG0025059__000006 Length: 187
+# OG0025059__000006 Number of predicted TMRs: 0
+OG0025059__000006	signal	1	24				
+OG0025059__000006	outside	25	187				
+//
+# OG0025059__000007 Length: 175
+# OG0025059__000007 Number of predicted TMRs: 0
+OG0025059__000007	signal	1	21				
+OG0025059__000007	outside	22	175				
+//
+# OG0026865__000001 Length: 433
+# OG0026865__000001 Number of predicted TMRs: 0
+OG0026865__000001	inside	1	433				
+//
+# OG0026865__000002 Length: 421
+# OG0026865__000002 Number of predicted TMRs: 0
+OG0026865__000002	inside	1	421				
+//
+# OG0026865__000003 Length: 644
+# OG0026865__000003 Number of predicted TMRs: 0
+OG0026865__000003	inside	1	644				
+//
+# OG0026865__000004 Length: 444
+# OG0026865__000004 Number of predicted TMRs: 0
+OG0026865__000004	inside	1	444				
+//
+# OG0026865__000005 Length: 579
+# OG0026865__000005 Number of predicted TMRs: 0
+OG0026865__000005	inside	1	579				
+//
+# OG0026865__000006 Length: 430
+# OG0026865__000006 Number of predicted TMRs: 0
+OG0026865__000006	inside	1	430				

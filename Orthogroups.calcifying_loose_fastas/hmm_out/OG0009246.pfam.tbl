@@ -1,0 +1,14 @@
+#                                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                 -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tRNA-synt_2          PF00152.26 jgi|Callep1130_1|4312269|estExt_Genemark4ET.C_13500017 -            2.1e-06   27.6  71.4       3.8    7.1   0.2  13.6  13   1   1  14  14   0  13 tRNA synthetases class II (D, K and N)
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0009246.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmpvg4x72ui_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0009246.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0009246.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:23:08 2026
+# [ok]

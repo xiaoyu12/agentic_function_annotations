@@ -1,0 +1,16 @@
+#                                                                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                              accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                    -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+RHD3_GTPase          PF05879.19 jgi|Hymcor1016_1|2075426|fgenesh1_kg.28_#_325_#_ONATT_transcript_3816 -            7.1e-11   42.6   0.0   5.8e-10   39.6   0.0   2.1   2   0   0   2   2   1   1 Root hair defective 3 GTP-binding protein (RHD3) GTPase domain
+RHD3_GTPase          PF05879.19 jgi|Pleelo874_1|5772111|fgenesh1_kg.2549_#_110_#_OTBYH_transcript_22368 -            4.1e-05   23.7   0.0   0.00015   21.9   0.0   1.9   2   1   0   2   2   1   1 Root hair defective 3 GTP-binding protein (RHD3) GTPase domain
+RHD3_GTPase          PF05879.19 jgi|Umbfol2878_1|5973630|fgenesh1_kg.390_#_60_#_TRINITY_DN23768_c1_g1_i16 -            3.7e-05   23.8   0.0   0.00026   21.1   0.0   2.3   2   1   0   2   2   1   1 Root hair defective 3 GTP-binding protein (RHD3) GTPase domain
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0023566.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmp5bwqft85_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0023566.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0023566.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:27:16 2026
+# [ok]

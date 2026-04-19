@@ -1,0 +1,27 @@
+#                                                                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                               accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                     -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Trypsin              PF00089.33 jgi|Callep1130_1|3665829|fgenesh1_kg.4780_#_12_#_TRINITY_DN1642_c0_g1_i4 -            1.4e-21   77.9   0.0   1.6e-21   77.8   0.0   1.0   1   0   0   1   1   1   1 Trypsin
+Trypsin              PF00089.33 jgi|Emihu1|433953|estExtDG_fgenesh_newKGs_kg.C_150069 -            8.9e-46  157.1   0.0   1.4e-44  153.1   0.0   2.0   1   1   0   1   1   1   1 Trypsin
+Trypsin_2            PF13365.13 jgi|Emihu1|433953|estExtDG_fgenesh_newKGs_kg.C_150069 -            3.6e-05   25.1   2.8   0.00019   22.8   2.5   2.3   1   1   0   1   1   1   1 Trypsin-like peptidase domain
+Trypsin              PF00089.33 jgi|Gepoce1|387249|evm.geph.scaffold_490.12 -            1.7e-23   84.2   0.0   2.3e-22   80.5   0.0   2.0   1   1   0   1   1   1   1 Trypsin
+Trypsin              PF00089.33 jgi|Gepoce1|391242|evm.geph.scaffold_571.18 -            2.1e-45  155.8   0.0   3.5e-44  151.8   0.0   2.0   1   1   0   1   1   1   1 Trypsin
+Trypsin_2            PF13365.13 jgi|Gepoce1|391242|evm.geph.scaffold_571.18 -            2.4e-05   25.7   2.1   0.00013   23.3   2.0   2.2   1   1   0   1   1   1   1 Trypsin-like peptidase domain
+Trypsin              PF00089.33 jgi|Hymcor1016_1|2565196|gm4et.14226_g -            1.2e-24   87.9   0.0   1.6e-24   87.5   0.0   1.1   1   0   0   1   1   1   1 Trypsin
+DUF1986              PF09342.17 jgi|Hymcor1016_1|2565196|gm4et.14226_g -            1.1e-05   26.3   0.1   2.7e-05   25.1   0.1   1.6   1   1   0   1   1   1   1 Domain of unknown function (DUF1986)
+Trypsin              PF00089.33 jgi|IsochDm2_1|1193862|fgenesh1_kg.22_#_1431_#_ONZOT_transcript_64150 -            3.1e-45  155.3   0.0   1.4e-44  153.1   0.0   1.8   1   1   0   1   1   1   1 Trypsin
+Trypsin              PF00089.33 jgi|Isogal1|87656|evm.iso.scaffold_74.67 -            2.1e-45  155.8   0.0   9.4e-45  153.7   0.0   1.8   1   1   0   1   1   1   1 Trypsin
+Trypsin              PF00089.33 jgi|Ochro3194_1|4488747|fgenesh1_kg.151_393_ONZOP_transcript_25990 -            1.4e-43  149.8   0.0   1.6e-42  146.4   0.0   2.0   1   1   0   1   1   1   1 Trypsin
+Trypsin              PF00089.33 jgi|Ochro3194_1|4616078|fgenesh1_kg.233_906_OTBYT_transcript_41042 -            2.1e-45  155.8   0.0   3.5e-44  151.8   0.0   2.0   1   1   0   1   1   1   1 Trypsin
+Trypsin_2            PF13365.13 jgi|Ochro3194_1|4616078|fgenesh1_kg.233_906_OTBYT_transcript_41042 -            2.4e-05   25.7   2.1   0.00013   23.3   2.0   2.2   1   1   0   1   1   1   1 Trypsin-like peptidase domain
+Trypsin              PF00089.33 jgi|Pleelo874_1|5536249|fgenesh1_kg.1418_#_334_#_TRINITY_DN6181_c0_g1_i3 -            3.6e-34  119.1   0.5   5.3e-34  118.5   0.5   1.2   1   0   0   1   1   1   1 Trypsin
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0021347.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmpwhfoi7i7_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0021347.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0021347.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:26:30 2026
+# [ok]

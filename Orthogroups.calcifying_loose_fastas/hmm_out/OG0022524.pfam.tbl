@@ -1,0 +1,44 @@
+#                                                                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                              accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                    -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Pentapeptide         PF00805.29 jgi|Callep1130_1|3629643|fgenesh1_kg.4247_#_85_#_OTBYP_transcript_25030 -            4.4e-66  218.5  42.3     4e-11   42.8   3.3  11.4   4   3   6  12  12  11  11 Pentapeptide repeats (8 copies)
+Pentapeptide_4       PF13599.14 jgi|Callep1130_1|3629643|fgenesh1_kg.4247_#_85_#_OTBYP_transcript_25030 -            8.6e-35  119.3   0.0   3.6e-08   33.9   0.0   5.8   2   2   4   6   6   5   6 Pentapeptide repeat region
+Pentapeptide_3       PF13576.13 jgi|Callep1130_1|3629643|fgenesh1_kg.4247_#_85_#_OTBYP_transcript_25030 -              1e-29  103.0  17.9   2.1e-07   31.6   1.4   8.8   4   2   3   9   9   6   8 Pentapeptide repeats (9 copies)
+Decapeptide          PF25296.2  jgi|Callep1130_1|3629643|fgenesh1_kg.4247_#_85_#_OTBYP_transcript_25030 -            1.7e-08   34.8  15.3   0.00024   21.5   1.0   4.5   3   1   1   4   4   2   3 Decapeptide repeat region
+Pentapeptide         PF00805.29 jgi|Emihu1|364206|fgenesh_newKGs_kg.162__31__2691460_1 -            1.4e-20   73.0  20.5   8.4e-09   35.4   2.9   5.2   3   1   1   5   5   3   4 Pentapeptide repeats (8 copies)
+Pentapeptide_4       PF13599.14 jgi|Emihu1|364206|fgenesh_newKGs_kg.162__31__2691460_1 -            4.2e-11   43.4   0.0     3e-06   27.8   0.0   2.7   1   1   1   2   2   2   2 Pentapeptide repeat region
+Pentapeptide_3       PF13576.13 jgi|Emihu1|364206|fgenesh_newKGs_kg.162__31__2691460_1 -            3.8e-08   34.0   0.9     0.018   15.8   0.1   4.6   1   1   0   2   2   1   2 Pentapeptide repeats (9 copies)
+Pentapeptide         PF00805.29 jgi|Emihu1|373175|fgenesh_newKGs_kg.1254__2__2691460_1 -            5.5e-20   71.2  19.6   3.9e-08   33.3   2.2   5.3   3   1   1   5   5   3   4 Pentapeptide repeats (8 copies)
+Pentapeptide_4       PF13599.14 jgi|Emihu1|373175|fgenesh_newKGs_kg.1254__2__2691460_1 -            1.3e-11   45.0   0.0   8.8e-07   29.5   0.0   2.7   1   1   1   2   2   2   2 Pentapeptide repeat region
+Pentapeptide_3       PF13576.13 jgi|Emihu1|373175|fgenesh_newKGs_kg.1254__2__2691460_1 -            5.4e-08   33.5   1.1     0.042   14.6   0.0   4.6   1   1   2   4   4   3   4 Pentapeptide repeats (9 copies)
+Pentapeptide         PF00805.29 jgi|Gepoce1|374636|evm.geph.scaffold_194.4 -              1e-42  143.8  38.5   3.8e-11   42.9   4.8   8.1   5   3   3   8   8   5   8 Pentapeptide repeats (8 copies)
+Pentapeptide_4       PF13599.14 jgi|Gepoce1|374636|evm.geph.scaffold_194.4 -            8.8e-20   71.2   0.0   4.8e-05   23.9   0.0   4.7   1   1   2   4   4   4   4 Pentapeptide repeat region
+Pentapeptide_3       PF13576.13 jgi|Gepoce1|374636|evm.geph.scaffold_194.4 -            2.4e-16   60.3  15.0   1.5e-06   28.9   1.9   7.1   3   2   2   6   6   2   5 Pentapeptide repeats (9 copies)
+Pentapeptide         PF00805.29 jgi|Hymcor1016_1|2482859|MIX31231_6_52 -            9.9e-46  153.4  29.6   6.2e-12   45.4   2.3   7.0   3   2   2   6   6   6   6 Pentapeptide repeats (8 copies)
+Pentapeptide_4       PF13599.14 jgi|Hymcor1016_1|2482859|MIX31231_6_52 -            1.3e-18   67.4   0.0   2.7e-06   27.9   0.0   4.1   1   1   3   4   4   4   4 Pentapeptide repeat region
+Pentapeptide_3       PF13576.13 jgi|Hymcor1016_1|2482859|MIX31231_6_52 -            6.1e-17   62.2   7.1    0.0017   19.1   0.2   5.8   1   1   2   4   4   3   4 Pentapeptide repeats (9 copies)
+Decapeptide          PF25296.2  jgi|Hymcor1016_1|2482859|MIX31231_6_52 -            1.4e-06   28.6   1.9    0.0045   17.4   0.0   3.6   1   1   3   4   4   1   3 Decapeptide repeat region
+Pentapeptide         PF00805.29 jgi|Ochro3194_1|4714313|fgenesh1_kg.371_603_OTBYT_transcript_83978 -            2.7e-21   75.3  20.4   2.7e-09   37.0   2.5   5.1   4   1   1   5   5   3   4 Pentapeptide repeats (8 copies)
+Pentapeptide_4       PF13599.14 jgi|Ochro3194_1|4714313|fgenesh1_kg.371_603_OTBYT_transcript_83978 -            1.2e-10   41.8   0.0   9.7e-06   26.2   0.0   2.7   1   1   1   2   2   2   2 Pentapeptide repeat region
+Pentapeptide_3       PF13576.13 jgi|Ochro3194_1|4714313|fgenesh1_kg.371_603_OTBYT_transcript_83978 -            5.5e-09   36.7   0.8     0.015   16.1   0.0   4.4   1   1   1   3   3   1   3 Pentapeptide repeats (9 copies)
+Pentapeptide         PF00805.29 jgi|Pleelo874_1|5174582|fgenesh1_kg.310_#_147_#_TRINITY_DN3389_c0_g3_i1 -            1.2e-66  220.3  49.1   8.4e-12   45.0   0.8  11.9   4   3   5  13  13  10  13 Pentapeptide repeats (8 copies)
+Pentapeptide_4       PF13599.14 jgi|Pleelo874_1|5174582|fgenesh1_kg.310_#_147_#_TRINITY_DN3389_c0_g3_i1 -            1.1e-31  109.4   0.0   2.1e-08   34.7   0.0   6.4   2   2   4   6   6   5   6 Pentapeptide repeat region
+Pentapeptide_3       PF13576.13 jgi|Pleelo874_1|5174582|fgenesh1_kg.310_#_147_#_TRINITY_DN3389_c0_g3_i1 -              1e-27   96.7   3.9   0.00055   20.7   0.1  10.1   3   3   7  11  11   5   9 Pentapeptide repeats (9 copies)
+Pentapeptide         PF00805.29 jgi|Umbfol2878_1|5556916|fgenesh1_kg.33_#_2859_#_TRINITY_DN2544_c0_g1_i7 -            5.1e-74  243.9  51.8   1.2e-11   44.5   0.3  11.5   4   3   4  11  11  11  11 Pentapeptide repeats (8 copies)
+Pentapeptide_4       PF13599.14 jgi|Umbfol2878_1|5556916|fgenesh1_kg.33_#_2859_#_TRINITY_DN2544_c0_g1_i7 -            5.8e-38  129.4   0.0   4.7e-09   36.8   0.0   6.3   2   2   4   6   6   6   6 Pentapeptide repeat region
+Pentapeptide_3       PF13576.13 jgi|Umbfol2878_1|5556916|fgenesh1_kg.33_#_2859_#_TRINITY_DN2544_c0_g1_i7 -            3.6e-29  101.3  30.2   1.2e-06   29.2   5.3  10.4   4   3   5   9   9   4   7 Pentapeptide repeats (9 copies)
+Decapeptide          PF25296.2  jgi|Umbfol2878_1|5556916|fgenesh1_kg.33_#_2859_#_TRINITY_DN2544_c0_g1_i7 -            5.7e-10   39.5  14.8    0.0062   17.0   0.4   4.5   4   1   0   4   4   3   3 Decapeptide repeat region
+Pentapeptide         PF00805.29 jgi|Umbfol2878_1|5653494|fgenesh1_kg.69_#_264_#_TRINITY_DN2544_c0_g1_i7 -            5.1e-74  243.9  51.8   1.2e-11   44.5   0.3  11.5   4   3   4  11  11  11  11 Pentapeptide repeats (8 copies)
+Pentapeptide_4       PF13599.14 jgi|Umbfol2878_1|5653494|fgenesh1_kg.69_#_264_#_TRINITY_DN2544_c0_g1_i7 -            5.8e-38  129.4   0.0   4.7e-09   36.8   0.0   6.3   2   2   4   6   6   6   6 Pentapeptide repeat region
+Pentapeptide_3       PF13576.13 jgi|Umbfol2878_1|5653494|fgenesh1_kg.69_#_264_#_TRINITY_DN2544_c0_g1_i7 -            3.6e-29  101.3  30.2   1.2e-06   29.2   5.3  10.4   4   3   5   9   9   4   7 Pentapeptide repeats (9 copies)
+Decapeptide          PF25296.2  jgi|Umbfol2878_1|5653494|fgenesh1_kg.69_#_264_#_TRINITY_DN2544_c0_g1_i7 -            5.7e-10   39.5  14.8    0.0062   17.0   0.4   4.5   4   1   0   4   4   3   3 Decapeptide repeat region
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0022524.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmpls1s64vl_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0022524.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0022524.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:27:11 2026
+# [ok]

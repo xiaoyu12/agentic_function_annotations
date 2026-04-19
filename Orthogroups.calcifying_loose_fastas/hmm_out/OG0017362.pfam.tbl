@@ -1,0 +1,18 @@
+#                                                                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                              accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                    -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+RCC_reductase        PF06405.17 jgi|Callep1130_1|3633808|fgenesh1_kg.4299_#_7_#_OTBYP_transcript_11039 -            6.6e-07   29.4   0.0     1e-06   28.8   0.0   1.2   1   0   0   1   1   1   1 Red chlorophyll catabolite reductase (RCC reductase)
+RCC_reductase        PF06405.17 jgi|Chrsim136_1|2914042|gw1.46.2380.1 -            9.5e-07   28.9   0.0   1.6e-06   28.1   0.0   1.3   1   0   0   1   1   1   1 Red chlorophyll catabolite reductase (RCC reductase)
+Exo_endo_phos        PF03372.30 jgi|Emihu1|462994|estExtDG_fgeneshEH_pg.C_200051 -            5.8e-13   49.7   6.0   2.1e-12   47.8   6.0   2.1   1   1   0   1   1   1   1 Endonuclease/Exonuclease/phosphatase family
+Abhydrolase_5        PF12695.14 jgi|Hymcor1016_1|2520870|estExt_fgenesh1_pg.C_280005 -            8.3e-05   23.0   0.1      0.33   11.3   0.0   2.7   2   1   0   2   2   2   2 Alpha/beta hydrolase family
+RCC_reductase        PF06405.17 jgi|Umbfol2878_1|5449354|fgenesh1_kg.3_#_2263_#_TRINITY_DN44211_c0_g1_i1 -            2.4e-05   24.3   0.0   3.9e-05   23.6   0.0   1.2   1   0   0   1   1   1   1 Red chlorophyll catabolite reductase (RCC reductase)
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0017362.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmp64u4hk56_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0017362.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0017362.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:25:05 2026
+# [ok]

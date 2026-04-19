@@ -1,0 +1,32 @@
+jgi|Callep1130_1|4230272|gm4et.18323_g	sp|Q8IDX6|RH2A_PLAF7	sp|Q8IDX6|RH2A_PLAF7 Reticulocyte-binding protein homolog 2a OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=RH2a PE=1 SV=1	27.907	215	5.99e-04	46.6
+jgi|Callep1130_1|4280454|gm4et.68505_g	sp|Q8IDX6|RH2A_PLAF7	sp|Q8IDX6|RH2A_PLAF7 Reticulocyte-binding protein homolog 2a OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=RH2a PE=1 SV=1	27.907	215	5.99e-04	46.6
+jgi|Emihu1|115708|fgeneshEH_pg.262__1	sp|A0A1B4XBG9|SDND_SORAA	sp|A0A1B4XBG9|SDND_SORAA Methyltransferase sdnD OS=Sordaria araneosa OX=573841 GN=sdnD PE=3 SV=1	42.857	56	1.71e-06	53.1
+jgi|Emihu1|115708|fgeneshEH_pg.262__1	sp|J4KLK4|MT1_BEAB2	sp|J4KLK4|MT1_BEAB2 Methyltransferase 1 OS=Beauveria bassiana (strain ARSEF 2860) OX=655819 GN=BBA_08685 PE=2 SV=1	34.545	55	8.36e-04	45.1
+jgi|Gepoce1|375749|evm.geph.scaffold_2113.1	sp|P54137|NTH_CAEEL	sp|P54137|NTH_CAEEL Endonuclease III homolog OS=Caenorhabditis elegans OX=6239 GN=nth-1 PE=1 SV=2	48.052	77	7.09e-11	65.5
+jgi|Gepoce1|375749|evm.geph.scaffold_2113.1	sp|A7M7B9|NTH_CHICK	sp|A7M7B9|NTH_CHICK Endonuclease III-like protein 1 OS=Gallus gallus OX=9031 GN=NTHL1 PE=2 SV=1	35.766	137	3.70e-09	60.5
+jgi|Gepoce1|375749|evm.geph.scaffold_2113.1	sp|Q2KID2|NTH_BOVIN	sp|Q2KID2|NTH_BOVIN Endonuclease III-like protein 1 OS=Bos taurus OX=9913 GN=NTHL1 PE=2 SV=1	32.877	146	3.81e-09	60.5
+jgi|Pleelo874_1|6485806|MIX16057_2_5	sp|Q6P9Q6|FKB15_MOUSE	sp|Q6P9Q6|FKB15_MOUSE FK506-binding protein 15 OS=Mus musculus OX=10090 GN=Fkbp15 PE=1 SV=2	33.113	151	4.66e-04	48.9
+jgi|Pleelo874_1|6487285|MIX17536_2_5	sp|Q7TT50|MRCKB_MOUSE	sp|Q7TT50|MRCKB_MOUSE Serine/threonine-protein kinase MRCK beta OS=Mus musculus OX=10090 GN=Cdc42bpb PE=1 SV=2	26.941	219	3.68e-04	49.3
+jgi|Pleelo874_1|6487285|MIX17536_2_5	sp|Q6P9Q6|FKB15_MOUSE	sp|Q6P9Q6|FKB15_MOUSE FK506-binding protein 15 OS=Mus musculus OX=10090 GN=Fkbp15 PE=1 SV=2	33.113	151	4.42e-04	48.9
+jgi|Pleelo874_1|6820869|gm4et.2760_g	sp|Q8IDX6|RH2A_PLAF7	sp|Q8IDX6|RH2A_PLAF7 Reticulocyte-binding protein homolog 2a OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=RH2a PE=1 SV=1	28.333	120	2.68e-04	47.4
+jgi|Pleelo874_1|6826931|gm4et.8822_g	sp|Q8IDX6|RH2A_PLAF7	sp|Q8IDX6|RH2A_PLAF7 Reticulocyte-binding protein homolog 2a OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=RH2a PE=1 SV=1	26.471	136	1.07e-04	48.9
+jgi|Pleelo874_1|6833423|gm4et.15314_g	sp|Q8IDX6|RH2A_PLAF7	sp|Q8IDX6|RH2A_PLAF7 Reticulocyte-binding protein homolog 2a OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=RH2a PE=1 SV=1	26.761	142	5.98e-04	45.8
+jgi|Pleelo874_1|6860295|gm4et.42186_g	sp|Q6P9Q6|FKB15_MOUSE	sp|Q6P9Q6|FKB15_MOUSE FK506-binding protein 15 OS=Mus musculus OX=10090 GN=Fkbp15 PE=1 SV=2	35.762	151	9.90e-05	50.4
+jgi|Pleelo874_1|6860295|gm4et.42186_g	sp|Q5T1M5|FKB15_HUMAN	sp|Q5T1M5|FKB15_HUMAN FK506-binding protein 15 OS=Homo sapiens OX=9606 GN=FKBP15 PE=1 SV=2	33.784	148	6.83e-04	47.8
+jgi|Pleelo874_1|6866555|gm4et.48446_g	sp|Q6P9Q6|FKB15_MOUSE	sp|Q6P9Q6|FKB15_MOUSE FK506-binding protein 15 OS=Mus musculus OX=10090 GN=Fkbp15 PE=1 SV=2	35.762	151	3.31e-05	52.0
+jgi|Pleelo874_1|6866555|gm4et.48446_g	sp|Q5T1M5|FKB15_HUMAN	sp|Q5T1M5|FKB15_HUMAN FK506-binding protein 15 OS=Homo sapiens OX=9606 GN=FKBP15 PE=1 SV=2	33.784	148	1.86e-04	49.7
+jgi|Pleelo874_1|6883458|gm4et.65349_g	sp|Q6P9Q6|FKB15_MOUSE	sp|Q6P9Q6|FKB15_MOUSE FK506-binding protein 15 OS=Mus musculus OX=10090 GN=Fkbp15 PE=1 SV=2	34.437	151	3.02e-04	48.9
+jgi|Pleelo874_1|6917286|gm4et.99177_g	sp|P35580|MYH10_HUMAN	sp|P35580|MYH10_HUMAN Myosin-10 OS=Homo sapiens OX=9606 GN=MYH10 PE=1 SV=3	25.843	178	2.25e-04	49.3
+jgi|Pleelo874_1|6917286|gm4et.99177_g	sp|Q27991|MYH10_BOVIN	sp|Q27991|MYH10_BOVIN Myosin-10 OS=Bos taurus OX=9913 GN=MYH10 PE=2 SV=2	25.843	178	2.97e-04	48.9
+jgi|Pleelo874_1|6917286|gm4et.99177_g	sp|Q61879|MYH10_MOUSE	sp|Q61879|MYH10_MOUSE Myosin-10 OS=Mus musculus OX=10090 GN=Myh10 PE=1 SV=2	25.146	171	3.92e-04	48.5
+jgi|Pleelo874_1|6939664|gm4et.121555_g	sp|Q6P9Q6|FKB15_MOUSE	sp|Q6P9Q6|FKB15_MOUSE FK506-binding protein 15 OS=Mus musculus OX=10090 GN=Fkbp15 PE=1 SV=2	35.762	151	3.86e-05	52.0
+jgi|Pleelo874_1|6939664|gm4et.121555_g	sp|Q5T1M5|FKB15_HUMAN	sp|Q5T1M5|FKB15_HUMAN FK506-binding protein 15 OS=Homo sapiens OX=9606 GN=FKBP15 PE=1 SV=2	33.784	148	2.19e-04	49.3
+jgi|Pleelo874_1|6953994|gm4et.135885_g	sp|O00291|HIP1_HUMAN	sp|O00291|HIP1_HUMAN Huntingtin-interacting protein 1 OS=Homo sapiens OX=9606 GN=HIP1 PE=1 SV=5	29.258	229	0.001	46.6
+jgi|Pleelo874_1|6995573|gm4et.177464_g	sp|Q8IDX6|RH2A_PLAF7	sp|Q8IDX6|RH2A_PLAF7 Reticulocyte-binding protein homolog 2a OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=RH2a PE=1 SV=1	27.953	254	9.13e-05	50.4
+jgi|Pleelo874_1|6999565|gm4et.181456_g	sp|F6XLV1|CRCC2_MOUSE	sp|F6XLV1|CRCC2_MOUSE Ciliary rootlet coiled-coil protein 2 OS=Mus musculus OX=10090 GN=Crocc2 PE=3 SV=2	26.953	256	1.88e-04	49.7
+jgi|Pleelo874_1|7000257|gm4et.182148_g	sp|Q6P9Q6|FKB15_MOUSE	sp|Q6P9Q6|FKB15_MOUSE FK506-binding protein 15 OS=Mus musculus OX=10090 GN=Fkbp15 PE=1 SV=2	34.437	151	3.26e-04	48.9
+jgi|Umbfol2878_1|6333872|gm4et.29456_g	sp|P15800|LAMB2_RAT	sp|P15800|LAMB2_RAT Laminin subunit beta-2 OS=Rattus norvegicus OX=10116 GN=Lamb2 PE=1 SV=1	25.676	296	2.65e-05	51.2
+jgi|Umbfol2878_1|6333872|gm4et.29456_g	sp|Q61292|LAMB2_MOUSE	sp|Q61292|LAMB2_MOUSE Laminin subunit beta-2 OS=Mus musculus OX=10090 GN=Lamb2 PE=1 SV=2	24.150	294	5.77e-05	50.1
+jgi|Umbfol2878_1|6333872|gm4et.29456_g	sp|P19137|LAMA1_MOUSE	sp|P19137|LAMA1_MOUSE Laminin subunit alpha-1 OS=Mus musculus OX=10090 GN=Lama1 PE=1 SV=2	24.390	246	6.08e-04	47.0
+jgi|Umbfol2878_1|6411234|estExt_Genemark4ET.C_15_t20014	sp|P27951|BAG_STRAG	sp|P27951|BAG_STRAG IgA FC receptor OS=Streptococcus agalactiae OX=1311 GN=bag PE=1 SV=1	29.661	118	2.24e-04	46.2
+jgi|Umbfol2878_1|6411234|estExt_Genemark4ET.C_15_t20014	sp|A8DYP0|OBSCN_DROME	sp|A8DYP0|OBSCN_DROME Protein Obscurin OS=Drosophila melanogaster OX=7227 GN=Obsc PE=1 SV=1	23.571	140	3.32e-04	45.8

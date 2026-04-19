@@ -1,0 +1,30 @@
+jgi|Callep1130_1|3302777|fgenesh1_kg.1085_#_109_#_TRINITY_DN6431_c0_g1_i1	sp|P37039|NCPR_CAVPO	sp|P37039|NCPR_CAVPO NADPH--cytochrome P450 reductase OS=Cavia porcellus OX=10141 GN=Por PE=2 SV=2	36.296	675	3.45e-132	406
+jgi|Callep1130_1|3302777|fgenesh1_kg.1085_#_109_#_TRINITY_DN6431_c0_g1_i1	sp|Q0J705|NCPR2_ORYSJ	sp|Q0J705|NCPR2_ORYSJ NADPH--cytochrome P450 reductase 2 OS=Oryza sativa subsp. japonica OX=39947 GN=CPR2 PE=1 SV=2	38.658	626	2.02e-127	395
+jgi|Callep1130_1|3302777|fgenesh1_kg.1085_#_109_#_TRINITY_DN6431_c0_g1_i1	sp|Q3SYT8|NCPR_BOVIN	sp|Q3SYT8|NCPR_BOVIN NADPH--cytochrome P450 reductase OS=Bos taurus OX=9913 GN=POR PE=2 SV=3	37.400	623	4.45e-127	393
+jgi|Emihu1|221860|gm1.9900069	sp|P00389|NCPR_RABIT	sp|P00389|NCPR_RABIT NADPH--cytochrome P450 reductase OS=Oryctolagus cuniculus OX=9986 GN=POR PE=1 SV=1	36.548	197	2.47e-26	115
+jgi|Emihu1|221860|gm1.9900069	sp|P00389|NCPR_RABIT	sp|P00389|NCPR_RABIT NADPH--cytochrome P450 reductase OS=Oryctolagus cuniculus OX=9986 GN=POR PE=1 SV=1	31.858	226	1.79e-22	103
+jgi|Emihu1|221860|gm1.9900069	sp|C5YJG8|NCPR_SORBI	sp|C5YJG8|NCPR_SORBI NADPH--cytochrome P450 reductase OS=Sorghum bicolor OX=4558 GN=CPR PE=1 SV=1	34.337	166	2.53e-25	112
+jgi|Emihu1|221860|gm1.9900069	sp|C5YJG8|NCPR_SORBI	sp|C5YJG8|NCPR_SORBI NADPH--cytochrome P450 reductase OS=Sorghum bicolor OX=4558 GN=CPR PE=1 SV=1	34.239	184	2.86e-16	85.1
+jgi|Emihu1|221860|gm1.9900069	sp|Q3SYT8|NCPR_BOVIN	sp|Q3SYT8|NCPR_BOVIN NADPH--cytochrome P450 reductase OS=Bos taurus OX=9913 GN=POR PE=2 SV=3	34.135	208	2.86e-25	112
+jgi|Emihu1|221860|gm1.9900069	sp|Q3SYT8|NCPR_BOVIN	sp|Q3SYT8|NCPR_BOVIN NADPH--cytochrome P450 reductase OS=Bos taurus OX=9913 GN=POR PE=2 SV=3	30.493	223	6.94e-22	102
+jgi|Gepoce1|380080|evm.geph.scaffold_2969.1	sp|Q27597|NCPR_DROME	sp|Q27597|NCPR_DROME NADPH--cytochrome P450 reductase OS=Drosophila melanogaster OX=7227 GN=Cpr PE=1 SV=2	39.485	233	4.36e-42	154
+jgi|Gepoce1|380080|evm.geph.scaffold_2969.1	sp|Q0J705|NCPR2_ORYSJ	sp|Q0J705|NCPR2_ORYSJ NADPH--cytochrome P450 reductase 2 OS=Oryza sativa subsp. japonica OX=39947 GN=CPR2 PE=1 SV=2	36.207	232	6.07e-41	151
+jgi|Gepoce1|380080|evm.geph.scaffold_2969.1	sp|C5YJG8|NCPR_SORBI	sp|C5YJG8|NCPR_SORBI NADPH--cytochrome P450 reductase OS=Sorghum bicolor OX=4558 GN=CPR PE=1 SV=1	35.776	232	1.21e-40	150
+jgi|Gepoce1|383072|evm.geph.scaffold_370.21	sp|Q653S9|NCPR3_ORYSJ	sp|Q653S9|NCPR3_ORYSJ NADPH--cytochrome P450 reductase 3 OS=Oryza sativa subsp. japonica OX=39947 GN=CPR3 PE=1 SV=1	37.250	400	1.22e-59	208
+jgi|Gepoce1|383072|evm.geph.scaffold_370.21	sp|C5YJG8|NCPR_SORBI	sp|C5YJG8|NCPR_SORBI NADPH--cytochrome P450 reductase OS=Sorghum bicolor OX=4558 GN=CPR PE=1 SV=1	36.802	394	5.68e-55	195
+jgi|Gepoce1|383072|evm.geph.scaffold_370.21	sp|P16435|NCPR_HUMAN	sp|P16435|NCPR_HUMAN NADPH--cytochrome P450 reductase OS=Homo sapiens OX=9606 GN=POR PE=1 SV=2	33.333	402	4.89e-53	189
+jgi|Hymcor1016_1|1975727|estExt_Genewise1Plus.C_2190011	sp|Q0J705|NCPR2_ORYSJ	sp|Q0J705|NCPR2_ORYSJ NADPH--cytochrome P450 reductase 2 OS=Oryza sativa subsp. japonica OX=39947 GN=CPR2 PE=1 SV=2	38.818	626	4.93e-128	396
+jgi|Hymcor1016_1|1975727|estExt_Genewise1Plus.C_2190011	sp|Q653S9|NCPR3_ORYSJ	sp|Q653S9|NCPR3_ORYSJ NADPH--cytochrome P450 reductase 3 OS=Oryza sativa subsp. japonica OX=39947 GN=CPR3 PE=1 SV=1	39.297	626	5.48e-127	394
+jgi|Hymcor1016_1|1975727|estExt_Genewise1Plus.C_2190011	sp|P04175|NCPR_PIG	sp|P04175|NCPR_PIG NADPH--cytochrome P450 reductase OS=Sus scrofa OX=9823 GN=POR PE=1 SV=2	38.056	607	3.51e-124	385
+jgi|IsochDm2_1|1272768|fgenesh1_kg.72_#_783_#_TRINITY_DN313_c0_g1_i2	sp|Q653S9|NCPR3_ORYSJ	sp|Q653S9|NCPR3_ORYSJ NADPH--cytochrome P450 reductase 3 OS=Oryza sativa subsp. japonica OX=39947 GN=CPR3 PE=1 SV=1	37.969	640	7.38e-129	399
+jgi|IsochDm2_1|1272768|fgenesh1_kg.72_#_783_#_TRINITY_DN313_c0_g1_i2	sp|P37116|NCPR_VIGRR	sp|P37116|NCPR_VIGRR NADPH--cytochrome P450 reductase OS=Vigna radiata var. radiata OX=3916 PE=1 SV=1	37.110	706	8.50e-127	393
+jgi|IsochDm2_1|1272768|fgenesh1_kg.72_#_783_#_TRINITY_DN313_c0_g1_i2	sp|Q0J705|NCPR2_ORYSJ	sp|Q0J705|NCPR2_ORYSJ NADPH--cytochrome P450 reductase 2 OS=Oryza sativa subsp. japonica OX=39947 GN=CPR2 PE=1 SV=2	37.775	683	1.62e-125	391
+jgi|Isogal1|89649|evm.iso.scaffold_97.45	sp|Q653S9|NCPR3_ORYSJ	sp|Q653S9|NCPR3_ORYSJ NADPH--cytochrome P450 reductase 3 OS=Oryza sativa subsp. japonica OX=39947 GN=CPR3 PE=1 SV=1	36.804	682	2.71e-130	403
+jgi|Isogal1|89649|evm.iso.scaffold_97.45	sp|P37116|NCPR_VIGRR	sp|P37116|NCPR_VIGRR NADPH--cytochrome P450 reductase OS=Vigna radiata var. radiata OX=3916 PE=1 SV=1	37.589	705	1.92e-127	395
+jgi|Isogal1|89649|evm.iso.scaffold_97.45	sp|A0A2U1KZS6|NCPR2_ARTAN	sp|A0A2U1KZS6|NCPR2_ARTAN NADPH--cytochrome P450 reductase 2 OS=Artemisia annua OX=35608 GN=CPR2 PE=3 SV=1	36.741	675	8.57e-126	391
+jgi|Ochro3194_1|4181361|fgenesh1_kg.57_2592_OTBYT_transcript_9716	sp|Q653S9|NCPR3_ORYSJ	sp|Q653S9|NCPR3_ORYSJ NADPH--cytochrome P450 reductase 3 OS=Oryza sativa subsp. japonica OX=39947 GN=CPR3 PE=1 SV=1	37.500	680	4.17e-127	395
+jgi|Ochro3194_1|4181361|fgenesh1_kg.57_2592_OTBYT_transcript_9716	sp|Q0J705|NCPR2_ORYSJ	sp|Q0J705|NCPR2_ORYSJ NADPH--cytochrome P450 reductase 2 OS=Oryza sativa subsp. japonica OX=39947 GN=CPR2 PE=1 SV=2	37.371	677	7.73e-124	387
+jgi|Ochro3194_1|4181361|fgenesh1_kg.57_2592_OTBYT_transcript_9716	sp|A0A2U1LIM9|NCPR1_ARTAN	sp|A0A2U1LIM9|NCPR1_ARTAN NADPH--cytochrome P450 reductase 1 OS=Artemisia annua OX=35608 GN=CPR1 PE=1 SV=2	36.960	671	1.62e-122	383
+jgi|Pleelo874_1|5926850|fgenesh1_kg.3561_#_1_#_OTBYH_transcript_11694	sp|Q0J705|NCPR2_ORYSJ	sp|Q0J705|NCPR2_ORYSJ NADPH--cytochrome P450 reductase 2 OS=Oryza sativa subsp. japonica OX=39947 GN=CPR2 PE=1 SV=2	41.967	305	1.98e-69	231
+jgi|Pleelo874_1|5926850|fgenesh1_kg.3561_#_1_#_OTBYH_transcript_11694	sp|Q653S9|NCPR3_ORYSJ	sp|Q653S9|NCPR3_ORYSJ NADPH--cytochrome P450 reductase 3 OS=Oryza sativa subsp. japonica OX=39947 GN=CPR3 PE=1 SV=1	41.311	305	6.73e-68	227
+jgi|Pleelo874_1|5926850|fgenesh1_kg.3561_#_1_#_OTBYH_transcript_11694	sp|Q9SUM3|NCPR2_ARATH	sp|Q9SUM3|NCPR2_ARATH NADPH--cytochrome P450 reductase 2 OS=Arabidopsis thaliana OX=3702 GN=ATR2 PE=1 SV=1	42.244	303	1.24e-67	226

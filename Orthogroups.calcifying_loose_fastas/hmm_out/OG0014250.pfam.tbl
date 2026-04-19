@@ -1,0 +1,30 @@
+#                                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                             accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                   -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Amidase              PF01425.27 jgi|Callep1130_1|3743264|MIX11221_8_39 -            2.3e-27   96.7   0.0   3.2e-27   96.3   0.0   1.2   1   0   0   1   1   1   1 Amidase
+Amidase              PF01425.27 jgi|Emihu1|244295|gm1.41600001 -            1.1e-12   48.3   2.2   1.2e-12   48.2   2.2   1.0   1   0   0   1   1   1   1 Amidase
+Amidase              PF01425.27 jgi|Emihu1|258771|gm1.814500001 -              4e-16   59.7   0.5   5.1e-16   59.3   0.5   1.0   1   0   0   1   1   1   1 Amidase
+Amidase              PF01425.27 jgi|Gepoce1|366357|evm.geph.scaffold_1063.3 -            5.4e-07   29.6   0.0    0.0056   16.4   0.0   2.3   1   1   1   2   2   2   2 Amidase
+Amidase              PF01425.27 jgi|Gepoce1|391663|evm.geph.scaffold_59.30 -              6e-15   55.8   1.7   9.2e-15   55.2   1.7   1.2   1   0   0   1   1   1   1 Amidase
+Amidase              PF01425.27 jgi|Hymcor1016_1|1899514|estExt_Genewise1.C_4450002 -            1.6e-39  136.8   0.0   2.4e-39  136.2   0.0   1.2   1   0   0   1   1   1   1 Amidase
+Amidase              PF01425.27 jgi|Hymcor1016_1|2626456|estExt_Genemark4ET.C_10520002 -            1.2e-34  120.7   0.0     2e-34  120.0   0.0   1.3   1   0   0   1   1   1   1 Amidase
+Amidase              PF01425.27 jgi|Ochro3194_1|4348537|fgenesh1_kg.101_1845_TRINITY_DN5478_c2_g1_i3 -            4.5e-37  128.7   0.0   7.4e-37  128.0   0.0   1.3   1   0   0   1   1   1   1 Amidase
+Amidase              PF01425.27 jgi|Ochro3194_1|5007352|estExt_fgenesh1_pm.C_1310095 -            4.3e-25   89.2   0.0   6.1e-25   88.7   0.0   1.2   1   0   0   1   1   1   1 Amidase
+Amidase              PF01425.27 jgi|Ochro3194_1|5491320|estExt_Genemark4ET.C_1800043 -            1.5e-06   28.1   0.0   3.4e-06   26.9   0.0   1.6   1   0   0   1   1   1   1 Amidase
+Amidase              PF01425.27 jgi|Platy1217_1|3093924|MIX22179_31_64 -            5.2e-31  108.7   0.0   8.2e-31  108.1   0.0   1.4   1   1   0   1   1   1   1 Amidase
+Amidase              PF01425.27 jgi|Pleelo874_1|4935810|fgenesh1_pm.2176_#_2 -            1.7e-33  117.0   0.0   2.3e-33  116.5   0.0   1.1   1   0   0   1   1   1   1 Amidase
+Amidase              PF01425.27 jgi|Pleelo874_1|6062670|fgenesh1_kg.4622_#_7_#_TRINITY_DN14719_c0_g1_i2 -            6.6e-35  121.6   0.0     1e-34  120.9   0.0   1.2   1   0   0   1   1   1   1 Amidase
+Amidase              PF01425.27 jgi|Pleelo874_1|7045390|estExt_Genemark4ET.C_72990006 -            8.7e-36  124.5   0.0   1.3e-35  123.9   0.0   1.2   1   0   0   1   1   1   1 Amidase
+Amidase              PF01425.27 jgi|Umbfol2878_1|4284977|estExt_Genewise1.C_31_t30342 -            4.5e-36  125.4   0.0   7.2e-36  124.8   0.0   1.3   1   0   0   1   1   1   1 Amidase
+Amidase              PF01425.27 jgi|Umbfol2878_1|5579768|fgenesh1_kg.43_#_2297_#_TRINITY_DN5020_c0_g1_i10 -            3.9e-27   96.0   0.0   5.9e-27   95.4   0.0   1.4   1   0   0   1   1   1   1 Amidase
+Amidase              PF01425.27 jgi|Umbfol2878_1|5894813|fgenesh1_kg.249_#_321_#_TRINITY_DN1607_c0_g1_i1 -              7e-37  128.1   0.1   1.1e-36  127.5   0.1   1.2   1   0   0   1   1   1   1 Amidase
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0014250.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmpi1e8n2wg_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0014250.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0014250.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:24:17 2026
+# [ok]

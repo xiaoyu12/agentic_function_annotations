@@ -1,0 +1,40 @@
+jgi|Callep1130_1|3128354|fgenesh1_kg.228_#_25_#_TRINITY_DN10852_c0_g1_i15	sp|V6CLA2|HECD1_CAEEL	sp|V6CLA2|HECD1_CAEEL E3 ubiquitin-protein ligase hecd-1 OS=Caenorhabditis elegans OX=6239 GN=hecd-1 PE=1 SV=1	29.464	560	8.43e-55	209
+jgi|Callep1130_1|3128354|fgenesh1_kg.228_#_25_#_TRINITY_DN10852_c0_g1_i15	sp|F1RCR6|TRIPC_DANRE	sp|F1RCR6|TRIPC_DANRE E3 ubiquitin-protein ligase TRIP12 OS=Danio rerio OX=7955 GN=trip12 PE=3 SV=1	28.843	527	1.08e-46	184
+jgi|Callep1130_1|3128354|fgenesh1_kg.228_#_25_#_TRINITY_DN10852_c0_g1_i15	sp|Q6WWW4|UPL3_ARATH	sp|Q6WWW4|UPL3_ARATH E3 ubiquitin-protein ligase UPL3 OS=Arabidopsis thaliana OX=3702 GN=UPL3 PE=1 SV=1	28.807	545	1.55e-46	184
+jgi|Callep1130_1|3642250|fgenesh1_kg.4432_#_2_#_TRINITY_DN10852_c0_g1_i15	sp|V6CLA2|HECD1_CAEEL	sp|V6CLA2|HECD1_CAEEL E3 ubiquitin-protein ligase hecd-1 OS=Caenorhabditis elegans OX=6239 GN=hecd-1 PE=1 SV=1	26.621	586	1.76e-43	174
+jgi|Callep1130_1|3642250|fgenesh1_kg.4432_#_2_#_TRINITY_DN10852_c0_g1_i15	sp|F1RCR6|TRIPC_DANRE	sp|F1RCR6|TRIPC_DANRE E3 ubiquitin-protein ligase TRIP12 OS=Danio rerio OX=7955 GN=trip12 PE=3 SV=1	25.232	539	6.40e-35	147
+jgi|Callep1130_1|3642250|fgenesh1_kg.4432_#_2_#_TRINITY_DN10852_c0_g1_i15	sp|Q6WWW4|UPL3_ARATH	sp|Q6WWW4|UPL3_ARATH E3 ubiquitin-protein ligase UPL3 OS=Arabidopsis thaliana OX=3702 GN=UPL3 PE=1 SV=1	26.250	560	5.96e-34	144
+jgi|Emihu1|433216|estExtDG_fgenesh_newKGs_kg.C_90156	sp|V6CLA2|HECD1_CAEEL	sp|V6CLA2|HECD1_CAEEL E3 ubiquitin-protein ligase hecd-1 OS=Caenorhabditis elegans OX=6239 GN=hecd-1 PE=1 SV=1	31.504	565	4.23e-60	228
+jgi|Emihu1|433216|estExtDG_fgenesh_newKGs_kg.C_90156	sp|Q9VL06|UFD4_DROME	sp|Q9VL06|UFD4_DROME E3 ubiquitin-protein ligase Ufd4 OS=Drosophila melanogaster OX=7227 GN=Ufd4 PE=2 SV=1	28.718	585	2.42e-52	204
+jgi|Emihu1|433216|estExtDG_fgenesh_newKGs_kg.C_90156	sp|Q6WWW4|UPL3_ARATH	sp|Q6WWW4|UPL3_ARATH E3 ubiquitin-protein ligase UPL3 OS=Arabidopsis thaliana OX=3702 GN=UPL3 PE=1 SV=1	28.571	574	6.51e-47	186
+jgi|Emihu1|462013|estExtDG_fgeneshEH_pg.C_90211	sp|Q9P0K7|RAI14_HUMAN	sp|Q9P0K7|RAI14_HUMAN Ankycorbin OS=Homo sapiens OX=9606 GN=RAI14 PE=1 SV=2	38.961	77	1.97e-05	52.8
+jgi|Emihu1|462013|estExtDG_fgeneshEH_pg.C_90211	sp|Q8N283|ANR35_HUMAN	sp|Q8N283|ANR35_HUMAN Ankyrin repeat domain-containing protein 35 OS=Homo sapiens OX=9606 GN=ANKRD35 PE=1 SV=3	41.558	77	2.03e-05	52.8
+jgi|Emihu1|462013|estExtDG_fgeneshEH_pg.C_90211	sp|Q9ULJ7|ANR50_HUMAN	sp|Q9ULJ7|ANR50_HUMAN Ankyrin repeat domain-containing protein 50 OS=Homo sapiens OX=9606 GN=ANKRD50 PE=1 SV=4	40.260	77	4.02e-05	51.6
+jgi|Emihu1|462013|estExtDG_fgeneshEH_pg.C_90211	sp|Q9ULJ7|ANR50_HUMAN	sp|Q9ULJ7|ANR50_HUMAN Ankyrin repeat domain-containing protein 50 OS=Homo sapiens OX=9606 GN=ANKRD50 PE=1 SV=4	39.604	101	0.001	47.4
+jgi|Gepoce1|376383|evm.geph.scaffold_2222.1	sp|Q6WWW4|UPL3_ARATH	sp|Q6WWW4|UPL3_ARATH E3 ubiquitin-protein ligase UPL3 OS=Arabidopsis thaliana OX=3702 GN=UPL3 PE=1 SV=1	28.518	533	1.72e-40	168
+jgi|Gepoce1|376383|evm.geph.scaffold_2222.1	sp|F1RCR6|TRIPC_DANRE	sp|F1RCR6|TRIPC_DANRE E3 ubiquitin-protein ligase TRIP12 OS=Danio rerio OX=7955 GN=trip12 PE=3 SV=1	26.761	497	1.34e-35	152
+jgi|Gepoce1|376383|evm.geph.scaffold_2222.1	sp|Q14669|TRIPC_HUMAN	sp|Q14669|TRIPC_HUMAN E3 ubiquitin-protein ligase TRIP12 OS=Homo sapiens OX=9606 GN=TRIP12 PE=1 SV=2	26.640	503	2.26e-34	148
+jgi|Hymcor1016_1|2271567|fgenesh1_kg.791_#_99_#_TRINITY_DN4458_c1_g1_i4	sp|V6CLA2|HECD1_CAEEL	sp|V6CLA2|HECD1_CAEEL E3 ubiquitin-protein ligase hecd-1 OS=Caenorhabditis elegans OX=6239 GN=hecd-1 PE=1 SV=1	30.192	573	1.23e-57	224
+jgi|Hymcor1016_1|2271567|fgenesh1_kg.791_#_99_#_TRINITY_DN4458_c1_g1_i4	sp|F1RCR6|TRIPC_DANRE	sp|F1RCR6|TRIPC_DANRE E3 ubiquitin-protein ligase TRIP12 OS=Danio rerio OX=7955 GN=trip12 PE=3 SV=1	30.000	530	4.07e-51	202
+jgi|Hymcor1016_1|2271567|fgenesh1_kg.791_#_99_#_TRINITY_DN4458_c1_g1_i4	sp|Q14669|TRIPC_HUMAN	sp|Q14669|TRIPC_HUMAN E3 ubiquitin-protein ligase TRIP12 OS=Homo sapiens OX=9606 GN=TRIP12 PE=1 SV=2	30.354	537	4.65e-50	199
+jgi|IsochDm2_1|532938|CE532937_3966	sp|V6CLA2|HECD1_CAEEL	sp|V6CLA2|HECD1_CAEEL E3 ubiquitin-protein ligase hecd-1 OS=Caenorhabditis elegans OX=6239 GN=hecd-1 PE=1 SV=1	30.521	557	9.83e-58	223
+jgi|IsochDm2_1|532938|CE532937_3966	sp|Q6WWW4|UPL3_ARATH	sp|Q6WWW4|UPL3_ARATH E3 ubiquitin-protein ligase UPL3 OS=Arabidopsis thaliana OX=3702 GN=UPL3 PE=1 SV=1	29.705	542	6.38e-51	201
+jgi|IsochDm2_1|532938|CE532937_3966	sp|E1B7Q7|TRIPC_BOVIN	sp|E1B7Q7|TRIPC_BOVIN E3 ubiquitin-protein ligase TRIP12 OS=Bos taurus OX=9913 GN=TRIP12 PE=2 SV=2	29.401	534	1.04e-44	181
+jgi|Isogal1|83536|evm.iso.scaffold_37.110	sp|Q6WWW4|UPL3_ARATH	sp|Q6WWW4|UPL3_ARATH E3 ubiquitin-protein ligase UPL3 OS=Arabidopsis thaliana OX=3702 GN=UPL3 PE=1 SV=1	29.254	523	2.42e-47	190
+jgi|Isogal1|83536|evm.iso.scaffold_37.110	sp|Q9LYZ7|UPL4_ARATH	sp|Q9LYZ7|UPL4_ARATH E3 ubiquitin-protein ligase UPL4 OS=Arabidopsis thaliana OX=3702 GN=UPL4 PE=3 SV=1	26.834	518	4.57e-39	163
+jgi|Isogal1|83536|evm.iso.scaffold_37.110	sp|P33202|UFD4_YEAST	sp|P33202|UFD4_YEAST Ubiquitin fusion degradation protein 4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=UFD4 PE=1 SV=1	26.587	504	1.44e-36	155
+jgi|Ochro3194_1|523261|CE523260_5201	sp|Q5UPF8|YL088_MIMIV	sp|Q5UPF8|YL088_MIMIV Putative ankyrin repeat protein L88 OS=Acanthamoeba polyphaga mimivirus OX=212035 GN=MIMI_L88 PE=4 SV=1	29.670	91	1.42e-06	56.2
+jgi|Ochro3194_1|523261|CE523260_5201	sp|Q9ULJ7|ANR50_HUMAN	sp|Q9ULJ7|ANR50_HUMAN Ankyrin repeat domain-containing protein 50 OS=Homo sapiens OX=9606 GN=ANKRD50 PE=1 SV=4	37.349	83	2.92e-06	55.1
+jgi|Ochro3194_1|523261|CE523260_5201	sp|Q9ULJ7|ANR50_HUMAN	sp|Q9ULJ7|ANR50_HUMAN Ankyrin repeat domain-containing protein 50 OS=Homo sapiens OX=9606 GN=ANKRD50 PE=1 SV=4	36.607	112	3.47e-05	51.6
+jgi|Ochro3194_1|523261|CE523260_5201	sp|Q9ULJ7|ANR50_HUMAN	sp|Q9ULJ7|ANR50_HUMAN Ankyrin repeat domain-containing protein 50 OS=Homo sapiens OX=9606 GN=ANKRD50 PE=1 SV=4	38.824	85	1.63e-04	49.7
+jgi|Ochro3194_1|523261|CE523260_5201	sp|Q9ULJ7|ANR50_HUMAN	sp|Q9ULJ7|ANR50_HUMAN Ankyrin repeat domain-containing protein 50 OS=Homo sapiens OX=9606 GN=ANKRD50 PE=1 SV=4	38.776	98	7.97e-04	47.4
+jgi|Ochro3194_1|523261|CE523260_5201	sp|Q96Q27|ASB2_HUMAN	sp|Q96Q27|ASB2_HUMAN Ankyrin repeat and SOCS box protein 2 OS=Homo sapiens OX=9606 GN=ASB2 PE=1 SV=2	36.170	94	2.01e-05	52.0
+jgi|Ochro3194_1|3443460|estExt_Genewise1.C_1950222	sp|V6CLA2|HECD1_CAEEL	sp|V6CLA2|HECD1_CAEEL E3 ubiquitin-protein ligase hecd-1 OS=Caenorhabditis elegans OX=6239 GN=hecd-1 PE=1 SV=1	30.508	590	6.95e-57	218
+jgi|Ochro3194_1|3443460|estExt_Genewise1.C_1950222	sp|Q9VL06|UFD4_DROME	sp|Q9VL06|UFD4_DROME E3 ubiquitin-protein ligase Ufd4 OS=Drosophila melanogaster OX=7227 GN=Ufd4 PE=2 SV=1	26.087	690	1.22e-49	196
+jgi|Ochro3194_1|3443460|estExt_Genewise1.C_1950222	sp|Q6WWW4|UPL3_ARATH	sp|Q6WWW4|UPL3_ARATH E3 ubiquitin-protein ligase UPL3 OS=Arabidopsis thaliana OX=3702 GN=UPL3 PE=1 SV=1	27.379	599	8.48e-44	177
+jgi|Pleelo874_1|6926262|gm4et.108153_g	sp|Q9J4Z5|V245_FOWPN	sp|Q9J4Z5|V245_FOWPN Putative ankyrin repeat protein FPV245 OS=Fowlpox virus (strain NVSL) OX=928301 GN=FPV245 PE=4 SV=1	27.333	150	5.40e-06	52.0
+jgi|Pleelo874_1|6926262|gm4et.108153_g	sp|Q9GL21|UACA_CANLF	sp|Q9GL21|UACA_CANLF Uveal autoantigen with coiled-coil domains and ankyrin repeats OS=Canis lupus familiaris OX=9615 GN=UACA PE=2 SV=2	36.782	87	6.74e-06	52.4
+jgi|Pleelo874_1|6926262|gm4et.108153_g	sp|P20749|BCL3_HUMAN	sp|P20749|BCL3_HUMAN B-cell lymphoma 3 protein OS=Homo sapiens OX=9606 GN=BCL3 PE=1 SV=2	32.787	122	2.16e-05	50.1
+jgi|Umbfol2878_1|5408396|fgenesh1_pm.78_#_23	sp|V6CLA2|HECD1_CAEEL	sp|V6CLA2|HECD1_CAEEL E3 ubiquitin-protein ligase hecd-1 OS=Caenorhabditis elegans OX=6239 GN=hecd-1 PE=1 SV=1	30.769	559	1.17e-58	229
+jgi|Umbfol2878_1|5408396|fgenesh1_pm.78_#_23	sp|F1LP64|TRIPC_RAT	sp|F1LP64|TRIPC_RAT E3 ubiquitin-protein ligase TRIP12 OS=Rattus norvegicus OX=10116 GN=Trip12 PE=1 SV=1	29.323	532	7.37e-49	196
+jgi|Umbfol2878_1|5408396|fgenesh1_pm.78_#_23	sp|F1RCR6|TRIPC_DANRE	sp|F1RCR6|TRIPC_DANRE E3 ubiquitin-protein ligase TRIP12 OS=Danio rerio OX=7955 GN=trip12 PE=3 SV=1	29.434	530	1.37e-48	195

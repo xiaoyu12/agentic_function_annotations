@@ -1,0 +1,15 @@
+#                                                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                             accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                   -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Exostosin_GT47       PF03016.21 jgi|Callep1130_1|3900039|estExt_fgenesh1_pg.C_59800003 -            6.6e-06   26.3   0.0   2.7e-05   24.2   0.0   1.9   1   1   0   1   1   1   1 Exostosin GT47 domain
+Exostosin_GT47       PF03016.21 jgi|Umbfol2878_1|5740252|fgenesh1_kg.111_#_222_#_TRINITY_DN9383_c2_g1_i3 -            2.7e-10   40.7   0.0   1.1e-07   32.1   0.0   2.5   2   0   0   2   2   1   2 Exostosin GT47 domain
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0011061.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmpmtf3znxj_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0011061.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0011061.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:23:46 2026
+# [ok]

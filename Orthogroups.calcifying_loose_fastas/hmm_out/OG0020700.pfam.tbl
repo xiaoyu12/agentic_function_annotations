@@ -1,0 +1,20 @@
+#                                                                                                                    --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                                accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                      -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+PDZ                  PF00595.30 jgi|Ochro3194_1|3474317|estExt_Genewise1.C_4130116 -            4.4e-07   30.8   0.3      0.54   11.3   0.1   3.4   3   0   0   3   3   1   3 PDZ domain
+PDZ_2                PF13180.13 jgi|Ochro3194_1|3474317|estExt_Genewise1.C_4130116 -            1.9e-06   28.6   0.7   5.9e-06   27.1   0.2   1.9   2   0   0   2   2   1   1 PDZ domain
+PDZ_6                PF17820.8  jgi|Ochro3194_1|3474317|estExt_Genewise1.C_4130116 -            1.8e-05   24.9   0.3   0.00014   22.1   0.2   2.3   2   0   0   2   2   1   1 PDZ domain
+PDZ                  PF00595.30 jgi|Ochro3194_1|3616185|estExt_Genewise1Plus.C_2430288 -            2.1e-06   28.6   0.3      0.17   12.9   0.0   3.4   2   1   0   2   2   1   2 PDZ domain
+PDZ_2                PF13180.13 jgi|Ochro3194_1|3616185|estExt_Genewise1Plus.C_2430288 -            5.6e-06   27.1   0.9   1.3e-05   26.0   0.2   1.9   2   0   0   2   2   1   1 PDZ domain
+PDZ_6                PF17820.8  jgi|Ochro3194_1|3616185|estExt_Genewise1Plus.C_2430288 -            4.3e-05   23.7   0.3   0.00026   21.2   0.2   2.3   2   0   0   2   2   1   1 PDZ domain
+PDZ_2                PF13180.13 jgi|Umbfol2878_1|14868|CE14867_2725 -            2.1e-06   28.5   0.0   3.4e-06   27.8   0.0   1.3   1   0   0   1   1   1   1 PDZ domain
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0020700.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmpgcxmo7_n_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0020700.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0020700.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:26:19 2026
+# [ok]

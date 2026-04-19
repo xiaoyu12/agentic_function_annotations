@@ -1,0 +1,23 @@
+#                                                                                                                        --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                                    accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                          -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Aminotran_1_2        PF00155.28 jgi|Callep1130_1|3118263|fgenesh1_kg.186_#_159_#_OTBYS_OTBYS_transcript_26747 -              2e-37  129.8   0.0     1e-30  107.7   0.0   2.1   2   0   0   2   2   2   2 Aminotransferase class I and II
+Aminotran_1_2        PF00155.28 jgi|Emihu1|467730|estExtDG_fgeneshEH_pg.C_1550015 -            2.5e-05   24.2   0.0   8.7e-05   22.5   0.0   1.7   2   0   0   2   2   1   1 Aminotransferase class I and II
+Aminotran_1_2        PF00155.28 jgi|Emihu1|469924|estExtDG_fgeneshEH_pg.C_3450013 -            2.6e-12   47.2   0.0   4.7e-06   26.6   0.0   2.1   1   1   1   2   2   2   2 Aminotransferase class I and II
+Aminotran_1_2        PF00155.28 jgi|Gepoce1|376844|evm.geph.scaffold_231.11 -            1.4e-10   41.5   0.0   1.8e-10   41.2   0.0   1.1   1   0   0   1   1   1   1 Aminotransferase class I and II
+Aminotran_1_2        PF00155.28 jgi|Hymcor1016_1|2295231|fgenesh1_kg.1009_#_18_#_TRINITY_DN6053_c0_g2_i21 -            7.3e-40  137.8   0.0   4.5e-39  135.2   0.0   1.9   1   1   0   1   1   1   1 Aminotransferase class I and II
+Aminotran_1_2        PF00155.28 jgi|IsochDm2_1|1365160|fgenesh1_kg.293_#_4_#_ONZOT_transcript_22566 -            1.3e-46  160.1   0.0   2.3e-46  159.2   0.0   1.3   1   1   0   1   1   1   1 Aminotransferase class I and II
+Aminotran_1_2        PF00155.28 jgi|Isogal1|76820|evm.iso.scaffold_130.24 -            4.9e-45  154.9   0.0     1e-44  153.8   0.0   1.4   1   1   0   1   1   1   1 Aminotransferase class I and II
+Aminotran_1_2        PF00155.28 jgi|Ochro3194_1|4193147|fgenesh1_kg.60_1109_ONZOP_transcript_9492 -            6.2e-48  164.4   0.0   8.2e-48  164.0   0.0   1.1   1   0   0   1   1   1   1 Aminotransferase class I and II
+Aminotran_1_2        PF00155.28 jgi|Pleelo874_1|5578689|fgenesh1_kg.1620_#_1_#_OTBYH_transcript_13129 -            7.1e-25   88.5   0.0   5.2e-24   85.7   0.0   1.9   1   1   0   1   1   1   1 Aminotransferase class I and II
+Aminotran_1_2        PF00155.28 jgi|Umbfol2878_1|5514658|fgenesh1_kg.23_#_3320_#_TRINITY_DN1387_c2_g1_i13 -            1.3e-39  137.0   0.0   2.2e-37  129.7   0.0   2.0   1   1   0   1   1   1   1 Aminotransferase class I and II
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0019873.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmpqpk9nsr7_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0019873.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0019873.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:25:52 2026
+# [ok]

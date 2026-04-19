@@ -1,0 +1,38 @@
+#                                                                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                             accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                   -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Sulfatase            PF00884.29 jgi|Callep1130_1|3439257|fgenesh1_kg.2082_#_1_#_OTBYP_transcript_50503 -            1.6e-41  143.1   0.0     2e-41  142.9   0.0   1.1   1   0   0   1   1   1   1 Sulfatase
+Sulfatase            PF00884.29 jgi|Chrlea393_1|925593|gw1.18.738.1 -            4.7e-05   23.4   0.0   5.1e-05   23.3   0.0   1.0   1   0   0   1   1   1   1 Sulfatase
+Sulfatase            PF00884.29 jgi|Chrlea393_1|2082528|estExt_Genemark4.C_760166 -            1.4e-38  133.5   0.0   3.7e-38  132.1   0.0   1.7   1   1   0   1   1   1   1 Sulfatase
+Polysacc_lyase       PF14099.14 jgi|Chrlea393_1|2082528|estExt_Genemark4.C_760166 -            7.2e-16   59.3   0.1   1.3e-15   58.4   0.1   1.3   1   0   0   1   1   1   1 Polysaccharide lyase
+Sulfatase            PF00884.29 jgi|Chrlea393_1|2166555|MIX31577_64_46 -            1.7e-43  149.7   0.0   2.3e-43  149.2   0.0   1.2   1   0   0   1   1   1   1 Sulfatase
+Sulfatase            PF00884.29 jgi|Chrlea393_1|2184623|MIX49645_94_42 -            1.6e-38  133.3   0.0   2.2e-38  132.9   0.0   1.2   1   0   0   1   1   1   1 Sulfatase
+Sulfatase            PF00884.29 jgi|Chrlea393_1|2254639|MIX119661_346_70 -            1.2e-35  123.9   0.0   2.3e-35  123.0   0.0   1.4   1   1   0   1   1   1   1 Sulfatase
+Sulfatase            PF00884.29 jgi|Chrlea393_1|2274173|MIX139195_222_71 -            6.9e-42  144.4   0.0   1.4e-41  143.4   0.0   1.5   2   0   0   2   2   1   1 Sulfatase
+Sulfatase            PF00884.29 jgi|Chrsim136_1|3202784|e_gw1.48.518.1 -            4.6e-48  164.6   0.0   1.8e-47  162.7   0.0   1.7   2   0   0   2   2   1   1 Sulfatase
+Sulfatase            PF00884.29 jgi|Chrsim136_1|4204903|fgenesh1_kg.3_#_22765_#_TRINITY_DN50817_c0_g1_i1 -            2.3e-39  136.1   0.0   3.9e-39  135.3   0.0   1.4   1   1   0   1   1   1   1 Sulfatase
+Kelch_1                  PF01344.32 jgi|Gepoce1|373454|evm.geph.scaffold_178.7 -            5.7e-41  138.2   0.0   2.1e-13   50.1   0.0   4.2   4   0   0   4   4   3   3 Kelch motif
+Sulfatase                PF00884.29 jgi|Gepoce1|373454|evm.geph.scaffold_178.7 -            7.5e-39  134.4   0.0   1.1e-38  133.8   0.0   1.2   1   0   0   1   1   1   1 Sulfatase
+Kelch_2                  PF07646.22 jgi|Gepoce1|373454|evm.geph.scaffold_178.7 -            8.2e-19   67.1   0.0   2.9e-06   27.5   0.0   3.8   3   0   0   3   3   3   3 Kelch motif
+Kelch_FKB95              PF25210.2  jgi|Gepoce1|373454|evm.geph.scaffold_178.7 -            4.2e-15   56.7   0.0   6.8e-08   33.1   0.0   2.8   1   1   1   2   2   2   2 FKB95, Kelch-repeats domain
+Beta-prop_Calicin        PF13964.13 jgi|Gepoce1|373454|evm.geph.scaffold_178.7 -            6.3e-14   52.3   0.0   2.1e-07   30.9   0.0   2.1   1   1   1   2   2   2   2 Calicin, beta-propeller domain
+Kelch_KLHDC2_KLHL20_DRC7 PF24681.2  jgi|Gepoce1|373454|evm.geph.scaffold_178.7 -            8.1e-13   48.8   0.0   3.1e-12   46.8   0.0   1.9   1   1   0   1   1   1   1 KLHDC2/KLHL20/DRC7 Kelch-repeats domain
+Beta-prop_ATRN-LZTR1     PF24981.2  jgi|Gepoce1|373454|evm.geph.scaffold_178.7 -            1.5e-08   34.9   0.0   0.00028   20.8   0.0   2.7   1   1   1   2   2   2   2 Attractin/LZTR1 beta-propeller
+NANM                     PF24996.1  jgi|Gepoce1|373454|evm.geph.scaffold_178.7 -              3e-08   33.5   0.3    0.0017   17.9   0.1   2.7   1   1   2   3   3   3   3 N-acetylneuraminate epimerase
+Beta-prop_FBX42          PF13415.13 jgi|Gepoce1|373454|evm.geph.scaffold_178.7 -            1.1e-05   25.8   0.0   8.4e-05   22.9   0.0   2.1   1   1   0   1   1   1   1 FBX42, beta-propeller domain
+Sulfatase            PF00884.29 jgi|Hymcor1016_1|2155336|fgenesh1_kg.191_#_204_#_TRINITY_DN1786_c0_g1_i33 -            1.2e-42  146.9   0.0   1.2e-41  143.5   0.0   1.9   2   0   0   2   2   1   1 Sulfatase
+Sulfatase            PF00884.29 jgi|Ochro3194_1|3953250|fgenesh1_kg.22_3701_TRINITY_DN38780_c0_g1_i1 -            3.3e-39  135.6   0.0     5e-39  135.0   0.0   1.3   1   0   0   1   1   1   1 Sulfatase
+Sulfatase            PF00884.29 jgi|Pleelo874_1|5990479|fgenesh1_kg.4031_#_22_#_OTBYH_transcript_32807 -            4.8e-38  131.8   0.0   6.8e-38  131.3   0.0   1.2   1   0   0   1   1   1   1 Sulfatase
+Phosphodiest         PF01663.28 jgi|Pleelo874_1|5990479|fgenesh1_kg.4031_#_22_#_OTBYH_transcript_32807 -            1.7e-05   25.2   0.0    0.0055   16.9   0.0   2.2   2   0   0   2   2   1   2 Type I phosphodiesterase / nucleotide pyrophosphatase
+Sulfatase            PF00884.29 jgi|Umbfol2878_1|3642168|CE3642167_80 -            1.9e-47  162.7   1.0   2.7e-47  162.1   1.0   1.2   1   0   0   1   1   1   1 Sulfatase
+Sulfatase_C          PF14707.12 jgi|Umbfol2878_1|3642168|CE3642167_80 -              2e-05   25.7   0.1   7.3e-05   23.9   0.0   1.9   2   0   0   2   2   1   1 C-terminal region of aryl-sulfatase
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0017138.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmpwqbeyqha_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0017138.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0017138.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:24:47 2026
+# [ok]

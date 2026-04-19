@@ -1,0 +1,53 @@
+#                                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                             accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                   -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Kelch_1                  PF01344.32 jgi|Callep1130_1|4282874|gm4et.70925_g -            4.9e-16   58.5   1.2   1.2e-08   34.8   0.0   4.6   5   0   0   5   5   2   3 Kelch motif
+Kelch_2                  PF07646.22 jgi|Callep1130_1|4282874|gm4et.70925_g -            3.8e-12   46.1   1.1    0.0064   17.0   0.0   6.1   6   0   0   6   6   1   4 Kelch motif
+NANM                     PF24996.1  jgi|Callep1130_1|4282874|gm4et.70925_g -            9.2e-11   41.8   0.0     8e-05   22.2   0.0   3.4   1   1   2   3   3   1   3 N-acetylneuraminate epimerase
+Kelch_KLHDC2_KLHL20_DRC7 PF24681.2  jgi|Callep1130_1|4282874|gm4et.70925_g -            3.8e-09   36.8   1.1   2.3e-07   30.9   0.1   2.3   1   1   0   2   2   1   1 KLHDC2/KLHL20/DRC7 Kelch-repeats domain
+Beta-prop_Calicin        PF13964.13 jgi|Callep1130_1|4282874|gm4et.70925_g -              7e-08   32.4   0.0   3.5e-07   30.1   0.0   2.0   2   1   0   2   2   1   1 Calicin, beta-propeller domain
+Beta-prop_ATRN-LZTR1     PF24981.2  jgi|Callep1130_1|4282874|gm4et.70925_g -            1.6e-07   31.5   0.2     0.047   13.5   0.0   3.1   1   1   2   3   3   2   2 Attractin/LZTR1 beta-propeller
+Kelch_FKB95              PF25210.2  jgi|Callep1130_1|4282874|gm4et.70925_g -              9e-05   22.8   0.0    0.0091   16.2   0.0   2.8   2   1   1   3   3   1   1 FKB95, Kelch-repeats domain
+Kelch_1                  PF01344.32 jgi|Emihu1|468798|estExtDG_fgeneshEH_pg.C_2180007 -              9e-15   54.5   0.9   2.3e-07   30.8   0.0   4.9   4   1   0   4   4   2   2 Kelch motif
+Kelch_KLHDC2_KLHL20_DRC7 PF24681.2  jgi|Emihu1|468798|estExtDG_fgeneshEH_pg.C_2180007 -            1.4e-13   51.2   0.0   2.5e-06   27.6   0.0   2.2   1   1   1   2   2   2   2 KLHDC2/KLHL20/DRC7 Kelch-repeats domain
+NANM                     PF24996.1  jgi|Emihu1|468798|estExtDG_fgeneshEH_pg.C_2180007 -            2.6e-11   43.6   0.0   2.1e-08   34.0   0.0   2.5   2   1   0   2   2   1   2 N-acetylneuraminate epimerase
+Beta-prop_FBX42          PF13415.13 jgi|Emihu1|468798|estExtDG_fgeneshEH_pg.C_2180007 -              2e-10   41.3   0.0   0.00087   19.6   0.0   2.4   2   0   0   2   2   2   2 FBX42, beta-propeller domain
+Kelch_2                  PF07646.22 jgi|Emihu1|468798|estExtDG_fgeneshEH_pg.C_2180007 -            9.1e-09   35.4   0.4     0.037   14.6   0.1   4.9   4   0   0   4   4   1   2 Kelch motif
+Beta-prop_ATRN-LZTR1     PF24981.2  jgi|Emihu1|468798|estExtDG_fgeneshEH_pg.C_2180007 -            5.6e-08   33.0   0.0     0.091   12.6   0.0   3.2   2   1   1   3   3   1   3 Attractin/LZTR1 beta-propeller
+Glyco_transf_7C          PF02709.21 jgi|Emihu1|468798|estExtDG_fgeneshEH_pg.C_2180007 -              3e-06   27.4   0.0   8.9e-06   25.9   0.0   1.7   1   0   0   1   1   1   1 N-terminal domain of galactosyltransferase
+Kelch_FKB95              PF25210.2  jgi|Emihu1|468798|estExtDG_fgeneshEH_pg.C_2180007 -              2e-05   24.9   0.0     0.025   14.8   0.0   2.3   2   0   0   2   2   1   2 FKB95, Kelch-repeats domain
+Beta-prop_Calicin        PF13964.13 jgi|Emihu1|468798|estExtDG_fgeneshEH_pg.C_2180007 -            6.7e-05   22.6   0.0    0.0085   15.7   0.0   2.3   1   1   0   2   2   1   2 Calicin, beta-propeller domain
+Kelch_1                  PF01344.32 jgi|Gepoce1|391688|evm.geph.scaffold_591.3 -            5.7e-15   55.1   0.9   1.8e-07   31.1   0.0   4.9   4   1   0   4   4   2   2 Kelch motif
+Kelch_KLHDC2_KLHL20_DRC7 PF24681.2  jgi|Gepoce1|391688|evm.geph.scaffold_591.3 -            1.6e-13   51.0   0.0   2.4e-06   27.6   0.0   2.1   1   1   1   2   2   2   2 KLHDC2/KLHL20/DRC7 Kelch-repeats domain
+NANM                     PF24996.1  jgi|Gepoce1|391688|evm.geph.scaffold_591.3 -            1.3e-11   44.5   0.0   2.9e-08   33.6   0.0   2.6   2   1   0   2   2   1   2 N-acetylneuraminate epimerase
+Beta-prop_FBX42          PF13415.13 jgi|Gepoce1|391688|evm.geph.scaffold_591.3 -            7.2e-11   42.7   0.0   0.00047   20.4   0.0   2.4   2   0   0   2   2   2   2 FBX42, beta-propeller domain
+Beta-prop_ATRN-LZTR1     PF24981.2  jgi|Gepoce1|391688|evm.geph.scaffold_591.3 -            5.5e-09   36.3   0.0     0.074   12.9   0.0   3.1   2   1   1   3   3   2   3 Attractin/LZTR1 beta-propeller
+Kelch_2                  PF07646.22 jgi|Gepoce1|391688|evm.geph.scaffold_591.3 -              1e-08   35.3   0.4     0.058   14.0   0.1   5.0   4   0   0   4   4   1   2 Kelch motif
+Beta-prop_Calicin        PF13964.13 jgi|Gepoce1|391688|evm.geph.scaffold_591.3 -            3.9e-06   26.7   0.0    0.0081   15.8   0.0   2.3   1   1   0   2   2   1   2 Calicin, beta-propeller domain
+Kelch_FKB95              PF25210.2  jgi|Gepoce1|391688|evm.geph.scaffold_591.3 -            1.5e-05   25.3   0.0     0.021   15.0   0.0   2.5   2   1   1   3   3   1   2 FKB95, Kelch-repeats domain
+Kelch_1                  PF01344.32 jgi|Ochro3194_1|4158906|fgenesh1_kg.52_4250_ONZOP_transcript_3905 -            8.3e-15   54.6   0.9   1.9e-07   31.0   0.0   4.9   4   1   0   4   4   2   2 Kelch motif
+Kelch_KLHDC2_KLHL20_DRC7 PF24681.2  jgi|Ochro3194_1|4158906|fgenesh1_kg.52_4250_ONZOP_transcript_3905 -              2e-13   50.7   0.0   2.5e-06   27.5   0.0   2.1   1   1   1   2   2   2   2 KLHDC2/KLHL20/DRC7 Kelch-repeats domain
+NANM                     PF24996.1  jgi|Ochro3194_1|4158906|fgenesh1_kg.52_4250_ONZOP_transcript_3905 -            1.8e-11   44.1   0.0   3.2e-08   33.4   0.0   2.5   2   1   0   2   2   1   2 N-acetylneuraminate epimerase
+Beta-prop_FBX42          PF13415.13 jgi|Ochro3194_1|4158906|fgenesh1_kg.52_4250_ONZOP_transcript_3905 -            9.1e-11   42.4   0.0   0.00052   20.3   0.0   2.4   2   0   0   2   2   2   2 FBX42, beta-propeller domain
+Beta-prop_ATRN-LZTR1     PF24981.2  jgi|Ochro3194_1|4158906|fgenesh1_kg.52_4250_ONZOP_transcript_3905 -            7.3e-09   35.9   0.0     0.082   12.7   0.0   3.1   2   1   1   3   3   2   3 Attractin/LZTR1 beta-propeller
+Kelch_2                  PF07646.22 jgi|Ochro3194_1|4158906|fgenesh1_kg.52_4250_ONZOP_transcript_3905 -            1.9e-08   34.5   0.5     0.063   13.9   0.1   4.8   4   0   0   4   4   1   2 Kelch motif
+Beta-prop_Calicin        PF13964.13 jgi|Ochro3194_1|4158906|fgenesh1_kg.52_4250_ONZOP_transcript_3905 -            4.9e-06   26.3   0.0    0.0095   15.6   0.0   2.3   1   1   0   2   2   1   2 Calicin, beta-propeller domain
+Kelch_FKB95              PF25210.2  jgi|Ochro3194_1|4158906|fgenesh1_kg.52_4250_ONZOP_transcript_3905 -            1.9e-05   25.0   0.0     0.023   14.9   0.0   2.5   2   1   0   2   2   1   2 FKB95, Kelch-repeats domain
+Kelch_1                  PF01344.32 jgi|Umbfol2878_1|6304651|gm4et.235_g -            3.9e-17   62.0   3.8   6.3e-10   39.0   0.0   5.1   4   1   0   4   4   2   3 Kelch motif
+NANM                     PF24996.1  jgi|Umbfol2878_1|6304651|gm4et.235_g -            9.3e-12   45.0   0.0     1e-05   25.2   0.0   3.3   1   1   2   3   3   2   3 N-acetylneuraminate epimerase
+Kelch_2                  PF07646.22 jgi|Umbfol2878_1|6304651|gm4et.235_g -            4.8e-11   42.6   1.0     0.057   14.0   0.0   5.7   6   0   0   6   6   2   2 Kelch motif
+Kelch_KLHDC2_KLHL20_DRC7 PF24681.2  jgi|Umbfol2878_1|6304651|gm4et.235_g -            1.2e-10   41.6   5.4   8.9e-09   35.5   0.1   2.3   1   1   1   2   2   2   2 KLHDC2/KLHL20/DRC7 Kelch-repeats domain
+Beta-prop_Calicin        PF13964.13 jgi|Umbfol2878_1|6304651|gm4et.235_g -            5.9e-08   32.7   0.0   2.9e-07   30.4   0.0   2.1   2   1   0   2   2   1   1 Calicin, beta-propeller domain
+Beta-prop_FBX42          PF13415.13 jgi|Umbfol2878_1|6304651|gm4et.235_g -              1e-07   32.4   0.1      0.04   14.1   0.0   3.2   1   1   2   3   3   1   2 FBX42, beta-propeller domain
+Beta-prop_ATRN-LZTR1     PF24981.2  jgi|Umbfol2878_1|6304651|gm4et.235_g -            3.1e-06   27.3   1.8      0.05   13.4   0.1   3.0   1   1   1   2   2   2   2 Attractin/LZTR1 beta-propeller
+Kelch_FKB95              PF25210.2  jgi|Umbfol2878_1|6304651|gm4et.235_g -            4.2e-06   27.2   0.0   0.00011   22.6   0.0   2.9   2   1   2   4   4   1   1 FKB95, Kelch-repeats domain
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0017965.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmpx8v34wwv_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0017965.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0017965.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:25:16 2026
+# [ok]

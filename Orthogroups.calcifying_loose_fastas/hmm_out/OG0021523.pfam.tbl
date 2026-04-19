@@ -1,0 +1,19 @@
+#                                                                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                                   accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                         -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+PP2C                 PF00481.27 jgi|Callep1130_1|3204905|fgenesh1_kg.560_#_77_#_OTBYS_OTBYS_transcript_41926 -            3.2e-39  135.7   0.0   4.6e-39  135.2   0.0   1.1   1   0   0   1   1   1   1 Protein phosphatase 2C
+PP2C                 PF00481.27 jgi|Callep1130_1|4333510|estExt_Genemark4ET.C_55660006 -            2.5e-33  116.4   0.0   3.2e-33  116.1   0.0   1.1   1   0   0   1   1   1   1 Protein phosphatase 2C
+PP2C                 PF00481.27 jgi|Hymcor1016_1|2438569|fgenesh1_pm.159_#_19 -              6e-36  125.0   0.0   1.3e-35  123.9   0.0   1.6   1   1   0   1   1   1   1 Protein phosphatase 2C
+PP2C                 PF00481.27 jgi|Ochro3194_1|1471914|CE1471913_6352 -            3.5e-37  129.0   0.0   5.4e-37  128.4   0.0   1.2   1   0   0   1   1   1   1 Protein phosphatase 2C
+PP2C                 PF00481.27 jgi|Pleelo874_1|6278502|fgenesh1_kg.7043_#_13_#_OTBYH_transcript_41449 -            9.3e-37  127.6   0.0   1.9e-36  126.6   0.0   1.4   1   0   0   1   1   1   1 Protein phosphatase 2C
+PP2C                 PF00481.27 jgi|Umbfol2878_1|5559564|fgenesh1_kg.38_#_1080_#_ONZOS_transcript_26555 -            1.2e-37  130.6   0.0   1.8e-37  130.0   0.0   1.1   1   0   0   1   1   1   1 Protein phosphatase 2C
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0021523.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmp6a5ksbmm_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0021523.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0021523.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:19:10 2026
+# [ok]

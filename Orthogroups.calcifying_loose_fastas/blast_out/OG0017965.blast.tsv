@@ -1,0 +1,17 @@
+jgi|Callep1130_1|4282874|gm4et.70925_g	sp|Q503R4|KLH36_DANRE	sp|Q503R4|KLH36_DANRE Kelch-like protein 36 OS=Danio rerio OX=7955 GN=klhl36 PE=2 SV=1	26.667	225	1.00e-09	65.5
+jgi|Callep1130_1|4282874|gm4et.70925_g	sp|Q9C0H6|KLHL4_HUMAN	sp|Q9C0H6|KLHL4_HUMAN Kelch-like protein 4 OS=Homo sapiens OX=9606 GN=KLHL4 PE=1 SV=2	29.688	192	2.39e-09	64.3
+jgi|Callep1130_1|4282874|gm4et.70925_g	sp|Q25390|SCRA_LIMPO	sp|Q25390|SCRA_LIMPO Alpha-scruin OS=Limulus polyphemus OX=6850 PE=2 SV=1	25.749	334	3.31e-09	63.9
+jgi|Callep1130_1|4282874|gm4et.70925_g	sp|Q25390|SCRA_LIMPO	sp|Q25390|SCRA_LIMPO Alpha-scruin OS=Limulus polyphemus OX=6850 PE=2 SV=1	22.745	255	5.13e-06	53.5
+jgi|Emihu1|468798|estExtDG_fgeneshEH_pg.C_2180007	sp|Q9LK31|Y3272_ARATH	sp|Q9LK31|Y3272_ARATH Kelch repeat-containing protein At3g27220 OS=Arabidopsis thaliana OX=3702 GN=At3g27220 PE=2 SV=1	24.028	283	1.62e-10	67.4
+jgi|Emihu1|468798|estExtDG_fgeneshEH_pg.C_2180007	sp|Q4QP39|NANM_HAEI8	sp|Q4QP39|NANM_HAEI8 N-acetylneuraminate epimerase OS=Haemophilus influenzae (strain 86-028NP) OX=281310 GN=nanM PE=3 SV=2	29.870	154	1.64e-08	60.8
+jgi|Emihu1|468798|estExtDG_fgeneshEH_pg.C_2180007	sp|A5UFV3|NANM_HAEIG	sp|A5UFV3|NANM_HAEIG N-acetylneuraminate epimerase OS=Haemophilus influenzae (strain PittGG) OX=374931 GN=nanM PE=3 SV=1	29.870	154	2.08e-08	60.5
+jgi|Gepoce1|391688|evm.geph.scaffold_591.3	sp|Q9LK31|Y3272_ARATH	sp|Q9LK31|Y3272_ARATH Kelch repeat-containing protein At3g27220 OS=Arabidopsis thaliana OX=3702 GN=At3g27220 PE=2 SV=1	24.028	283	2.18e-10	66.6
+jgi|Gepoce1|391688|evm.geph.scaffold_591.3	sp|Q0D1P4|TERF_ASPTN	sp|Q0D1P4|TERF_ASPTN Kelch-like protein terF OS=Aspergillus terreus (strain NIH 2624 / FGSC A1156) OX=341663 GN=terF PE=1 SV=1	27.132	258	6.23e-08	58.9
+jgi|Gepoce1|391688|evm.geph.scaffold_591.3	sp|Q4QP39|NANM_HAEI8	sp|Q4QP39|NANM_HAEI8 N-acetylneuraminate epimerase OS=Haemophilus influenzae (strain 86-028NP) OX=281310 GN=nanM PE=3 SV=2	28.571	154	4.83e-07	55.8
+jgi|Ochro3194_1|4158906|fgenesh1_kg.52_4250_ONZOP_transcript_3905	sp|Q9LK31|Y3272_ARATH	sp|Q9LK31|Y3272_ARATH Kelch repeat-containing protein At3g27220 OS=Arabidopsis thaliana OX=3702 GN=At3g27220 PE=2 SV=1	24.028	283	2.81e-10	66.6
+jgi|Ochro3194_1|4158906|fgenesh1_kg.52_4250_ONZOP_transcript_3905	sp|Q0D1P4|TERF_ASPTN	sp|Q0D1P4|TERF_ASPTN Kelch-like protein terF OS=Aspergillus terreus (strain NIH 2624 / FGSC A1156) OX=341663 GN=terF PE=1 SV=1	27.132	258	4.28e-08	59.7
+jgi|Ochro3194_1|4158906|fgenesh1_kg.52_4250_ONZOP_transcript_3905	sp|Q4QP39|NANM_HAEI8	sp|Q4QP39|NANM_HAEI8 N-acetylneuraminate epimerase OS=Haemophilus influenzae (strain 86-028NP) OX=281310 GN=nanM PE=3 SV=2	28.571	154	4.28e-07	56.2
+jgi|Umbfol2878_1|6304651|gm4et.235_g	sp|Q9Z2X8|KEAP1_MOUSE	sp|Q9Z2X8|KEAP1_MOUSE Kelch-like ECH-associated protein 1 OS=Mus musculus OX=10090 GN=Keap1 PE=1 SV=1	32.911	158	1.10e-10	68.2
+jgi|Umbfol2878_1|6304651|gm4et.235_g	sp|Q503R4|KLH36_DANRE	sp|Q503R4|KLH36_DANRE Kelch-like protein 36 OS=Danio rerio OX=7955 GN=klhl36 PE=2 SV=1	27.686	242	3.00e-10	67.0
+jgi|Umbfol2878_1|6304651|gm4et.235_g	sp|Q14145|KEAP1_HUMAN	sp|Q14145|KEAP1_HUMAN Kelch-like ECH-associated protein 1 OS=Homo sapiens OX=9606 GN=KEAP1 PE=1 SV=2	32.278	158	3.75e-10	66.6
+jgi|Umbfol2878_1|6304651|gm4et.235_g	sp|Q14145|KEAP1_HUMAN	sp|Q14145|KEAP1_HUMAN Kelch-like ECH-associated protein 1 OS=Homo sapiens OX=9606 GN=KEAP1 PE=1 SV=2	24.638	138	6.98e-04	46.6

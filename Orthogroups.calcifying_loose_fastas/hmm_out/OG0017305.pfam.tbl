@@ -1,0 +1,16 @@
+#                                                                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                              accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                    -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Sulphotransf         PF09037.17 jgi|Emihu1|230324|gm1.16300004 -            2.4e-05   24.6   0.6   0.00014   22.0   0.6   1.9   1   1   0   1   1   1   1 Stf0 sulphotransferase
+Sulphotransf         PF09037.17 jgi|Emihu1|230954|gm1.16800072 -            2.4e-05   24.6   0.6   0.00014   22.0   0.6   1.9   1   1   0   1   1   1   1 Stf0 sulphotransferase
+Sulphotransf         PF09037.17 jgi|Ochro3194_1|3886126|fgenesh1_kg.13_4558_TRINITY_DN13979_c2_g2_i4 -            8.9e-06   26.0   0.1   0.00027   21.1   0.1   2.4   1   1   0   1   1   1   1 Stf0 sulphotransferase
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0017305.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmp1m7oonc4_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0017305.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0017305.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:24:48 2026
+# [ok]

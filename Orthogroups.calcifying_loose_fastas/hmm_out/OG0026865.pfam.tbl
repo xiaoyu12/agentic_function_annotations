@@ -1,0 +1,19 @@
+#                                                                                                                        --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                                    accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                          -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+JmjC                 PF02373.29 jgi|Callep1130_1|3685443|fgenesh1_kg.5091_#_37_#_OTBYS_OTBYS_transcript_78574 -              1e-09   39.5   0.1   8.5e-09   36.5   0.1   2.2   1   1   0   1   1   1   1 JmjC domain, hydroxylase
+JmjC                 PF02373.29 jgi|Hymcor1016_1|2622095|estExt_Genemark4ET.C_7530017 -            3.9e-09   37.6   0.0   2.2e-08   35.2   0.0   1.9   1   1   0   1   1   1   1 JmjC domain, hydroxylase
+Cupin_8              PF13621.13 jgi|Ochro3194_1|3341585|estExt_Genewise1.C_33_t10425 -              3e-10   41.0   1.1   7.5e-09   36.4   1.1   2.7   1   1   0   1   1   1   1 Cupin-like domain
+JmjC                 PF02373.29 jgi|Ochro3194_1|3341585|estExt_Genewise1.C_33_t10425 -            8.5e-10   39.7   3.4   0.00036   21.6   0.1   2.3   2   0   0   2   2   2   2 JmjC domain, hydroxylase
+JmjC                 PF02373.29 jgi|Pleelo874_1|5914114|fgenesh1_kg.3462_#_118_#_TRINITY_DN11603_c0_g1_i6 -            2.2e-06   28.7   0.1     0.068   14.2   0.0   2.3   2   0   0   2   2   2   2 JmjC domain, hydroxylase
+JmjC                 PF02373.29 jgi|Umbfol2878_1|5729729|fgenesh1_kg.105_#_204_#_ONZOS_transcript_11971 -            7.6e-10   39.8   0.1   3.8e-09   37.6   0.1   2.1   1   1   0   1   1   1   1 JmjC domain, hydroxylase
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0026865.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmp4h2xlxs3_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0026865.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0026865.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:19:11 2026
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Collagen             PF01391.24 jgi|Callep1130_1|3101629|fgenesh1_kg.126_#_180_#_OTBYS_OTBYS_transcript_88561 -              8e-14   51.7  36.8   5.1e-08   33.1   7.4   3.5   1   1   1   2   2   2   2 Collagen triple helix repeat (20 copies)
+RCC1                 PF00415.25 jgi|Ochro3194_1|5496060|estExt_Genemark4ET.C_2310106 -            5.1e-15   56.4   0.1     4e-06   27.9   0.1   2.2   2   0   0   2   2   2   2 Regulator of chromosome condensation (RCC1) repeat
+WD40_RLD             PF25390.2  jgi|Ochro3194_1|5496060|estExt_Genemark4ET.C_2310106 -            1.8e-14   54.5   0.1   1.9e-14   54.4   0.1   1.1   1   0   0   1   1   1   1 RCC1-like domain
+RCC1_2               PF13540.13 jgi|Ochro3194_1|5496060|estExt_Genemark4ET.C_2310106 -            9.8e-07   29.0   1.9   1.9e-06   28.1   1.9   1.5   1   0   0   1   1   1   1 Regulator of chromosome condensation (RCC1) repeat
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0016203.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmpzdd260va_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0016203.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0016203.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:24:29 2026
+# [ok]

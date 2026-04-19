@@ -1,0 +1,36 @@
+#                                                                                                                    --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                                accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                      -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+FAD_binding_1        PF00667.27 jgi|Callep1130_1|3302777|fgenesh1_kg.1085_#_109_#_TRINITY_DN6431_c0_g1_i1 -            3.9e-41  141.7   0.0   5.5e-41  141.2   0.0   1.2   1   0   0   1   1   1   1 FAD binding domain
+Flavodoxin_1         PF00258.31 jgi|Callep1130_1|3302777|fgenesh1_kg.1085_#_109_#_TRINITY_DN6431_c0_g1_i1 -            4.9e-33  114.9   0.3   1.4e-32  113.4   0.2   1.8   2   0   0   2   2   1   1 Flavodoxin
+NAD_binding_1        PF00175.27 jgi|Callep1130_1|3302777|fgenesh1_kg.1085_#_109_#_TRINITY_DN6431_c0_g1_i1 -            2.4e-16   60.9   0.0   5.3e-16   59.8   0.0   1.6   1   0   0   1   1   1   1 Oxidoreductase NAD-binding domain
+Flavodoxin_1         PF00258.31 jgi|Emihu1|221860|gm1.9900069 -            7.3e-18   65.7   0.0   1.7e-17   64.5   0.0   1.7   1   1   0   1   1   1   1 Flavodoxin
+NAD_binding_1        PF00175.27 jgi|Emihu1|221860|gm1.9900069 -            5.3e-05   24.4   0.0   0.00013   23.2   0.0   1.6   1   0   0   1   1   1   1 Oxidoreductase NAD-binding domain
+FAD_binding_1        PF00667.27 jgi|Gepoce1|380080|evm.geph.scaffold_2969.1 -            1.6e-10   41.6   0.0     2e-10   41.2   0.0   1.1   1   0   0   1   1   1   1 FAD binding domain
+NAD_binding_1        PF00175.27 jgi|Gepoce1|380080|evm.geph.scaffold_2969.1 -            7.4e-06   27.2   0.0   1.3e-05   26.4   0.0   1.3   1   0   0   1   1   1   1 Oxidoreductase NAD-binding domain
+FAD_binding_1        PF00667.27 jgi|Gepoce1|383072|evm.geph.scaffold_370.21 -              1e-28  101.0   0.0   2.2e-28  100.0   0.0   1.5   2   0   0   2   2   1   1 FAD binding domain
+Flavodoxin_1         PF00258.31 jgi|Gepoce1|383072|evm.geph.scaffold_370.21 -            3.4e-06   27.9   0.0   6.5e-06   26.9   0.0   1.5   1   0   0   1   1   1   1 Flavodoxin
+FAD_binding_1        PF00667.27 jgi|Hymcor1016_1|1975727|estExt_Genewise1Plus.C_2190011 -            1.5e-42  146.3   0.0   2.1e-42  145.8   0.0   1.2   1   0   0   1   1   1   1 FAD binding domain
+Flavodoxin_1         PF00258.31 jgi|Hymcor1016_1|1975727|estExt_Genewise1Plus.C_2190011 -            7.4e-33  114.3   0.6   1.6e-32  113.2   0.6   1.6   1   0   0   1   1   1   1 Flavodoxin
+NAD_binding_1        PF00175.27 jgi|Hymcor1016_1|1975727|estExt_Genewise1Plus.C_2190011 -            6.6e-16   59.5   0.0   1.4e-15   58.5   0.0   1.6   1   0   0   1   1   1   1 Oxidoreductase NAD-binding domain
+FAD_binding_1        PF00667.27 jgi|IsochDm2_1|1272768|fgenesh1_kg.72_#_783_#_TRINITY_DN313_c0_g1_i2 -            1.1e-38  133.7   0.0   1.6e-38  133.2   0.0   1.2   1   0   0   1   1   1   1 FAD binding domain
+Flavodoxin_1         PF00258.31 jgi|IsochDm2_1|1272768|fgenesh1_kg.72_#_783_#_TRINITY_DN313_c0_g1_i2 -            1.3e-30  107.0   0.2   2.2e-30  106.3   0.2   1.4   1   0   0   1   1   1   1 Flavodoxin
+NAD_binding_1        PF00175.27 jgi|IsochDm2_1|1272768|fgenesh1_kg.72_#_783_#_TRINITY_DN313_c0_g1_i2 -            2.2e-15   57.8   0.0   9.5e-15   55.8   0.0   2.0   2   0   0   2   2   1   1 Oxidoreductase NAD-binding domain
+FAD_binding_1        PF00667.27 jgi|Isogal1|89649|evm.iso.scaffold_97.45 -            3.1e-38  132.2   0.0   4.5e-38  131.7   0.0   1.2   1   0   0   1   1   1   1 FAD binding domain
+Flavodoxin_1         PF00258.31 jgi|Isogal1|89649|evm.iso.scaffold_97.45 -            1.7e-30  106.7   0.1   2.8e-30  105.9   0.1   1.4   1   0   0   1   1   1   1 Flavodoxin
+NAD_binding_1        PF00175.27 jgi|Isogal1|89649|evm.iso.scaffold_97.45 -            1.6e-15   58.3   0.0   5.3e-15   56.6   0.0   1.9   2   0   0   2   2   1   1 Oxidoreductase NAD-binding domain
+FAD_binding_1        PF00667.27 jgi|Ochro3194_1|4181361|fgenesh1_kg.57_2592_OTBYT_transcript_9716 -            4.4e-38  131.7   0.0   5.8e-38  131.3   0.0   1.1   1   0   0   1   1   1   1 FAD binding domain
+Flavodoxin_1         PF00258.31 jgi|Ochro3194_1|4181361|fgenesh1_kg.57_2592_OTBYT_transcript_9716 -            2.5e-30  106.1   0.0   4.6e-30  105.2   0.0   1.5   1   0   0   1   1   1   1 Flavodoxin
+NAD_binding_1        PF00175.27 jgi|Ochro3194_1|4181361|fgenesh1_kg.57_2592_OTBYT_transcript_9716 -            1.5e-12   48.7   0.0   3.3e-12   47.6   0.0   1.6   1   0   0   1   1   1   1 Oxidoreductase NAD-binding domain
+FAD_binding_1        PF00667.27 jgi|Pleelo874_1|5926850|fgenesh1_kg.3561_#_1_#_OTBYH_transcript_11694 -            1.1e-22   81.3   0.0   1.5e-22   80.8   0.0   1.2   1   0   0   1   1   1   1 FAD binding domain
+NAD_binding_1        PF00175.27 jgi|Pleelo874_1|5926850|fgenesh1_kg.3561_#_1_#_OTBYH_transcript_11694 -            3.4e-15   57.2   0.0   8.4e-15   56.0   0.0   1.7   1   0   0   1   1   1   1 Oxidoreductase NAD-binding domain
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0022381.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmpg74g4zpo_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0022381.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0022381.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:26:52 2026
+# [ok]

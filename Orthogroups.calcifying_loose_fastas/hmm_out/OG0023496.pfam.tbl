@@ -1,0 +1,30 @@
+#                                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                              accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                    -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Pkinase              PF00069.32 jgi|Callep1130_1|1513863|CE1513862_2628 -            8.6e-32  111.1   0.0     2e-31  110.0   0.0   1.4   1   1   0   1   1   1   1 Protein kinase domain
+PK_Tyr_Ser-Thr       PF07714.24 jgi|Callep1130_1|1513863|CE1513862_2628 -            9.6e-23   81.4   0.0   1.6e-22   80.7   0.0   1.3   1   0   0   1   1   1   1 Protein tyrosine and serine/threonine kinase
+Pkinase              PF00069.32 jgi|Emihu1|196055|gm1.400177 -            1.9e-28  100.2   0.0   3.1e-28   99.5   0.0   1.2   1   0   0   1   1   1   1 Protein kinase domain
+PK_Tyr_Ser-Thr       PF07714.24 jgi|Emihu1|196055|gm1.400177 -            3.3e-20   73.1   0.0   6.1e-20   72.2   0.0   1.3   1   1   0   1   1   1   1 Protein tyrosine and serine/threonine kinase
+Pkinase              PF00069.32 jgi|Gepoce1|375411|evm.geph.scaffold_2060.1 -            1.2e-15   58.2   0.0   4.2e-15   56.5   0.0   1.7   2   0   0   2   2   1   1 Protein kinase domain
+PK_Tyr_Ser-Thr       PF07714.24 jgi|Gepoce1|375411|evm.geph.scaffold_2060.1 -            1.2e-09   38.5   0.0   2.3e-09   37.5   0.0   1.4   2   0   0   2   2   1   1 Protein tyrosine and serine/threonine kinase
+Pkinase              PF00069.32 jgi|Gepoce1|389765|evm.geph.scaffold_52.10 -            6.4e-23   82.1   0.0   2.2e-22   80.3   0.0   1.7   2   0   0   2   2   1   1 Protein kinase domain
+PK_Tyr_Ser-Thr       PF07714.24 jgi|Gepoce1|389765|evm.geph.scaffold_52.10 -            9.7e-18   65.0   0.0   1.7e-17   64.2   0.0   1.3   1   0   0   1   1   1   1 Protein tyrosine and serine/threonine kinase
+Pkinase              PF00069.32 jgi|Hymcor1016_1|2495437|MIX43809_5_37 -            3.3e-34  119.1   0.0     7e-34  118.0   0.0   1.4   1   1   0   1   1   1   1 Protein kinase domain
+PK_Tyr_Ser-Thr       PF07714.24 jgi|Hymcor1016_1|2495437|MIX43809_5_37 -            1.6e-18   67.6   0.0   8.9e-18   65.1   0.0   1.9   1   1   0   1   1   1   1 Protein tyrosine and serine/threonine kinase
+Pkinase              PF00069.32 jgi|Ochro3194_1|4251986|fgenesh1_kg.74_2916_TRINITY_DN2244_c1_g2_i2 -            1.4e-33  117.0   0.0   2.4e-33  116.3   0.0   1.2   1   0   0   1   1   1   1 Protein kinase domain
+PK_Tyr_Ser-Thr       PF07714.24 jgi|Ochro3194_1|4251986|fgenesh1_kg.74_2916_TRINITY_DN2244_c1_g2_i2 -            3.5e-20   73.0   0.0   6.1e-20   72.2   0.0   1.4   1   1   0   1   1   1   1 Protein tyrosine and serine/threonine kinase
+Pkinase              PF00069.32 jgi|Pleelo874_1|7029413|estExt_Genemark4ET.C_29750002 -            5.7e-28   98.6   0.0   8.9e-28   98.0   0.0   1.3   1   0   0   1   1   1   1 Protein kinase domain
+PK_Tyr_Ser-Thr       PF07714.24 jgi|Pleelo874_1|7029413|estExt_Genemark4ET.C_29750002 -            8.3e-15   55.4   0.0   2.1e-14   54.1   0.0   1.6   1   1   0   1   1   1   1 Protein tyrosine and serine/threonine kinase
+Pkinase              PF00069.32 jgi|Umbfol2878_1|5397851|fgenesh1_pm.5_#_255 -            4.9e-36  125.1   0.0   8.6e-36  124.3   0.0   1.4   1   1   0   1   1   1   1 Protein kinase domain
+PK_Tyr_Ser-Thr       PF07714.24 jgi|Umbfol2878_1|5397851|fgenesh1_pm.5_#_255 -            2.6e-24   86.5   0.0     4e-24   85.9   0.0   1.2   1   0   0   1   1   1   1 Protein tyrosine and serine/threonine kinase
+Kdo                  PF06293.21 jgi|Umbfol2878_1|5397851|fgenesh1_pm.5_#_255 -            1.9e-05   24.8   0.0   3.3e-05   24.0   0.0   1.3   1   0   0   1   1   1   1 Lipopolysaccharide kinase (Kdo/WaaP) family
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0023496.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmpewajymt4_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0023496.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0023496.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:27:10 2026
+# [ok]

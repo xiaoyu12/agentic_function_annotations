@@ -1,0 +1,52 @@
+#                                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                             accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                   -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+adh_short            PF00106.32 jgi|Callep1130_1|4226098|gm4et.14149_g -            4.4e-56  190.0   2.4   5.3e-56  189.8   2.4   1.1   1   0   0   1   1   1   1 short chain dehydrogenase
+adh_short_C2         PF13561.13 jgi|Callep1130_1|4226098|gm4et.14149_g -            2.5e-54  185.0   1.9     3e-54  184.7   1.9   1.0   1   0   0   1   1   1   1 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.17 jgi|Callep1130_1|4226098|gm4et.14149_g -            9.5e-13   49.0   3.6   1.4e-12   48.5   3.6   1.1   1   0   0   1   1   1   1 KR domain
+Epimerase            PF01370.28 jgi|Callep1130_1|4226098|gm4et.14149_g -            3.9e-06   27.0   0.5   2.2e-05   24.6   0.5   1.9   1   1   0   1   1   1   1 NAD dependent epimerase/dehydratase family
+adh_short_C2         PF13561.13 jgi|Chrsim136_1|5362550|fgenesh1_kg.87_#_2581_#_TRINITY_DN19028_c0_g1_i2 -            2.6e-52  178.4   0.3   3.2e-52  178.0   0.3   1.0   1   0   0   1   1   1   1 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.32 jgi|Chrsim136_1|5362550|fgenesh1_kg.87_#_2581_#_TRINITY_DN19028_c0_g1_i2 -            2.9e-52  177.6   0.1   3.4e-52  177.4   0.1   1.1   1   0   0   1   1   1   1 short chain dehydrogenase
+KR                   PF08659.17 jgi|Chrsim136_1|5362550|fgenesh1_kg.87_#_2581_#_TRINITY_DN19028_c0_g1_i2 -            1.8e-10   41.6   0.2   2.8e-10   41.0   0.2   1.3   1   0   0   1   1   1   1 KR domain
+adh_short            PF00106.32 jgi|Emihu1|65073|e_gw1.31.110.1 -            7.5e-49  166.4   0.1   8.9e-49  166.2   0.1   1.1   1   0   0   1   1   1   1 short chain dehydrogenase
+adh_short_C2         PF13561.13 jgi|Emihu1|65073|e_gw1.31.110.1 -            4.3e-39  135.1   0.1   4.8e-39  134.9   0.1   1.0   1   0   0   1   1   1   1 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.17 jgi|Emihu1|65073|e_gw1.31.110.1 -            1.2e-11   45.5   1.9   2.6e-11   44.4   1.9   1.6   1   1   0   1   1   1   1 KR domain
+SDR                  PF23441.1  jgi|Emihu1|65073|e_gw1.31.110.1 -            1.3e-06   28.5   0.6   1.9e-06   28.1   0.6   1.1   1   0   0   1   1   1   1 SDR-like rossmann domain
+adh_short_C2         PF13561.13 jgi|Emihu1|416368|estExtDG_Genewise1.C_530062 -            4.8e-53  180.8   0.3   5.7e-53  180.5   0.3   1.0   1   0   0   1   1   1   1 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.32 jgi|Emihu1|416368|estExtDG_Genewise1.C_530062 -            9.9e-48  162.8   0.6   1.1e-47  162.6   0.6   1.0   1   0   0   1   1   1   1 short chain dehydrogenase
+KR                   PF08659.17 jgi|Emihu1|416368|estExtDG_Genewise1.C_530062 -              2e-08   35.0   1.4   2.3e-08   34.7   1.4   1.1   1   0   0   1   1   1   1 KR domain
+SDR                  PF23441.1  jgi|Emihu1|416368|estExtDG_Genewise1.C_530062 -              2e-06   28.0   0.2   3.2e-06   27.3   0.2   1.5   1   1   0   1   1   1   1 SDR-like rossmann domain
+adh_short            PF00106.32 jgi|Gepoce1|381083|evm.geph.scaffold_32.62 -            2.6e-47  161.4   0.7   1.5e-45  155.7   0.7   2.0   1   1   0   1   1   1   1 short chain dehydrogenase
+adh_short_C2         PF13561.13 jgi|Gepoce1|381083|evm.geph.scaffold_32.62 -            3.9e-36  125.4   1.1   7.4e-35  121.2   1.1   2.0   1   1   0   1   1   1   1 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.17 jgi|Gepoce1|381083|evm.geph.scaffold_32.62 -            9.8e-12   45.7   2.4   2.3e-11   44.5   2.4   1.6   1   1   0   1   1   1   1 KR domain
+SDR                  PF23441.1  jgi|Gepoce1|381083|evm.geph.scaffold_32.62 -            2.6e-05   24.3   1.1    0.0014   18.7   1.1   2.1   1   1   0   1   1   1   1 SDR-like rossmann domain
+adh_short            PF00106.32 jgi|Hymcor1016_1|1878713|estExt_Genewise1.C_2090138 -            3.1e-57  193.8   0.4   3.6e-57  193.6   0.4   1.1   1   0   0   1   1   1   1 short chain dehydrogenase
+adh_short_C2         PF13561.13 jgi|Hymcor1016_1|1878713|estExt_Genewise1.C_2090138 -            2.7e-52  178.3   0.4   3.3e-52  178.0   0.4   1.0   1   0   0   1   1   1   1 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.17 jgi|Hymcor1016_1|1878713|estExt_Genewise1.C_2090138 -            5.5e-13   49.8   1.4     7e-13   49.5   1.4   1.1   1   0   0   1   1   1   1 KR domain
+Epimerase            PF01370.28 jgi|Hymcor1016_1|1878713|estExt_Genewise1.C_2090138 -            6.2e-05   23.1   2.6   0.00086   19.4   2.6   2.4   1   1   0   1   1   1   1 NAD dependent epimerase/dehydratase family
+adh_short_C2         PF13561.13 jgi|Hymcor1016_1|2276885|fgenesh1_kg.837_#_9_#_ONATT_transcript_52536 -            3.3e-46  158.4   0.2   4.1e-46  158.1   0.2   1.0   1   0   0   1   1   1   1 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.32 jgi|Hymcor1016_1|2276885|fgenesh1_kg.837_#_9_#_ONATT_transcript_52536 -            1.8e-43  148.9   0.2   2.1e-43  148.7   0.2   1.1   1   0   0   1   1   1   1 short chain dehydrogenase
+KR                   PF08659.17 jgi|Hymcor1016_1|2276885|fgenesh1_kg.837_#_9_#_ONATT_transcript_52536 -            1.9e-06   28.5   0.2   2.7e-06   28.0   0.2   1.2   1   0   0   1   1   1   1 KR domain
+adh_short            PF00106.32 jgi|IsochDm2_1|1264939|fgenesh1_kg.64_#_839_#_ONZOT_transcript_50688 -            2.9e-57  193.9   1.6   3.4e-57  193.7   1.6   1.1   1   0   0   1   1   1   1 short chain dehydrogenase
+adh_short_C2         PF13561.13 jgi|IsochDm2_1|1264939|fgenesh1_kg.64_#_839_#_ONZOT_transcript_50688 -            6.6e-56  190.1   1.2   8.1e-56  189.8   1.2   1.0   1   0   0   1   1   1   1 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.17 jgi|IsochDm2_1|1264939|fgenesh1_kg.64_#_839_#_ONZOT_transcript_50688 -            1.1e-13   52.1   2.3   1.4e-13   51.8   2.3   1.1   1   0   0   1   1   1   1 KR domain
+SDR                  PF23441.1  jgi|IsochDm2_1|1264939|fgenesh1_kg.64_#_839_#_ONZOT_transcript_50688 -            6.8e-08   32.8   0.6   1.1e-07   32.2   0.6   1.2   1   0   0   1   1   1   1 SDR-like rossmann domain
+Epimerase            PF01370.28 jgi|IsochDm2_1|1264939|fgenesh1_kg.64_#_839_#_ONZOT_transcript_50688 -            4.8e-07   30.0   1.4   4.1e-06   27.0   1.4   2.0   1   1   0   1   1   1   1 NAD dependent epimerase/dehydratase family
+THF_DHG_CYH_C        PF02882.26 jgi|IsochDm2_1|1264939|fgenesh1_kg.64_#_839_#_ONZOT_transcript_50688 -            7.3e-05   22.9   0.4   0.00013   22.1   0.4   1.3   1   0   0   1   1   1   1 Tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain
+adh_short            PF00106.32 jgi|Ochro3194_1|4014948|fgenesh1_kg.29_6270_ONZOP_transcript_42535 -            2.3e-56  191.0   1.2   2.6e-56  190.8   1.2   1.0   1   0   0   1   1   1   1 short chain dehydrogenase
+adh_short_C2         PF13561.13 jgi|Ochro3194_1|4014948|fgenesh1_kg.29_6270_ONZOP_transcript_42535 -            7.4e-56  189.9   0.4   9.1e-56  189.7   0.4   1.0   1   0   0   1   1   1   1 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.17 jgi|Ochro3194_1|4014948|fgenesh1_kg.29_6270_ONZOP_transcript_42535 -            4.8e-14   53.2   2.5     6e-14   52.9   2.5   1.1   1   0   0   1   1   1   1 KR domain
+SDR                  PF23441.1  jgi|Ochro3194_1|4014948|fgenesh1_kg.29_6270_ONZOP_transcript_42535 -              5e-10   39.8   0.5   6.6e-10   39.4   0.5   1.2   1   0   0   1   1   1   1 SDR-like rossmann domain
+Epimerase            PF01370.28 jgi|Ochro3194_1|4014948|fgenesh1_kg.29_6270_ONZOP_transcript_42535 -            3.6e-05   23.9   1.7   0.00039   20.5   1.7   2.1   1   1   0   1   1   1   1 NAD dependent epimerase/dehydratase family
+adh_short_C2         PF13561.13 jgi|Pleelo874_1|1221630|CE1221629_1443 -              3e-27   96.3   0.1   3.5e-27   96.1   0.1   1.0   1   0   0   1   1   1   1 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.32 jgi|Pleelo874_1|1221630|CE1221629_1443 -            1.4e-19   71.0   0.2   1.7e-19   70.7   0.2   1.1   1   0   0   1   1   1   1 short chain dehydrogenase
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0021406.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmp77cj7xhr_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0021406.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0021406.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:26:35 2026
+# [ok]

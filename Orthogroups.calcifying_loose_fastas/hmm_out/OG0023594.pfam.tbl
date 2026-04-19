@@ -1,0 +1,25 @@
+#                                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                             accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                   -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Glyco_transf_8       PF01501.27 jgi|Callep1130_1|302833|CE302832_10890 -            8.6e-20   72.0   0.0     2e-19   70.7   0.0   1.7   1   1   0   1   1   1   1 Glycosyl transferase family 8
+LRR_5                PF13306.13 jgi|Emihu1|111968|fgeneshEH_pg.160__37 -            2.6e-18   66.7   5.4   5.1e-12   46.4   0.0   3.9   3   1   0   3   3   2   3 BspA type Leucine rich repeat region (6 copies)
+Glyco_transf_8       PF01501.27 jgi|Emihu1|111968|fgeneshEH_pg.160__37 -            1.2e-13   51.9   0.0   1.6e-07   31.8   0.0   3.1   3   0   0   3   3   2   2 Glycosyl transferase family 8
+Ank_2                PF12796.14 jgi|Gepoce1|376605|evm.geph.scaffold_2272.1 -            1.9e-13   51.4   0.3     3e-13   50.7   0.3   1.3   1   0   0   1   1   1   1 Ankyrin repeats (3 copies)
+Ank_4                PF13637.13 jgi|Gepoce1|376605|evm.geph.scaffold_2272.1 -            2.8e-12   47.1   0.2   1.2e-05   26.0   0.0   2.7   1   1   1   2   2   2   2 Ankyrin repeats (many copies)
+Ank                  PF00023.37 jgi|Gepoce1|376605|evm.geph.scaffold_2272.1 -            5.8e-11   42.6   3.7   0.00074   20.3   0.0   3.6   3   0   0   3   3   2   2 Ankyrin repeat
+Ank_3                PF13606.13 jgi|Gepoce1|376605|evm.geph.scaffold_2272.1 -              2e-09   37.4   0.3      0.21   12.9   0.1   3.6   3   0   0   3   3   2   3 Ankyrin repeat
+Ank_5                PF13857.13 jgi|Gepoce1|376605|evm.geph.scaffold_2272.1 -            7.7e-05   23.6   0.0   0.00018   22.4   0.0   1.6   1   0   0   1   1   1   1 Ankyrin repeats (many copies)
+Glyco_transf_8       PF01501.27 jgi|Hymcor1016_1|2526750|estExt_fgenesh1_pg.C_1350048 -            1.7e-19   71.0   0.0   1.9e-18   67.6   0.0   2.2   1   1   0   1   1   1   1 Glycosyl transferase family 8
+Glyco_transf_8       PF01501.27 jgi|Ochro3194_1|3806631|fgenesh1_kg.3_3586_OTBYT_transcript_15899 -            4.5e-13   49.9   1.0   1.8e-10   41.4   0.0   3.6   3   1   0   3   3   1   2 Glycosyl transferase family 8
+Glyco_transf_8       PF01501.27 jgi|Ochro3194_1|4129772|fgenesh1_kg.47_2168_OTBYT_transcript_15899 -            5.3e-14   53.0   0.4   8.5e-12   45.8   0.0   3.5   2   1   0   2   2   1   1 Glycosyl transferase family 8
+Glyco_transf_8       PF01501.27 jgi|Umbfol2878_1|6408353|estExt_Genemark4ET.C_5_t20075 -            1.4e-18   68.0   0.0   3.1e-17   63.6   0.0   2.5   1   1   0   1   1   1   1 Glycosyl transferase family 8
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0023594.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmpdnp10hje_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0023594.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0023594.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:27:18 2026
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                                   accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                         -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+MMR_HSR1             PF01926.30 jgi|Callep1130_1|3205409|fgenesh1_kg.564_#_18_#_OTBYS_OTBYS_transcript_82227 -            2.7e-08   34.5   0.0   5.9e-08   33.4   0.0   1.6   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+Intron_maturas2      PF01348.27 jgi|Callep1130_1|4302929|estExt_Genemark4ET.C_4110022 -            2.4e-05   24.9   0.0   4.1e-05   24.2   0.0   1.4   1   0   0   1   1   1   1 Type II intron maturase
+MMR_HSR1             PF01926.30 jgi|Gepoce1|393590|evm.geph.scaffold_7.7 -            1.4e-09   38.7   0.0   2.3e-09   37.9   0.0   1.3   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+Intron_maturas2      PF01348.27 jgi|Gepoce1|394919|evm.geph.scaffold_766.10 -            2.9e-08   34.4   0.1   6.1e-08   33.3   0.1   1.5   1   1   0   1   1   1   1 Type II intron maturase
+CysS_C               PF23493.2  jgi|Isogal1|84833|evm.iso.scaffold_5.28 -            7.9e-05   23.3   5.5   7.9e-05   23.3   5.5   2.5   3   0   0   3   3   1   1 Cysteinyl-tRNA ligase anticodon binding domain
+MMR_HSR1             PF01926.30 jgi|Ochro3194_1|4074362|fgenesh1_kg.38_1297_OTBYT_transcript_16189 -            1.7e-09   38.4   0.0   3.3e-09   37.4   0.0   1.5   1   0   0   1   1   1   1 50S ribosome-binding GTPase
+Intron_maturas2      PF01348.27 jgi|Ochro3194_1|4106697|fgenesh1_kg.43_1917_OTBYT_transcript_72213 -            2.7e-08   34.5   0.1   5.2e-08   33.6   0.1   1.5   1   1   0   1   1   1   1 Type II intron maturase
+Intron_maturas2      PF01348.27 jgi|Pleelo874_1|4533963|estExt_Genewise1Plus.C_20400018 -            2.8e-06   27.9   0.0   1.8e-05   25.3   0.0   2.0   1   1   0   1   1   1   1 Type II intron maturase
+MMR_HSR1             PF01926.30 jgi|Umbfol2878_1|5462415|fgenesh1_kg.5_#_2942_#_ONZOS_transcript_25726 -            4.3e-07   30.6   0.0   2.4e-06   28.2   0.0   2.1   2   0   0   2   2   1   1 50S ribosome-binding GTPase
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0019887.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmp1a9_a0f8_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0019887.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0019887.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:25:54 2026
+# [ok]

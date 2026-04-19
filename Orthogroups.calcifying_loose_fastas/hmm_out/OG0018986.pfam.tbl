@@ -1,0 +1,46 @@
+#                                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                   accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                         -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+FG-GAP_3             PF13517.13 jgi|Callep1130_1|3048533|fgenesh1_pm.284_#_5 -            4.6e-42  143.0  76.8   5.2e-11   43.6   8.7   6.5   2   2   4   6   6   6   6 FG-GAP-like repeat
+FG-GAP               PF01839.30 jgi|Callep1130_1|3048533|fgenesh1_pm.284_#_5 -            3.2e-08   33.8  54.8    0.0059   17.1   1.4   7.7   7   0   0   7   7   3   6 FG-GAP repeat
+FG-GAP_3             PF13517.13 jgi|Callep1130_1|3063795|fgenesh1_pm.5006_#_1 -            5.6e-29  101.1  49.6   4.6e-11   43.7   8.7   4.4   1   1   3   4   4   4   4 FG-GAP-like repeat
+FG-GAP               PF01839.30 jgi|Callep1130_1|3063795|fgenesh1_pm.5006_#_1 -            1.4e-05   25.4  32.1    0.0053   17.2   1.4   4.8   4   0   0   4   4   1   4 FG-GAP repeat
+FG-GAP_3             PF13517.13 jgi|Chrlea393_1|2110333|estExt_Genemark4.C_3820005 -            1.7e-59  198.9  82.9   1.8e-14   54.6  11.3   6.5   1   1   5   6   6   6   6 FG-GAP-like repeat
+FG-GAP               PF01839.30 jgi|Chrlea393_1|2110333|estExt_Genemark4.C_3820005 -            4.4e-15   55.8  62.0    0.0013   19.2   6.1   7.5   7   0   0   7   7   6   7 FG-GAP repeat
+FG-GAP_3             PF13517.13 jgi|Chrlea393_1|2118193|fgenesh1_pm.33_#_93 -            1.5e-53  179.8  75.5   5.7e-14   53.0  12.5   6.4   2   1   4   6   6   6   6 FG-GAP-like repeat
+FG-GAP               PF01839.30 jgi|Chrlea393_1|2118193|fgenesh1_pm.33_#_93 -            2.2e-17   63.1  63.2   0.00014   22.3   5.5   7.6   7   0   0   7   7   6   7 FG-GAP repeat
+BBS2_Mid             PF14783.13 jgi|Chrlea393_1|2118193|fgenesh1_pm.33_#_93 -            1.5e-06   28.8   7.6      0.52   11.0   0.4   5.6   5   2   1   6   6   1   3 Ciliary BBSome complex subunit 2, middle region
+TcdB_toxin_midN      PF12256.15 jgi|Chrlea393_1|2118193|fgenesh1_pm.33_#_93 -            3.5e-05   23.8  18.8     0.065   13.1   0.2   5.2   3   1   2   5   5   1   4 Insecticide toxin TcdB middle/N-terminal region
+FG-GAP_3             PF13517.13 jgi|Chrlea393_1|2125583|fgenesh1_pm.102_#_19 -            2.1e-42  144.1  56.2   7.5e-11   43.0   4.4   5.8   2   1   3   5   5   5   5 FG-GAP-like repeat
+FG-GAP               PF01839.30 jgi|Chrlea393_1|2125583|fgenesh1_pm.102_#_19 -            1.8e-10   41.0  46.7     0.006   17.0   0.9   7.5   7   0   0   7   7   3   6 FG-GAP repeat
+FG-GAP_3             PF13517.13 jgi|Emihu1|228513|gm1.14800046 -              3e-56  188.4  86.1   1.8e-13   51.4   9.0   6.5   1   1   5   6   6   6   6 FG-GAP-like repeat
+FG-GAP               PF01839.30 jgi|Emihu1|228513|gm1.14800046 -            3.8e-15   56.0  62.7    0.0095   16.4   0.3   7.8   7   0   0   7   7   7   7 FG-GAP repeat
+FG-GAP_3             PF13517.13 jgi|Gepoce1|384928|evm.geph.scaffold_417.19 -            3.7e-59  197.8  86.5   1.2e-13   52.0   7.9   6.3   1   1   5   6   6   6   6 FG-GAP-like repeat
+FG-GAP               PF01839.30 jgi|Gepoce1|384928|evm.geph.scaffold_417.19 -            1.2e-17   64.0  58.7    0.0054   17.2   0.2   7.5   7   0   0   7   7   6   7 FG-GAP repeat
+TcdB_toxin_midN      PF12256.15 jgi|Gepoce1|384928|evm.geph.scaffold_417.19 -            1.2e-05   25.3  17.6      0.01   15.8   0.2   5.2   3   3   2   5   5   2   3 Insecticide toxin TcdB middle/N-terminal region
+FG-GAP_3             PF13517.13 jgi|Hymcor1016_1|685597|CE685596_13381 -            1.1e-58  196.3  71.0   8.7e-13   49.2   5.4   6.6   1   1   5   6   6   6   6 FG-GAP-like repeat
+FG-GAP               PF01839.30 jgi|Hymcor1016_1|685597|CE685596_13381 -            6.9e-19   67.9  55.7   0.00057   20.3   0.7   7.6   7   0   0   7   7   5   7 FG-GAP repeat
+TcdB_toxin_midN      PF12256.15 jgi|Hymcor1016_1|685597|CE685596_13381 -            1.1e-05   25.4  24.0       1.2    9.0   0.1   7.0   4   3   3   7   7   0   5 Insecticide toxin TcdB middle/N-terminal region
+Itfg2                PF15907.12 jgi|Hymcor1016_1|685597|CE685596_13381 -            2.5e-05   24.3   6.1     0.018   14.9   0.0   4.9   3   2   2   5   5   1   1 Integrin-alpha FG-GAP repeat-containing protein 2
+FG-GAP_3             PF13517.13 jgi|Hymcor1016_1|2247424|fgenesh1_kg.609_#_166_#_TRINITY_DN13582_c0_g1_i2 -            1.7e-54  182.9  70.8   1.7e-13   51.5   7.6   6.3   1   1   5   6   6   6   6 FG-GAP-like repeat
+7tm_3                PF00003.29 jgi|Hymcor1016_1|2247424|fgenesh1_kg.609_#_166_#_TRINITY_DN13582_c0_g1_i2 -            6.5e-33  115.0  22.5     1e-32  114.4  22.5   1.2   1   0   0   1   1   1   1 7 transmembrane sweet-taste receptor of 3 GCPR
+FG-GAP               PF01839.30 jgi|Hymcor1016_1|2247424|fgenesh1_kg.609_#_166_#_TRINITY_DN13582_c0_g1_i2 -            1.4e-18   66.9  56.1     0.006   17.0   1.7   7.5   7   0   0   7   7   7   7 FG-GAP repeat
+TcdB_toxin_midN      PF12256.15 jgi|Hymcor1016_1|2247424|fgenesh1_kg.609_#_166_#_TRINITY_DN13582_c0_g1_i2 -            1.3e-05   25.2  18.9       1.9    8.3   0.1   5.8   3   2   3   6   6   0   5 Insecticide toxin TcdB middle/N-terminal region
+FG-GAP_3             PF13517.13 jgi|Ochro3194_1|4482559|fgenesh1_kg.148_1265_ONZOP_transcript_445 -            1.7e-57  192.4  86.4   1.7e-13   51.5   7.8   6.4   1   1   5   6   6   6   6 FG-GAP-like repeat
+FG-GAP               PF01839.30 jgi|Ochro3194_1|4482559|fgenesh1_kg.148_1265_ONZOP_transcript_445 -            1.4e-16   60.6  58.6    0.0077   16.7   0.2   7.5   7   0   0   7   7   6   7 FG-GAP repeat
+FG-GAP_3             PF13517.13 jgi|Pleelo874_1|287037|CE287036_6869 -            1.3e-62  208.8  72.1   2.2e-14   54.3   0.7   6.2   1   1   5   6   6   6   6 FG-GAP-like repeat
+FG-GAP               PF01839.30 jgi|Pleelo874_1|287037|CE287036_6869 -            2.8e-22   78.7  44.7   0.00013   22.3   0.2   7.3   7   0   0   7   7   7   7 FG-GAP repeat
+TcdB_toxin_midN      PF12256.15 jgi|Pleelo874_1|287037|CE287036_6869 -            5.2e-05   23.2  10.0     0.019   14.8   0.1   5.3   3   1   2   5   5   1   2 Insecticide toxin TcdB middle/N-terminal region
+FG-GAP_3             PF13517.13 jgi|Pleelo874_1|847719|CE847718_3982 -            3.7e-56  188.2  74.4   1.4e-12   48.6   4.0   6.5   1   1   5   6   6   6   6 FG-GAP-like repeat
+7tm_3                PF00003.29 jgi|Pleelo874_1|847719|CE847718_3982 -            4.5e-32  112.3  10.6   6.9e-32  111.7  10.6   1.2   1   0   0   1   1   1   1 7 transmembrane sweet-taste receptor of 3 GCPR
+FG-GAP               PF01839.30 jgi|Pleelo874_1|847719|CE847718_3982 -            8.9e-17   61.2  51.7   0.00032   21.1   0.9   7.6   7   0   0   7   7   5   7 FG-GAP repeat
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0018986.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmpdgbbi5n5_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0018986.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0018986.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:25:28 2026
+# [ok]

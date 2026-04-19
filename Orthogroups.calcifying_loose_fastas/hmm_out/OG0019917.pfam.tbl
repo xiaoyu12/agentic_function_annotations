@@ -1,0 +1,16 @@
+#                                                                                                                    --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                                accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                      -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+cNMP_binding         PF00027.36 jgi|Emihu1|220103|gm1.8900128 -            1.4e-15   57.6   0.2   4.4e-15   56.0   0.1   1.8   2   0   0   2   2   1   1 Cyclic nucleotide-binding domain
+cNMP_binding         PF00027.36 jgi|Emihu1|248202|gm1.64300005 -            3.4e-16   59.6   0.2   4.3e-15   56.0   0.1   2.2   2   0   0   2   2   1   1 Cyclic nucleotide-binding domain
+Apolipoprotein       PF01442.24 jgi|Hymcor1016_1|2555856|gm4et.4886_g -            2.6e-06   27.9 206.5     0.006   16.9  33.4   8.2   1   1   7   8   8   3   8 Apolipoprotein A1/A4/E domain
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0019917.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmp8z1phzzr_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0019917.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0019917.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:26:06 2026
+# [ok]

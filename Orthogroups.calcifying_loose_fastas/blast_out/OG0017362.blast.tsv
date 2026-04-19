@@ -1,0 +1,5 @@
+jgi|Callep1130_1|3633808|fgenesh1_kg.4299_#_7_#_OTBYP_transcript_11039	sp|Q338P6|RCCR1_ORYSJ	sp|Q338P6|RCCR1_ORYSJ Red chlorophyll catabolite reductase 1, chloroplastic OS=Oryza sativa subsp. japonica OX=39947 GN=RCCR1 PE=2 SV=1	24.757	206	6.47e-05	48.9
+jgi|Chrsim136_1|2914042|gw1.46.2380.1	sp|Q338P6|RCCR1_ORYSJ	sp|Q338P6|RCCR1_ORYSJ Red chlorophyll catabolite reductase 1, chloroplastic OS=Oryza sativa subsp. japonica OX=39947 GN=RCCR1 PE=2 SV=1	24.306	144	4.48e-04	47.0
+jgi|Emihu1|462994|estExtDG_fgeneshEH_pg.C_200051	sp|Q5XF07|APE1L_ARATH	sp|Q5XF07|APE1L_ARATH DNA-(apurinic or apyrimidinic site) endonuclease OS=Arabidopsis thaliana OX=3702 GN=APE1L PE=1 SV=1	28.796	382	1.18e-27	120
+jgi|Emihu1|462994|estExtDG_fgeneshEH_pg.C_200051	sp|A0A509ADV9|APEX_PLABA	sp|A0A509ADV9|APEX_PLABA DNA-(apurinic or apyrimidinic site) endonuclease OS=Plasmodium berghei (strain Anka) OX=5823 GN=APE1 PE=3 SV=1	23.590	390	6.69e-21	102
+jgi|Emihu1|462994|estExtDG_fgeneshEH_pg.C_200051	sp|P28352|APEX1_MOUSE	sp|P28352|APEX1_MOUSE DNA repair nuclease/redox regulator APEX1 OS=Mus musculus OX=10090 GN=Apex1 PE=1 SV=2	27.350	234	5.56e-12	72.4

@@ -1,0 +1,7 @@
+jgi|Hymcor1016_1|685597|CE685596_13381	sp|F4IYM4|DEX1_ARATH	sp|F4IYM4|DEX1_ARATH Protein DEFECTIVE IN EXINE FORMATION 1 OS=Arabidopsis thaliana OX=3702 GN=DEX1 PE=2 SV=1	23.333	270	6.94e-04	47.0
+jgi|Hymcor1016_1|2247424|fgenesh1_kg.609_#_166_#_TRINITY_DN13582_c0_g1_i2	sp|Q54ET0|GRLE_DICDI	sp|Q54ET0|GRLE_DICDI Metabotropic glutamate receptor-like protein E OS=Dictyostelium discoideum OX=44689 GN=grlE PE=2 SV=2	28.400	250	4.71e-10	67.8
+jgi|Hymcor1016_1|2247424|fgenesh1_kg.609_#_166_#_TRINITY_DN13582_c0_g1_i2	sp|G5ECB2|GABR2_CAEEL	sp|G5ECB2|GABR2_CAEEL Gamma-aminobutyric acid type B receptor subunit 2 OS=Caenorhabditis elegans OX=6239 GN=gbb-2 PE=1 SV=1	27.336	289	7.82e-09	63.5
+jgi|Hymcor1016_1|2247424|fgenesh1_kg.609_#_166_#_TRINITY_DN13582_c0_g1_i2	sp|P23385|GRM1_RAT	sp|P23385|GRM1_RAT Metabotropic glutamate receptor 1 OS=Rattus norvegicus OX=10116 GN=Grm1 PE=1 SV=1	22.449	294	9.80e-09	63.5
+jgi|Pleelo874_1|847719|CE847718_3982	sp|Q54ET0|GRLE_DICDI	sp|Q54ET0|GRLE_DICDI Metabotropic glutamate receptor-like protein E OS=Dictyostelium discoideum OX=44689 GN=grlE PE=2 SV=2	25.758	264	1.06e-12	76.3
+jgi|Pleelo874_1|847719|CE847718_3982	sp|Q55AP3|GRLO_DICDI	sp|Q55AP3|GRLO_DICDI Metabotropic glutamate receptor-like protein O OS=Dictyostelium discoideum OX=44689 GN=grlO PE=2 SV=1	22.857	210	7.14e-12	73.6
+jgi|Pleelo874_1|847719|CE847718_3982	sp|Q55AP1|GRLA_DICDI	sp|Q55AP1|GRLA_DICDI Metabotropic glutamate receptor-like protein A OS=Dictyostelium discoideum OX=44689 GN=grlA PE=2 SV=1	25.287	261	1.01e-11	73.2

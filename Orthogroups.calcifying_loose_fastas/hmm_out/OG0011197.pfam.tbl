@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                     accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------           -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+2OG-FeII_Oxy         PF03171.27 jgi|Emihu1|222505|gm1.10300157 -            2.6e-07   31.5   0.0   5.2e-07   30.5   0.0   1.5   1   0   0   1   1   1   1 2OG-Fe(II) oxygenase superfamily
+2OG-FeII_Oxy         PF03171.27 jgi|Imarot4477_3|2303206|MIX26895_67_45 -            1.3e-07   32.4   0.0   2.4e-07   31.6   0.0   1.4   1   0   0   1   1   1   1 2OG-Fe(II) oxygenase superfamily
+2OG-FeII_Oxy         PF03171.27 jgi|Imarot704_1|1414918|e_gw1.54.475.1 -            1.3e-07   32.4   0.0   2.4e-07   31.6   0.0   1.4   1   0   0   1   1   1   1 2OG-Fe(II) oxygenase superfamily
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0011197.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmpw7_dlcvv_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0011197.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0011197.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:23:52 2026
+# [ok]

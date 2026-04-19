@@ -1,0 +1,20 @@
+#                                                                                                                    --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                                accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                      -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+DUF2237              PF09996.15 jgi|Callep1130_1|3528235|fgenesh1_kg.2953_#_155_#_TRINITY_DN2032_c0_g1_i1 -            5.2e-18   65.6   0.2     1e-17   64.7   0.2   1.6   1   0   0   1   1   1   1 Uncharacterized protein conserved in bacteria (DUF2237)
+DUF2237              PF09996.15 jgi|Gepoce1|370889|evm.geph.scaffold_146.35 -            6.9e-17   62.0   0.7   1.6e-16   60.8   0.7   1.7   1   0   0   1   1   1   1 Uncharacterized protein conserved in bacteria (DUF2237)
+DUF2237              PF09996.15 jgi|Hymcor1016_1|2335593|fgenesh1_kg.1501_#_41_#_ONATT_transcript_3385 -            2.1e-16   60.5   0.4   4.2e-16   59.5   0.4   1.5   1   0   0   1   1   1   1 Uncharacterized protein conserved in bacteria (DUF2237)
+DUF2237              PF09996.15 jgi|Ochro3194_1|3892061|fgenesh1_kg.13_10493_TRINITY_DN4543_c1_g1_i1 -            2.3e-16   60.3   2.4   2.3e-16   60.3   0.9   1.9   2   0   0   2   2   1   1 Uncharacterized protein conserved in bacteria (DUF2237)
+DUF2237              PF09996.15 jgi|Pleelo874_1|5368640|fgenesh1_kg.816_#_89_#_TRINITY_DN11604_c0_g2_i9 -            5.4e-16   59.1   1.1   1.2e-15   58.0   1.1   1.6   1   0   0   1   1   1   1 Uncharacterized protein conserved in bacteria (DUF2237)
+DUF2237              PF09996.15 jgi|Umbfol2878_1|5597921|fgenesh1_kg.48_#_2715_#_TRINITY_DN82763_c0_g1_i1 -            2.1e-18   66.9   0.3   4.6e-18   65.8   0.3   1.6   1   0   0   1   1   1   1 Uncharacterized protein conserved in bacteria (DUF2237)
+DUF2237              PF09996.15 jgi|Umbfol2878_1|5973307|fgenesh1_kg.389_#_51_#_TRINITY_DN82763_c0_g1_i1 -            2.1e-18   66.9   0.3   4.6e-18   65.8   0.3   1.6   1   0   0   1   1   1   1 Uncharacterized protein conserved in bacteria (DUF2237)
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0022355.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmp31offq53_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0022355.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0022355.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:26:44 2026
+# [ok]

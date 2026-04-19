@@ -1,0 +1,17 @@
+#                                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+TOD1_MUCI70          PF04765.20 jgi|Callep1130_1|694828|CE694827_8302 -            3.2e-11   43.7   0.0   5.3e-05   23.3   0.0   2.1   2   0   0   2   2   2   2 TOD1/MUCI70, glycosyltransferase-like domain
+TOD1_MUCI70          PF04765.20 jgi|Hymcor1016_1|2600125|estExt_Genemark4ET.C_540086 -            1.8e-11   44.5   0.0   2.5e-11   44.0   0.0   1.1   1   0   0   1   1   1   1 TOD1/MUCI70, glycosyltransferase-like domain
+TOD1_MUCI70          PF04765.20 jgi|Ochro3194_1|4564866|fgenesh1_kg.195_88_TRINITY_DN5434_c0_g1_i4 -            3.3e-09   37.1   0.0    0.0026   17.7   0.0   2.1   2   0   0   2   2   2   2 TOD1/MUCI70, glycosyltransferase-like domain
+TOD1_MUCI70          PF04765.20 jgi|Umbfol2878_1|5451319|fgenesh1_kg.3_#_4228_#_ONZOS_transcript_1836 -            2.8e-08   34.0   0.1   0.00012   22.1   0.1   2.1   2   0   0   2   2   2   2 TOD1/MUCI70, glycosyltransferase-like domain
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0024846.fa
+# Target file:     /Users/xiaoyu/db/Pfam-A.hmm
+# Option settings: /var/folders/q3/ldz_9kms0kv01tpy8y76s6100000gq/T/tmpb865w19h_hmmscan --tblout /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/annotation_pipeline/hmm_out/OG0024846.pfam.tbl --noali -E 1e-4 --domE 1e-4 --cpu 4 /Users/xiaoyu/db/Pfam-A.hmm /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder/Orthogroups.calcifying_loose_fastas/OG0024846.fa 
+# Current dir:     /Users/xiaoyu/Library/CloudStorage/OneDrive-CaliforniaStateUniversitySanMarcos/workspace/OrthoFinder
+# Date:            Thu Apr 16 16:27:23 2026
+# [ok]

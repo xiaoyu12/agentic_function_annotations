@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python annotation_pipeline/compare_to_manual.py)",
+      "Bash(python -)",
+      "Bash(python annotation_pipeline/curate_final.py)",
+      "Bash(awk -F'|' '{print $2}')",
+      "Bash(sort -t: -k2 -n -r)",
+      "Bash(awk '/^>/{split\\($0,a,\"|\"\\); print a[2]}' *.fa)",
+      "Bash(python3 -c \"import sys,json; d=json.loads\\(sys.stdin.read\\(\\)\\); print\\(list\\(d.keys\\(\\)\\)[:5]\\); print\\(type\\(d\\)\\)\")",
+      "Bash(python3 -c \"import json; d=json.load\\(open\\('/Users/xiaoyu/workspace/Orthogroups.calcifying_loose_fastas/signalp_results/signalp_batch_001.output.json'\\)\\); print\\(type\\(d\\), list\\(d.keys\\(\\)\\)[:5] if isinstance\\(d,dict\\) else d[:2]\\)\")",
+      "Bash(awk '{split\\($1,a,\"__\"\\); print a[1]}')",
+      "Bash(python3 aggregate_annotations.py)",
+      "Bash(python3 annotate_ogs.py)",
+      "Bash(awk -F'\\\\t' '{print NF, $0}')",
+      "Bash(awk -F'__' '!/^#/ {print $1}' /Users/xiaoyu/workspace/Orthogroups.calcifying_loose_fastas/signalp_results/signalp_batch_001.output_all_results/prediction_results.txt)",
+      "Bash(awk -F'__' '!/^#/ {print $1}' /Users/xiaoyu/workspace/Orthogroups.calcifying_loose_fastas/signalp_results/signalp_batch_002.output_all_results/prediction_results.txt)",
+      "Bash(xargs -I{} grep -c \"^>\" /Users/xiaoyu/workspace/Orthogroups.calcifying_loose_fastas/deeptmhmm_results/{})",
+      "Bash(python3 annotation/aggregate.py)",
+      "Bash(awk '/^[^#]/' /Users/xiaoyu/workspace/Orthogroups.calcifying_loose_fastas/hmm_out/OG0000049.pfam.tbl)",
+      "Bash(awk '/^>/{n++; print n, $0; if\\(n>=3\\) exit}' /Users/xiaoyu/workspace/Orthogroups.calcifying_loose_fastas/OG0000049.fa)",
+      "Bash(awk '!/^#/ {$1=$1; for\\(i=19;i<=NF;i++\\) printf \"%s \", $i; print \"\"}' '/Users/xiaoyu/workspace/Orthogroups.calcifying_loose_fastas/hmm_out/*.pfam.tbl')",
+      "Bash(awk -F'\\\\t' '{print $3}' /Users/xiaoyu/workspace/Orthogroups.calcifying_loose_fastas/blast_out/*.blast.tsv)",
+      "Bash(python3 -c ' *)",
+      "Bash(xargs '-I{}' python3 -c ' *)",
+      "Bash(python3 *)",
+      "Bash(awk 'NF>0 && $1 !~ /^#/ {print $1}' hmm_out/*.pfam.tbl)",
+      "Bash(awk -F'\\\\t' '{print $4}' blast_out/*.blast.tsv)",
+      "Bash(awk -F'\\\\t' 'NF>=4 {print $4}' blast_out/*.blast.tsv)",
+      "Bash(grep -c \"^>\" /Users/xiaoyu/workspace/Orthogroups.calcifying_loose_fastas/OG0000049.fa echo \"---\" head -2 /Users/xiaoyu/workspace/Orthogroups.calcifying_loose_fastas/OG0000049.fa echo \"---\")",
+      "Bash(awk 'NR<=30 && /^>/{print}')",
+      "Bash(awk -F'\\\\t' 'NR>1{print $6}' annotation_calcification.tsv)"
+    ]
+  }
+}

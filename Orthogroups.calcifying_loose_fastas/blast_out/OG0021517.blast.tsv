@@ -1,0 +1,5 @@
+jgi|Hymcor1016_1|2087498|fgenesh1_kg.43_#_81_#_ONATT_transcript_45797	sp|Q5R796|FBX36_PONAB	sp|Q5R796|FBX36_PONAB F-box only protein 36 OS=Pongo abelii OX=9601 GN=FBXO36 PE=2 SV=1	46.341	41	7.53e-05	46.6
+jgi|Hymcor1016_1|2087498|fgenesh1_kg.43_#_81_#_ONATT_transcript_45797	sp|Q8NEA4|FBX36_HUMAN	sp|Q8NEA4|FBX36_HUMAN F-box only protein 36 OS=Homo sapiens OX=9606 GN=FBXO36 PE=1 SV=2	46.341	41	1.82e-04	45.4
+jgi|Phaant1|8965|Phant.0154s0089.1	sp|Q9UK99|FBX3_HUMAN	sp|Q9UK99|FBX3_HUMAN F-box only protein 3 OS=Homo sapiens OX=9606 GN=FBXO3 PE=1 SV=3	51.020	49	4.91e-05	48.1
+jgi|Phaant1|8965|Phant.0154s0089.1	sp|A6H7H7|FBX3_BOVIN	sp|A6H7H7|FBX3_BOVIN F-box only protein 3 OS=Bos taurus OX=9913 GN=FBXO3 PE=2 SV=1	51.020	49	5.22e-05	47.8
+jgi|Phaant1|8965|Phant.0154s0089.1	sp|Q9DC63|FBX3_MOUSE	sp|Q9DC63|FBX3_MOUSE F-box only protein 3 OS=Mus musculus OX=10090 GN=Fbxo3 PE=1 SV=1	46.000	50	2.16e-04	46.2
