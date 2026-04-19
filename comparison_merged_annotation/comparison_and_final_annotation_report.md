@@ -1,6 +1,6 @@
 ﻿# Comparison of AI Orthogroup Annotation Outputs
 
-Generated on 2026-04-18 12:33:54 -07:00 from the local shared evidence and nine model runs.
+Generated on 2026-04-18 21:18:40 -07:00 from the local shared evidence and nine model runs.
 
 ## Inputs Audited
 
@@ -13,13 +13,13 @@ Generated on 2026-04-18 12:33:54 -07:00 from the local shared evidence and nine 
 
 ## Final Merged Relevance Distribution
 
-High: 3; Low: 43; Moderate: 9; Watchlist: 18
+High: 3; Low: 40; Moderate: 9; Watchlist: 21
 
 High-confidence final candidates: OG0017138, OG0018986, OG0020703
 
 Moderate candidates: OG0009246, OG0009301, OG0009816, OG0011061, OG0017305, OG0021347, OG0023594, OG0024846, OG0025059
 
-Watchlist candidates: OG0001332, OG0010991, OG0014155, OG0015153, OG0016203, OG0016211, OG0018519, OG0019817, OG0019917, OG0020657, OG0020696, OG0020706, OG0021523, OG0022355, OG0022473, OG0023496, OG0025015, OG0026865
+Watchlist candidates: OG0001332, OG0001976, OG0010867, OG0010991, OG0014155, OG0015153, OG0016203, OG0016211, OG0018519, OG0019817, OG0019917, OG0020657, OG0020696, OG0020706, OG0021523, OG0022355, OG0022473, OG0022524, OG0023496, OG0025015, OG0026865
 
 ## Method-Level Consistency
 
@@ -37,12 +37,20 @@ Watchlist candidates: OG0001332, OG0010991, OG0014155, OG0015153, OG0016203, OG0
 
 The largest source of inconsistency was biological interpretation, not parsing. Keyword/topology-heavy runs promoted many secreted or membrane proteins without calcification-specific domains, while conservative runs left those as low or watchlist candidates.
 
+## Literature Review Update: Dedman et al. Coccolith Matrix Proteomics
+
+The attached paper, Dedman et al. (2024), Scientific Reports, "Exploring proteins within the coccolith matrix" (DOI: 10.1038/s41598-024-83052-9), adds useful external proteomic context. The study analyzed cleaned coccolith material from Gephyrocapsa huxleyi, Gephyrocapsa oceanica, and Coccolithus braarudii, and compared conserved protein features with shell or skeletal matrix proteins from other marine calcifiers.
+
+The strongest annotation impact is on pentapeptide-repeat orthogroups. Dedman et al. report pentapeptide-repeat proteins in all three examined coccolithophore species and explicitly propose this repetitive structural motif as a coccolith-matrix-associated feature worthy of targeted functional testing. Therefore OG0001976, OG0010867, and OG0022524 have been moved from Low to Watchlist. They were not promoted to Moderate or High because the support is motif-level rather than orthogroup-specific, secretion support is weak or absent in the local data, and the paper itself treats the mechanism as unresolved.
+
+The paper also supports several existing cautious annotations without changing their tiers. Its discussion of carbohydrate-modifying proteins and CAP/baseplate chemistry reinforces the Moderate tier for glycosyltransferase-like candidates such as OG0023594 and OG0024846. Its report of coccolith peptidases and protease-regulation features supports the plausibility of OG0021347 as a secreted matrix-remodeling candidate, while retaining the Moderate tier because trypsin-family enzymes are not calcification-specific. The paper does not justify upgrading generic housekeeping, SMC, histone, ribosomal, or carbon-metabolism annotations, and it cautions that low-abundance matrix proteins require localization or genetic validation.
+
 ## Biological Correctness And Overclaim Patterns
 
 1. Sulfation and sulfated-glycan biology was the most reproducible direct signal. OG0017138 and OG0020703 remain high-confidence final candidates.
 2. Glycosyltransferase-like OGs are plausible but mostly indirect. OG0009816, OG0011061, OG0017305, OG0023594, and OG0024846 are retained as moderate; OG0011061 and OG0017305 were downgraded from some high calls because domain coverage is limited.
 3. Secreted and membrane orphan families are important follow-up targets but should not be annotated as known calcification proteins. They are separated into moderate or watchlist tiers depending on topology strength.
-4. Pentapeptide-repeat OGs were often over-interpreted. The local data support pentapeptide repeats, not a direct Ca/carbonate or biomineralization function.
+4. Pentapeptide-repeat OGs were often over-interpreted in the original runs. The Dedman et al. proteomics paper adds external support for pentapeptide repeats as coccolith-matrix-associated motifs, so those OGs are now watchlist candidates, but direct Ca/carbonate-binding or proven calcification-function claims remain overreach.
 5. BLAST hits to giant/repetitive proteins caused misleading functions in multiple outputs. RPB1 for OG0009301, Piccolo for OG0011061/OG0015153, and collagen calls based on one member of OG0016203 need domain/topology corroboration.
 
 ## Output Files
@@ -58,14 +66,14 @@ The largest source of inconsistency was biological interpretation, not parsing. 
 | --- | ---: | --- | --- | --- |
 | OG0000049 | 502 | Heterogeneous FKBP15/coiled-coil-like expanded family | Low | Very low BLAST/PFAM coverage and mostly globular; no calcification-specific evidence. |
 | OG0001332 | 91 | Hint-domain or Hedgehog-Warthog-like membrane autoprocessing proteins | Watchlist | Strong Hint-domain and membrane topology support cell-surface signalling, but not a direct mineral-matrix function. |
-| OG0001976 | 73 | Pentapeptide-repeat protein family | Low | Strong pentapeptide-repeat support, mostly non-secreted; no direct calcification evidence in the provided data. |
+| OG0001976 | 73 | Pentapeptide-repeat protein family | Watchlist | Strong pentapeptide-repeat support with limited secretion; Dedman et al. (2024) provides external proteomic support for pentapeptide repeats as recurring coccolith-matrix features, but this remains a motif-level follow-up rather than a proven Ca/carbonate-binding function. |
 | OG0002887 | 59 | PIF1-family DNA helicase | Low | Housekeeping genome-maintenance helicase. |
 | OG0003717 | 51 | Uncharacterized family | Low | No BLAST/PFAM annotation and weak TM signal only. |
 | OG0009246 | 29 | Secreted adhesive or ECM-like protein family with weak collagen/adhesive BLAST support | Moderate | SignalP enrichment and adhesive/collagen BLAST hits make this a matrix candidate, but PFAM support is poor and homology coverage is low. |
 | OG0009301 | 29 | Secreted or membrane-anchored proline-rich/SHOCT-like surface protein | Moderate | Very strong SignalP and membrane-anchor topology; RPB1 BLAST is likely low-complexity noise. Good surface/matrix candidate but no specific calcification domain. |
 | OG0009816 | 28 | Golgi alpha-1,3-mannosyltransferase-like enzyme | Moderate | Mannosyltransferase PFAM and BLAST support glycosylation of secretory or matrix molecules, an indirect calcification-relevant process. |
 | OG0010177 | 28 | Ankyrin-repeat scaffold protein | Low | Intracellular scaffold-like annotation with no secretion or calcification-specific evidence. |
-| OG0010867 | 27 | Pentapeptide-repeat protein family | Low | Pentapeptide-repeat support but no strong secretion or mineralization-specific evidence. |
+| OG0010867 | 27 | Pentapeptide-repeat protein family | Watchlist | Pentapeptide-repeat support with weak secretion; Dedman et al. (2024) identifies pentapeptide-repeat proteins in coccolith matrices across species, supporting follow-up relevance but not a direct mineral-binding annotation. |
 | OG0010991 | 27 | Uncharacterized family with minor secretion signal | Watchlist | No functional annotation; 4/27 SignalP positives make it a weak orphan follow-up, not a functional calcification call. |
 | OG0011061 | 27 | Exostosin/GT47-like membrane glycosyltransferase candidate | Moderate | All proteins are membrane-associated and two have GT47 support; plausible polysaccharide/matrix biosynthesis role, but low PFAM coverage prevents a high-confidence direct call. |
 | OG0011197 | 27 | 2OG-Fe(II) oxygenase or RAP-like protein | Low | Weak oxygenase support and top hits do not indicate matrix hydroxylation or calcification. |
@@ -102,7 +110,7 @@ The largest source of inconsistency was biological interpretation, not parsing. 
 | OG0020706 | 11 | Uncharacterized multi-pass membrane family | Watchlist | No homology/domain support but 5/11 DeepTMHMM TM/SP+TM proteins. |
 | OG0020728 | 11 | Uncharacterized soluble/orphan family | Low | No informative evidence. |
 | OG0020729 | 11 | Uncharacterized soluble/orphan family | Low | No informative evidence. |
-| OG0021347 | 10 | Secreted trypsin-family serine protease | Moderate | Strong trypsin PFAM plus secretion; matrix remodeling is plausible but indirect. |
+| OG0021347 | 10 | Secreted trypsin-family serine protease | Moderate | Strong trypsin PFAM plus secretion; Dedman et al. (2024) reports peptidases/protease-regulation as coccolith-matrix themes, so matrix remodeling is plausible but still indirect. |
 | OG0021406 | 10 | Short-chain dehydrogenase or sugar-metabolism enzyme | Low | Metabolic enzyme with no calcification-specific evidence. |
 | OG0021517 | 10 | F-box protein | Low | Protein-turnover adaptor. |
 | OG0021520 | 10 | Mostly uncharacterized soluble family with one beta/TM outlier | Low | Topology support is not family-wide. |
@@ -116,14 +124,14 @@ The largest source of inconsistency was biological interpretation, not parsing. 
 | OG0022492 | 9 | Beta-propeller/WD40 kinase-associated scaffold | Low | Regulatory scaffold/kinase hits, no calcification-specific evidence. |
 | OG0022500 | 9 | Uncharacterized soluble/orphan family | Low | No informative evidence. |
 | OG0022520 | 9 | Uncharacterized soluble/orphan family | Low | No informative evidence. |
-| OG0022524 | 9 | Pentapeptide-repeat protein family | Low | Pentapeptide-repeat support but no secretion or direct calcification evidence. |
+| OG0022524 | 9 | Pentapeptide-repeat protein family | Watchlist | Strong pentapeptide-repeat support; Dedman et al. (2024) supports pentapeptide repeats as coccolith-matrix-associated motifs, but this orthogroup lacks secretion/topology support and remains a cautious follow-up candidate. |
 | OG0022528 | 9 | Uncharacterized soluble/orphan family | Low | No informative evidence. |
 | OG0023496 | 8 | Protein kinase or GAK-BMP2K-like kinase | Watchlist | Possible vesicle/signalling role, but no direct mineral chemistry or matrix evidence. |
 | OG0023566 | 8 | SEY1/RHD3-like ER-fusion GTPase | Low | Secretory/ER morphology role is broad, not calcification-specific. |
-| OG0023594 | 8 | GT8 glycosyltransferase-like enzyme | Moderate | GT8 support is consistent with extracellular polysaccharide biosynthesis, a plausible matrix pathway. |
+| OG0023594 | 8 | GT8 glycosyltransferase-like enzyme | Moderate | GT8 support is consistent with extracellular polysaccharide biosynthesis, and Dedman et al. (2024) reports glycosyltransferase/carbohydrate-metabolism proteins in coccolith preparations; still indirect without orthogroup-specific localization. |
 | OG0023657 | 8 | Uncharacterized soluble/orphan family | Low | No informative evidence. |
 | OG0023790 | 8 | Red chlorophyll catabolite reductase-like protein | Low | Plastid/chlorophyll-catabolism-like evidence. |
-| OG0024846 | 7 | TOD1/MUCI70-like hexosyltransferase | Moderate | MUCI70/TOD1 glycosyltransferase-like domain suggests matrix/cell-wall polysaccharide modification. |
+| OG0024846 | 7 | TOD1/MUCI70-like hexosyltransferase | Moderate | MUCI70/TOD1 glycosyltransferase-like domain suggests matrix/cell-wall polysaccharide modification; Dedman et al. (2024) supports carbohydrate-modifying proteins as plausible coccolithogenesis candidates. |
 | OG0024979 | 7 | Uncharacterized soluble/orphan family | Low | No informative evidence. |
 | OG0025015 | 7 | Uncharacterized pan-calcifier multi-pass membrane family | Watchlist | 7/7 predicted TM and no homology; strong orphan transporter/membrane follow-up candidate. |
 | OG0025016 | 7 | Uncharacterized soluble/orphan family | Low | No informative evidence. |

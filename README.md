@@ -48,6 +48,7 @@ The most important benchmark outputs are in `comparison_merged_annotation/`:
 - `method_consistency_summary.tsv`: run-level label distributions and score summaries.
 - `recomputed_evidence.tsv`: evidence re-aggregation from FASTA, BLAST, Pfam/HMMER, SignalP, and DeepTMHMM.
 - `comparison_and_final_annotation_report.md`: human-readable audit report.
+- `dedman_review/dedman_paper_annotation_review.md`: literature-based update after reviewing Dedman et al. (2024) coccolith matrix proteomics.
 
 ## Summary of Findings
 
@@ -55,17 +56,42 @@ All nine agent runs covered all 73 orthogroups, so the main differences were int
 
 - High relevance: 3 orthogroups
 - Moderate relevance: 9 orthogroups
-- Watchlist: 18 orthogroups
-- Low relevance: 43 orthogroups
+- Watchlist: 21 orthogroups
+- Low relevance: 40 orthogroups
 
 The strongest high-confidence candidates were sulfatase or sulfotransferase families and an FG-GAP/integrin-like surface candidate. Common overclaim patterns included:
 
-- Treating pentapeptide-repeat proteins as direct calcification candidates without supporting evidence.
+- Treating pentapeptide-repeat proteins as direct calcification candidates. After reviewing Dedman et al. (2024), these are best handled as watchlist candidates because the motif has coccolith-matrix support, but orthogroup-specific function remains unproven.
 - Promoting secreted housekeeping enzymes based on SignalP alone.
 - Over-interpreting single weak collagen or adhesive BLAST hits.
 - Transferring low-complexity or giant-protein BLAST labels without domain support.
 
 The skill-enabled coding-agent workflows improved evidence handling, reproducible scripts, and auditability, but they did not eliminate biological overinterpretation.
+
+
+## Reproducing the Merge
+
+The deterministic merge workflow is available in both PowerShell and Python.
+
+PowerShell:
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File .\compare_and_merge_annotations.ps1
+```
+
+Python 3.13+:
+
+```powershell
+& 'C:\Users\zhang\AppData\Local\Programs\Python\Python313\python.exe' .\merge_best_evidence.py
+```
+
+To write a trial run to a separate directory:
+
+```powershell
+& 'C:\Users\zhang\AppData\Local\Programs\Python\Python313\python.exe' .\merge_best_evidence.py --out-dir .\comparison_merged_annotation_python_check
+```
+
+The Python script reads `comparison_curated_final_calls.psv`, recomputes local FASTA/BLAST/Pfam/SignalP/DeepTMHMM evidence, parses the nine agent outputs, applies the Dedman et al. (2024) literature update layer, and regenerates the final annotation table and audit report.
 
 
 ## Notes for Reuse
