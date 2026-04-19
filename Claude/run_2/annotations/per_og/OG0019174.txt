@@ -1,0 +1,18 @@
+Orthogroup: OG0019174
+Members: 13
+With BLAST hit: 13  |  With Pfam: 13
+SignalP positive: 5/13
+TMR: any=0/13  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [7x] Glutamyl-tRNA(Gln) amidotransferase subunit A
+  [5x] Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial
+  [1x] Glutamyl-tRNA(Gln) amidotransferase subunit A 1
+
+Pfam domains observed:
+  [13x] Amidase — Amidase
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 669 aa | mean acidic (D+E): 11.5% | mean S+T: 14.4% | mean Cys: 1.9%
+Calcification score: 0

@@ -1,0 +1,22 @@
+Orthogroup: OG0016203
+Members: 18
+With BLAST hit: 6  |  With Pfam: 2
+SignalP positive: 1/18
+TMR: any=15/18  single-pass=1  multi-pass=14
+
+Top SwissProt hit(s) across members:
+  [3x] Hexamerin 110
+  [1x] Collagen alpha-2(IV) chain
+  [1x] DNA-directed RNA polymerase II subunit RPB1
+  [1x] Ultraviolet-B receptor UVR8
+
+Pfam domains observed:
+  [1x] Collagen — Collagen triple helix repeat (20 copies)
+  [1x] RCC1 — Regulator of chromosome condensation (RCC1) repeat
+  [1x] WD40_RLD — RCC1-like domain
+  [1x] RCC1_2 — Regulator of chromosome condensation (RCC1) repeat
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 442 aa | mean acidic (D+E): 7.4% | mean S+T: 14.6% | mean Cys: 1.8%
+Calcification score: 0

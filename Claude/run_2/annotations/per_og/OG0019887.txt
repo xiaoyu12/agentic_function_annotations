@@ -1,0 +1,19 @@
+Orthogroup: OG0019887
+Members: 12
+With BLAST hit: 2  |  With Pfam: 9
+SignalP positive: 0/12
+TMR: any=0/12  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [1x] Mitochondrial ribosome-associated GTPase 1
+  [1x] Mitochondrial GTPase 1
+
+Pfam domains observed:
+  [4x] MMR_HSR1 — 50S ribosome-binding GTPase
+  [4x] Intron_maturas2 — Type II intron maturase
+  [1x] CysS_C — Cysteinyl-tRNA ligase anticodon binding domain
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 298 aa | mean acidic (D+E): 9.0% | mean S+T: 12.3% | mean Cys: 2.5%
+Calcification score: 0

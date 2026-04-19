@@ -1,0 +1,15 @@
+Orthogroup: OG0016211
+Members: 18
+With BLAST hit: 0  |  With Pfam: 1
+SignalP positive: 2/18
+TMR: any=18/18  single-pass=1  multi-pass=17
+
+Top SwissProt hit(s) across members:
+
+Pfam domains observed:
+  [1x] SUR7 — SUR7/PalI family
+
+Calcification tags: 
+Biomin flags: novel_multipass_membrane
+Mean length: 235 aa | mean acidic (D+E): 8.1% | mean S+T: 14.5% | mean Cys: 4.8%
+Calcification score: 2

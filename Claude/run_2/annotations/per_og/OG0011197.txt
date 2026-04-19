@@ -1,0 +1,18 @@
+Orthogroup: OG0011197
+Members: 27
+With BLAST hit: 4  |  With Pfam: 3
+SignalP positive: 1/27
+TMR: any=2/27  single-pass=2  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [2x] Kihadalactone A synthase LFS
+  [1x] Gibberellin 2-beta-dioxygenase 7
+  [1x] RAP domain-containing protein, chloroplastic
+
+Pfam domains observed:
+  [3x] 2OG-FeII_Oxy — 2OG-Fe(II) oxygenase superfamily
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 345 aa | mean acidic (D+E): 9.3% | mean S+T: 12.2% | mean Cys: 3.5%
+Calcification score: 0

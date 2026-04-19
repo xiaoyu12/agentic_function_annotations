@@ -1,0 +1,30 @@
+The folder Orthogroups.calcifying_loose_fastas contains the FASTA files of selected orthogroups. Please annotate the biological functions of each orthogroup and check their relevances to calcification, based on blast_out, PFAM domains in hmm_out, deeptmhmm_results and signalp_results in the folder. Generate additional data if necessary.
+
+
+Ran 8 commands
+I'll explore the data structure, then write scripts to aggregate and annotate each orthogroup.
+
+
+Ran 14 commands, updated todos, created a file, read 5 files, used a tool
+Now I have all the aggregation data. Let me write the final annotation report with biological function calls and calcification relevance assessments.
+
+
+Created a file, updated todos
+Annotation done. All outputs are in annotation/:
+
+aggregate.py — regenerates summaries from blast_out / hmm_out / signalp_results / deeptmhmm_results
+og_annotation_summary.tsv — one row per OG with BLAST/Pfam/SigP/TM counts
+og_details.md — per-OG top hits
+OG_annotation_report.md — final annotation with calcification-relevance tiers
+Highlights (71 OGs, 1705 seqs)
+HIGH calcification relevance (4):
+
+OG0009246 — Mytilus foot protein FP1 / Col6α5 adhesive-matrix homolog (9/29 SP+)
+OG0011061 — Exostosin GT47 glycosyltransferase, 27/27 TM, mean 9 TMRs (candidate CAP backbone synthesis)
+OG0017138 — Arylsulfatase B, E=3.6e-95 (sulfated polysaccharide remodeling)
+OG0020703 — Heparan-sulfate 6-O-sulfotransferase HS6ST1 (CAP sulfation)
+MEDIUM (~10): Collagen-like membrane proteins (OG0016203), SUR7 eisosome (OG0016211), FG-GAP integrin-like (OG0018986), Stf0 sulphotransferase (OG0017305), GT8 / MNN14 / MUCI70 glycosyltransferases, SHOCT-like secreted/TM (OG0009301), PKA-R, secreted trypsin.
+
+Strong orphan candidates: OG0025015 (7/7 TM), OG0025059 (5/7 SP+), OG0018519 (13/14 TM), OG0022355 (SP+/TM+ DUF2237) — worth pan-haptophyte presence/absence testing.
+
+Most remaining OGs are housekeeping (tRNA/translation, DNA repair, plastid catabolism, bacterial-origin pentapeptide repeats) with no documented calcification link.

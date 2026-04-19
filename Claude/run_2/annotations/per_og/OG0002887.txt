@@ -1,0 +1,29 @@
+Orthogroup: OG0002887
+Members: 59
+With BLAST hit: 16  |  With Pfam: 31
+SignalP positive: 1/59
+TMR: any=0/59  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [5x] ATP-dependent DNA helicase PIF1
+  [3x] ATP-dependent DNA helicase Pif1
+  [3x] ATP-dependent DNA helicase PIF4
+  [2x] ATP-dependent DNA helicase PIF7
+  [1x] ATP-dependent DNA helicase RRM3
+  [1x] DnaJ homolog subfamily B member 14
+  [1x] DnaJ homolog subfamily B member 3
+
+Pfam domains observed:
+  [18x] PIF1 — PIF1-like helicase
+  [17x] Pif1_2B_dom — DNA helicase Pif1, 2B domain
+  [7x] AAA_30 — AAA domain
+  [3x] DnaJ — DnaJ domain
+  [2x] Helitron_like_N — Helitron helicase-like domain at N-terminus
+  [1x] AAA_19 — AAA domain
+  [1x] OTU — OTU-like cysteine protease
+  [1x] Herpes_Helicase — Helicase
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 282 aa | mean acidic (D+E): 11.6% | mean S+T: 11.2% | mean Cys: 1.6%
+Calcification score: 0

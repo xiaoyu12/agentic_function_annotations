@@ -1,0 +1,25 @@
+Orthogroup: OG0019790
+Members: 12
+With BLAST hit: 12  |  With Pfam: 12
+SignalP positive: 0/12
+TMR: any=0/12  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [7x] E3 ubiquitin-protein ligase hecd-1
+  [2x] E3 ubiquitin-protein ligase UPL3
+  [1x] Ankycorbin
+  [1x] Putative ankyrin repeat protein L88
+  [1x] Putative ankyrin repeat protein FPV245
+
+Pfam domains observed:
+  [9x] HECT — HECT-domain (ubiquitin-transferase)
+  [4x] Ank_2 — Ankyrin repeats (3 copies)
+  [4x] Ank — Ankyrin repeat
+  [4x] Ank_3 — Ankyrin repeat
+  [4x] Ank_4 — Ankyrin repeats (many copies)
+  [3x] Ank_5 — Ankyrin repeats (many copies)
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 1104 aa | mean acidic (D+E): 10.4% | mean S+T: 11.5% | mean Cys: 2.0%
+Calcification score: 0

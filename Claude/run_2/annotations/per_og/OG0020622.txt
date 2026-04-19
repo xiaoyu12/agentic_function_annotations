@@ -1,0 +1,30 @@
+Orthogroup: OG0020622
+Members: 11
+With BLAST hit: 11  |  With Pfam: 11
+SignalP positive: 1/11
+TMR: any=0/11  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [11x] ATP-dependent RecD2 DNA helicase
+
+Pfam domains observed:
+  [10x] AAA_30 — AAA domain
+  [10x] AAA_19 — AAA domain
+  [10x] UvrD_C_2 — UvrD-like helicase C-terminal domain
+  [10x] SH3_13 — ATP-dependent RecD-like DNA helicase SH3 domain
+  [10x] Viral_helicase1 — Viral superfamily 1 RNA helicase core domain
+  [9x] HHH_RecD2 — ATP-dependent RecD2 DNA helicase HHH domain
+  [9x] OB_YrrC — ATP-dependent DNA helicase YrrC, OB-fold domain
+  [8x] AAA_11 — AAA domain
+  [5x] AAA_22 — AAA domain
+  [4x] NAT10_TcmA_helicase — RNA cytidine acetyltransferase NAT10/TcmA, helicase domain
+  [4x] HHH_5 — Helix-hairpin-helix domain
+  [3x] TraI_hel_assoc_N — TraI helicase-associated ssDNA bd, N-terminal
+  [2x] AAA_16 — AAA ATPase domain
+  [2x] SLFN-g3_helicase — Schlafen group 3, DNA/RNA helicase domain
+  [1x] SAP — SAP domain
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 726 aa | mean acidic (D+E): 10.5% | mean S+T: 10.9% | mean Cys: 1.4%
+Calcification score: 0

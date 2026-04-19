@@ -1,0 +1,20 @@
+Orthogroup: OG0017903
+Members: 15
+With BLAST hit: 15  |  With Pfam: 12
+SignalP positive: 0/15
+TMR: any=0/15  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [15x] Flavohemoprotein
+
+Pfam domains observed:
+  [10x] FAD_binding_6 — Oxidoreductase FAD-binding domain
+  [5x] Globin — Globin
+  [2x] NAD_binding_1 — Oxidoreductase NAD-binding domain
+  [1x] NPF — Rabosyn-5 repeating NPF sequence-motif
+  [1x] Protoglobin — Protoglobin
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 365 aa | mean acidic (D+E): 9.8% | mean S+T: 13.0% | mean Cys: 1.8%
+Calcification score: 0

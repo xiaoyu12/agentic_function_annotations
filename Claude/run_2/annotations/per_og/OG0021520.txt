@@ -1,0 +1,14 @@
+Orthogroup: OG0021520
+Members: 10
+With BLAST hit: 0  |  With Pfam: 0
+SignalP positive: 0/10
+TMR: any=1/10  single-pass=0  multi-pass=1
+
+Top SwissProt hit(s) across members:
+
+Pfam domains observed:
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 588 aa | mean acidic (D+E): 7.6% | mean S+T: 14.7% | mean Cys: 1.2%
+Calcification score: 0

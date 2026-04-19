@@ -1,0 +1,31 @@
+⏺ Bash(python3 annotation_output/annotate_ogs.py && ls -la annotation_output/)
+  ⎿  Wrote 73 OG annotations.              
+     tier counts: {'low': 62, 'medium': 10, 'high': 1}
+     total 584                                                           
+     … +6 lines (ctrl+o to expand)         
+                                          
+  Read 1 file (ctrl+o to expand)                                                                      
+                                           
+⏺ Annotation done. Outputs written to annotation_output/:                                             
+                                                                                                      
+  - og_annotations.tsv - per-OG summary (function, SP/TM%, top PFAM, top BLAST, calcification tier +
+  rationale)                                                                                          
+  - og_annotations.md - human-readable report with summary table and per-OG details                   
+  - og_sequence_table.tsv - per-sequence details (length, TMRs, SP prediction, cleavage site)
+  - annotate_ogs.py - reproducible script                                                             
+                                                                                                      
+  Results across 73 OGs, 1705 sequences from 22 haptophyte/coccolithophore proteomes:                 
+                                                                                                      
+  - HIGH (1): OG0016203 - Collagen alpha-2(IV)-like (PFAM Collagen; 83% TM) — canonical ECM scaffold, 
+  the only OG with a direct biomineralization-marker PFAM hit.                                        
+  - MEDIUM (10): ECM/matrix proteases and modifiers + secreted candidates - e.g. OG0009246 Adhesive   
+  plaque matrix; OG0017138 Arylsulfatase B; OG0020703 Heparan-6-O-sulfotransferase; OG0021347 Trypsin;
+   OG0015153 Piccolo-like; OG0014155/OG0014250/OG0019817/OG0025059 secreted uncharacterized candidates
+   (50-71% SP).                                                                                       
+  - LOW (62): no direct canonical biomineralization evidence, but several notable all-TM or highly    
+  secreted "dark" candidates: OG0018519 (93% TM, no homology), OG0025015 (100% TM), OG0022355 (67% SP 
+  + 67% TM), OG0009301 (72% SP + 52% TM).
+                                                                                                      
+  The BLAST database (SwissProt) doesn't contain haptophyte-specific biomineralization proteins (e.g. 
+  GPA/coccolith matrix), so many lineage-specific candidates show no homology but are flagged via
+  secretion/TM topology for follow-up. 

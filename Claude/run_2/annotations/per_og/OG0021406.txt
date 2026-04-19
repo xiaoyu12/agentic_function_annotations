@@ -1,0 +1,22 @@
+Orthogroup: OG0021406
+Members: 10
+With BLAST hit: 10  |  With Pfam: 10
+SignalP positive: 0/10
+TMR: any=0/10  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [9x] 2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+  [1x] Gluconate 5-dehydrogenase
+
+Pfam domains observed:
+  [10x] adh_short — short chain dehydrogenase
+  [10x] adh_short_C2 — Enoyl-(Acyl carrier protein) reductase
+  [9x] KR — KR domain
+  [5x] SDR — SDR-like rossmann domain
+  [4x] Epimerase — NAD dependent epimerase/dehydratase family
+  [1x] THF_DHG_CYH_C — Tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 230 aa | mean acidic (D+E): 9.9% | mean S+T: 12.0% | mean Cys: 0.3%
+Calcification score: 0

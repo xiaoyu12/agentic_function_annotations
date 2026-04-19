@@ -1,0 +1,20 @@
+Orthogroup: OG0014155
+Members: 22
+With BLAST hit: 15  |  With Pfam: 17
+SignalP positive: 11/22
+TMR: any=2/22  single-pass=2  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [5x] Pyrimidine-specific ribonucleoside hydrolase RihA
+  [5x] Nucleoside hydrolase 4
+  [3x] Nucleoside hydrolase 3
+  [1x] Pyrimidine-specific ribonucleoside hydrolase RihB
+  [1x] Probable uridine nucleosidase 2
+
+Pfam domains observed:
+  [17x] IU_nuc_hydro — Inosine-uridine preferring nucleoside hydrolase
+
+Calcification tags: 
+Biomin flags: secretome_candidate
+Mean length: 365 aa | mean acidic (D+E): 10.3% | mean S+T: 13.5% | mean Cys: 1.6%
+Calcification score: 2

@@ -1,0 +1,18 @@
+Orthogroup: OG0011061
+Members: 27
+With BLAST hit: 3  |  With Pfam: 2
+SignalP positive: 9/27
+TMR: any=27/27  single-pass=0  multi-pass=27
+
+Top SwissProt hit(s) across members:
+  [1x] Putative PWWP domain-containing DNA repair factor 4
+  [1x] Protein piccolo
+  [1x] Probable xyloglucan galactosyltransferase GT20
+
+Pfam domains observed:
+  [2x] Exostosin_GT47 — Exostosin GT47 domain
+
+Calcification tags: 
+Biomin flags: novel_secreted,novel_multipass_membrane
+Mean length: 608 aa | mean acidic (D+E): 6.0% | mean S+T: 13.1% | mean Cys: 2.0%
+Calcification score: 4

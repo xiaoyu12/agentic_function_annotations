@@ -1,0 +1,20 @@
+Orthogroup: OG0022381
+Members: 9
+With BLAST hit: 9  |  With Pfam: 9
+SignalP positive: 0/9
+TMR: any=4/9  single-pass=4  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [4x] NADPH--cytochrome P450 reductase 3
+  [3x] NADPH--cytochrome P450 reductase
+  [2x] NADPH--cytochrome P450 reductase 2
+
+Pfam domains observed:
+  [8x] FAD_binding_1 — FAD binding domain
+  [8x] NAD_binding_1 — Oxidoreductase NAD-binding domain
+  [7x] Flavodoxin_1 — Flavodoxin
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 514 aa | mean acidic (D+E): 11.4% | mean S+T: 11.4% | mean Cys: 1.8%
+Calcification score: 0

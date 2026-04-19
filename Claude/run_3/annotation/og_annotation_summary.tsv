@@ -1,0 +1,74 @@
+OG	N_seqs	BLAST_hits_queries	Top_BLAST_desc	Best_BLAST_gene	Best_BLAST_evalue	Best_BLAST_organism	Pfam_hits_queries	Top_Pfam_domains	SigP_pos/total	TMR_pos/total	Mean_TMRs	Max_TMRs
+OG0000049	502	20	Reticulocyte-binding protein homolog 2a(n=6); FK506-binding protein 15(n=6); Methyltransferase sdnD(n=1)	nth-1	7.1e-11	Caenorhabditis elegans	14	FKBP15(n=7:FK506-binding protein 15-like domain); CCDC39(n=2:Coiled-coil domain-containing protein 39); ODF2_C(n=2:ODF2 C-terminal coiled coil domain)	2/502	3/502	0.02	6
+OG0001332	91	84	Warthog protein 1(n=68); Protein hedgehog(n=6); Warthog protein 8(n=4)	wrt-4	1.2e-15	Caenorhabditis elegans	86	Hint(n=85:Hint module); Trypsin(n=2:Trypsin); Hint_2(n=2:Hint domain)	1/91	76/91	0.90	2
+OG0001976	73	70	Uncharacterized protein slr1819(n=44); Uncharacterized protein in mobD 3'region(n=10); Secreted effector protein PipB2(n=7)	slr1819	2.3e-22	Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa)	72	Pentapeptide(n=72:Pentapeptide repeats (8 copies)); Pentapeptide_4(n=70:Pentapeptide repeat region); Pentapeptide_3(n=70:Pentapeptide repeats (9 copies))	4/73	3/73	0.07	2
+OG0002887	59	16	ATP-dependent DNA helicase PIF1(n=5); ATP-dependent DNA helicase Pif1(n=3); ATP-dependent DNA helicase PIF4(n=3)	PIF1	8.4e-18	Homo sapiens	31	PIF1(n=18:PIF1-like helicase); Pif1_2B_dom(n=17:DNA helicase Pif1, 2B domain); AAA_30(n=7:AAA domain)	1/59	0/59	0.00	0
+OG0003717	51	0					0		0/51	4/51	0.12	2
+OG0009246	29	2	Collagen alpha-5(VI) chain(n=1); Adhesive plaque matrix protein(n=1)	FP1	2.1e-08	Mytilus coruscus	1	tRNA-synt_2(n=1:tRNA synthetases class II (D, K and N))	9/29	4/29	0.14	1
+OG0009301	29	1	DNA-directed RNA polymerase II subunit RPB1(n=1)	Polr2a	8.5e-04	Mus musculus	5	SHOCT(n=4:Short C-terminal domain); PRIMA1(n=1:Proline-rich membrane anchor 1)	21/29	15/29	0.55	2
+OG0009816	28	10	Putative alpha-1,3-mannosyltransferase MNN14(n=9); Alpha-1,3-mannosyltransferase MNN15(n=1)	MNN14	1.9e-12	Candida albicans (strain SC5314 / ATCC MYA-2876)	15	Mannosyl_trans3(n=15:Mannosyltransferase putative)	2/28	6/28	0.36	5
+OG0010177	28	25	Putative ankyrin repeat protein RBE_0220(n=15); Ankyrin repeat domain-containing protein 29(n=3); GA-binding protein subunit beta-2(n=1)	RBE_0220	3.5e-16	Rickettsia bellii (strain RML369-C)	24	Ank_2(n=24:Ankyrin repeats (3 copies)); Ank(n=24:Ankyrin repeat); Ank_5(n=24:Ankyrin repeats (many copies))	0/28	0/28	0.00	0
+OG0010867	27	27	Uncharacterized protein slr1819(n=17); Serine/threonine-protein kinase B(n=5); Uncharacterized protein in mobD 3'region(n=3)	slr1819	9.9e-23	Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa)	27	Pentapeptide(n=27:Pentapeptide repeats (8 copies)); Pentapeptide_3(n=26:Pentapeptide repeats (9 copies)); Pentapeptide_4(n=25:Pentapeptide repeat region)	1/27	0/27	0.00	0
+OG0010991	27	0					0		4/27	1/27	0.07	2
+OG0011061	27	3	Putative PWWP domain-containing DNA repair factor 4(n=1); Protein piccolo(n=1); Probable xyloglucan galactosyltransferase GT20(n=1)	PWWP4	6.0e-11	Homo sapiens	2	Exostosin_GT47(n=2:Exostosin GT47 domain)	9/27	27/27	9.11	12
+OG0011197	27	4	Kihadalactone A synthase LFS(n=2); Gibberellin 2-beta-dioxygenase 7(n=1); RAP domain-containing protein, chloroplastic(n=1)	AL1	1.7e-10	Oryza sativa subsp. japonica	3	2OG-FeII_Oxy(n=3:2OG-Fe(II) oxygenase superfamily)	1/27	2/27	0.07	1
+OG0013037	24	2	Protein Obscurin(n=1); Titin(n=1)	TTN	2.7e-05	Homo sapiens	1	Hydrolase_4(n=1:Serine aminopeptidase, S33)	5/24	6/24	0.25	1
+OG0014155	22	15	Pyrimidine-specific ribonucleoside hydrolase RihA(n=5); Nucleoside hydrolase 4(n=5); Nucleoside hydrolase 3(n=3)	NSH4	4.1e-21	Arabidopsis thaliana	17	IU_nuc_hydro(n=17:Inosine-uridine preferring nucleoside hy)	11/22	2/22	0.09	1
+OG0014250	22	18	Glutamyl-tRNA(Gln) amidotransferase subunit A(n=17); Glutamyl-tRNA(Gln) amidotransferase subunit A 1(n=1)	gatA	8.8e-22	Borrelia garinii subsp. bavariensis (strain ATCC BAA-2496 / DSM 23469 / PBi)	17	Amidase(n=17:Amidase)	15/22	1/22	0.05	1
+OG0015153	20	3	Protein piccolo(n=2); Subtelomeric hrmA-associated cluster protein AFUA_5G14930(n=1)	AFUA_5G14930	1.3e-10	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	0		1/20	17/20	6.25	9
+OG0016203	18	6	Hexamerin 110(n=3); Collagen alpha-2(IV) chain(n=1); DNA-directed RNA polymerase II subunit RPB1(n=1)		8.0e-19	Ascaris suum	2	Collagen(n=1:Collagen triple helix repeat (20 copies)); RCC1(n=1:Regulator of chromosome condensation (RC); WD40_RLD(n=1:RCC1-like domain)	1/18	15/18	6.39	12
+OG0016211	18	0					1	SUR7(n=1:SUR7/PalI family)	2/18	18/18	3.78	4
+OG0017138	16	16	Arylsulfatase B(n=14); Arylsulfatase I(n=1); Arylsulfatase J(n=1)	Arsb	3.6e-95	Rattus norvegicus	14	Sulfatase(n=14:Sulfatase); Polysacc_lyase(n=1:Polysaccharide lyase); Kelch_1(n=1:Kelch motif)	2/16	0/16	0.00	0
+OG0017238	16	11	tRNA ligase 1(n=11)	RNL	6.2e-25	Arabidopsis thaliana	0		0/16	0/16	0.00	0
+OG0017305	16	0					3	Sulphotransf(n=3:Stf0 sulphotransferase)	1/16	0/16	0.00	0
+OG0017361	16	16	Isonitrile hydratase(n=14); HTH-type transcriptional regulator CdhR(n=1); HTH-type transcriptional regulator GbdR(n=1)	cdhR	3.6e-84	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	16	DJ-1_PfpI(n=16:DJ-1/PfpI family); HTH_18(n=1:Helix-turn-helix domain); HTH_AraC(n=1:Bacterial regulatory helix-turn-helix pr)	1/16	2/16	0.12	1
+OG0017362	16	3	Red chlorophyll catabolite reductase 1, chloroplastic(n=2); DNA-(apurinic or apyrimidinic site) endonuclease(n=1)	APE1L	1.2e-27	Arabidopsis thaliana	5	RCC_reductase(n=3:Red chlorophyll catabolite reductase (RC); Exo_endo_phos(n=1:Endonuclease/Exonuclease/phosphatase fam); Abhydrolase_5(n=1:Alpha/beta hydrolase family)	7/16	2/16	0.12	1
+OG0017884	15	2	Mycothiol acetyltransferase(n=2)	mshD	2.4e-05	Kribbella flavida (strain DSM 17836 / JCM 10339 / NBRC 14399)	7	Acetyltransf_1(n=7:Acetyltransferase (GNAT) family); Acetyltransf_7(n=7:Acetyltransferase (GNAT) domain); RNF34L-like_3rd(n=2:E3 ubiquitin-protein ligase rififylin-li)	0/15	4/15	1.27	8
+OG0017903	15	15	Flavohemoprotein(n=15)	hmp	2.2e-106	Vibrio parahaemolyticus serotype O3:K6 (strain RIMD 2210633)	12	FAD_binding_6(n=10:Oxidoreductase FAD-binding domain); Globin(n=5:Globin); NAD_binding_1(n=2:Oxidoreductase NAD-binding domain)	0/15	0/15	0.00	0
+OG0017965	15	5	Kelch repeat-containing protein At3g27220(n=3); Kelch-like protein 36(n=1); Kelch-like ECH-associated protein 1(n=1)	Keap1	1.1e-10	Mus musculus	5	Kelch_1(n=5:Kelch motif); Kelch_2(n=5:Kelch motif); NANM(n=5:N-acetylneuraminate epimerase)	0/15	0/15	0.00	0
+OG0018519	14	0					0		0/14	13/14	3.64	4
+OG0018986	13	3	Metabotropic glutamate receptor-like protein E(n=2); Protein DEFECTIVE IN EXINE FORMATION 1(n=1)	grlE	1.1e-12	Dictyostelium discoideum	12	FG-GAP_3(n=12:FG-GAP-like repeat); FG-GAP(n=12:FG-GAP repeat); TcdB_toxin_midN(n=5:Insecticide toxin TcdB middle/N-terminal)	7/13	10/13	1.92	8
+OG0019067	13	12	Protein NLRC3(n=6); NLR family CARD domain-containing protein 3(n=4); Nucleotide-binding oligomerization domain-containing protein 1(n=1)	NLRC3	1.5e-16	Homo sapiens	12	LRR_6(n=12:Leucine Rich repeat); LRR_TMOD-LMOD(n=7:TMOD/LMOD Leucine-rich domain); LRR_4(n=1:Leucine Rich repeats (2 copies))	0/13	5/13	0.77	6
+OG0019078	13	13	Elongation factor 1-gamma 2(n=6); Elongation factor 1-gamma(n=4); Probable elongation factor 1-gamma 1(n=2)	Os02g0220500	4.5e-59	Oryza sativa subsp. japonica	12	GST_N(n=11:Glutathione S-transferase, N-terminal do); GST_C(n=10:Glutathione S-transferase, C-terminal do); GST_N_2(n=10:Glutathione S-transferase, N-terminal do)	0/13	0/13	0.00	0
+OG0019174	13	13	Glutamyl-tRNA(Gln) amidotransferase subunit A(n=7); Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial(n=5); Glutamyl-tRNA(Gln) amidotransferase subunit A 1(n=1)	qrsl1	2.9e-19	Xenopus laevis	13	Amidase(n=13:Amidase)	5/13	0/13	0.00	0
+OG0019180	13	0					0		0/13	0/13	0.00	0
+OG0019790	12	12	E3 ubiquitin-protein ligase hecd-1(n=7); E3 ubiquitin-protein ligase UPL3(n=2); Ankycorbin(n=1)	hecd-1	4.2e-60	Caenorhabditis elegans	12	HECT(n=9:HECT-domain (ubiquitin-transferase)); Ank_2(n=4:Ankyrin repeats (3 copies)); Ank(n=4:Ankyrin repeat)	0/12	0/12	0.00	0
+OG0019817	12	10	Aurachin C monooxygenase/isomerase(n=5); 3-amino-4-hydroxybenzoate 2-monooxygenase(n=2); 3-amino-4-hydroxybenzoate 2-monooxygenase PtmB3(n=1)	auaG	4.0e-28	Stigmatella aurantiaca	10	FAD_binding_3(n=9:FAD binding domain); NAD_binding_8(n=9:NAD(P)-binding Rossmann-like domain)	8/12	1/12	0.08	1
+OG0019873	12	12	1-aminocyclopropane-1-carboxylate synthase 11(n=7); 1-aminocyclopropane-1-carboxylate synthase 4(n=2); 1-aminocyclopropane-1-carboxylate synthase 8(n=2)	ACS11	1.7e-71	Arabidopsis thaliana	10	Aminotran_1_2(n=10:Aminotransferase class I and II)	0/12	0/12	0.00	0
+OG0019887	12	2	Mitochondrial ribosome-associated GTPase 1(n=1); Mitochondrial GTPase 1(n=1)	AAEL003813	1.2e-06	Aedes aegypti	9	MMR_HSR1(n=4:50S ribosome-binding GTPase); Intron_maturas2(n=4:Type II intron maturase); CysS_C(n=1:Cysteinyl-tRNA ligase anticodon binding )	0/12	0/12	0.00	0
+OG0019917	12	2	cAMP-dependent protein kinase regulatory subunit(n=2)	pkaR	2.4e-18	Dictyostelium discoideum	3	cNMP_binding(n=2:Cyclic nucleotide-binding domain); Apolipoprotein(n=1:Apolipoprotein A1/A4/E domain)	1/12	3/12	0.33	2
+OG0020622	11	11	ATP-dependent RecD2 DNA helicase(n=11)	recD2	3.1e-72	Bacillus subtilis (strain 168)	11	AAA_30(n=10:AAA domain); AAA_19(n=10:AAA domain); UvrD_C_2(n=10:UvrD-like helicase C-terminal domain)	1/11	0/11	0.00	0
+OG0020657	11	0					0		3/11	0/11	0.00	0
+OG0020696	11	0					0		1/11	3/11	0.27	1
+OG0020700	11	0					3	PDZ_2(n=3:PDZ domain); PDZ(n=2:PDZ domain); PDZ_6(n=2:PDZ domain)	0/11	0/11	0.00	0
+OG0020703	11	2	Heparan-sulfate 6-O-sulfotransferase 1(n=2)	HS6ST1	2.9e-05	Homo sapiens	1	Sulfotransfer_3(n=1:Sulfotransferase family); Sulfotransfer_1(n=1:Sulfotransferase domain)	4/11	0/11	0.00	0
+OG0020706	11	0					0		0/11	5/11	2.64	8
+OG0020728	11	0					0		0/11	0/11	0.00	0
+OG0020729	11	0					0		0/11	0/11	0.00	0
+OG0021347	10	10	Trypsin-1(n=3); Snake venom serine protease HS112(n=2); Transmembrane protease serine 2(n=1)	AAEL007818	2.3e-38	Aedes aegypti	10	Trypsin(n=10:Trypsin); Trypsin_2(n=3:Trypsin-like peptidase domain); DUF1986(n=1:Domain of unknown function (DUF1986))	5/10	0/10	0.00	0
+OG0021406	10	10	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase(n=9); Gluconate 5-dehydrogenase(n=1)	kduD	3.2e-53	Escherichia coli (strain K12)	10	adh_short(n=10:short chain dehydrogenase); adh_short_C2(n=10:Enoyl-(Acyl carrier protein) reductase); KR(n=9:KR domain)	0/10	0/10	0.00	0
+OG0021517	10	2	F-box only protein 36(n=1); F-box only protein 3(n=1)	FBXO3	4.9e-05	Homo sapiens	9	F-box-like(n=8:F-box-like); F-box(n=4:F-box domain)	0/10	0/10	0.00	0
+OG0021520	10	0					0		0/10	1/10	1.40	14
+OG0021523	10	6	Probable protein phosphatase 2C 35(n=2); Probable protein phosphatase 2C 64(n=2); Protein phosphatase 2C and cyclic nucleotide-binding/kinase domain-containing protein(n=1)	At3g06270	6.9e-38	Arabidopsis thaliana	6	PP2C(n=6:Protein phosphatase 2C)	0/10	0/10	0.00	0
+OG0021531	10	7	Probable periplasmic serine endoprotease DegP-like(n=3); Putative serine protease HhoB(n=1); Tight junction protein ZO-3(n=1)	degP	9.2e-06	Escherichia coli (strain K12)	10	PDZ_6(n=10:PDZ domain); PDZ_2(n=7:PDZ domain); PDZ(n=6:PDZ domain)	0/10	0/10	0.00	0
+OG0022355	9	0					7	DUF2237(n=7:Uncharacterized protein conserved in bac)	6/9	6/9	0.67	1
+OG0022381	9	9	NADPH--cytochrome P450 reductase 3(n=4); NADPH--cytochrome P450 reductase(n=3); NADPH--cytochrome P450 reductase 2(n=2)	Por	3.5e-132	Cavia porcellus	9	FAD_binding_1(n=8:FAD binding domain); NAD_binding_1(n=8:Oxidoreductase NAD-binding domain); Flavodoxin_1(n=7:Flavodoxin)	0/9	4/9	0.44	1
+OG0022455	9	0					0		0/9	0/9	0.00	0
+OG0022473	9	0					0		3/9	3/9	0.33	1
+OG0022474	9	0					8	F-box-like(n=8:F-box-like); F-box(n=6:F-box domain)	0/9	0/9	0.00	0
+OG0022492	9	5	Myosin heavy chain kinase B(n=4); Zinc finger CCCH domain-containing protein 17(n=1)	mhkB	2.6e-10	Dictyostelium discoideum	9	Beta-prop_TEP1_2nd(n=7:TEP-1 second beta-propeller); WD40(n=5:WD domain, G-beta repeat); Beta-prop_WDR3_1st(n=5:WDR3 first beta-propeller domain)	0/9	0/9	0.00	0
+OG0022500	9	0					0		0/9	0/9	0.00	0
+OG0022520	9	0					0		0/9	0/9	0.00	0
+OG0022524	9	9	Uncharacterized protein slr1819(n=4); Pentapeptide repeat protein MfpA(n=3); Uncharacterized protein in mobD 3'region(n=2)		9.5e-29	Pantoea stewartii subsp. stewartii	9	Pentapeptide(n=9:Pentapeptide repeats (8 copies)); Pentapeptide_4(n=9:Pentapeptide repeat region); Pentapeptide_3(n=9:Pentapeptide repeats (9 copies))	0/9	0/9	0.00	0
+OG0022528	9	0					0		0/9	0/9	0.00	0
+OG0023496	8	8	Cyclin-G-associated kinase(n=4); BMP-2-inducible protein kinase(n=2); Probable serine/threonine-protein kinase HAL5-like(n=1)	BMP2K	9.4e-30	Homo sapiens	8	Pkinase(n=8:Protein kinase domain); PK_Tyr_Ser-Thr(n=8:Protein tyrosine and serine/threonine ki); Kdo(n=1:Lipopolysaccharide kinase (Kdo/WaaP) fam)	0/8	0/8	0.00	0
+OG0023566	8	5	Protein SEY1 homolog(n=2); Protein SEY1(n=2); Protein ROOT HAIR DEFECTIVE 3 homolog 2(n=1)	DDB_0206311	1.6e-18	Dictyostelium discoideum	3	RHD3_GTPase(n=3:Root hair defective 3 GTP-binding protei)	3/8	1/8	0.12	1
+OG0023594	8	6	Glycosyltransferase 8 domain-containing protein 1(n=2); Probable galacturonosyltransferase-like 2(n=1); Putative surface protein bspA-like(n=1)	ASZ1	1.4e-11	Oryctolagus cuniculus	7	Glyco_transf_8(n=6:Glycosyl transferase family 8); LRR_5(n=1:BspA type Leucine rich repeat region (6 ); Ank_2(n=1:Ankyrin repeats (3 copies))	1/8	1/8	0.25	2
+OG0023657	8	0					0		0/8	0/8	0.00	0
+OG0023790	8	4	Red chlorophyll catabolite reductase (Fragment)(n=3); Red chlorophyll catabolite reductase 1, chloroplastic(n=1)	rccR	2.0e-06	Hordeum vulgare	6	RCC_reductase(n=6:Red chlorophyll catabolite reductase (RC)	1/8	0/8	0.00	0
+OG0024846	7	1	Probable hexosyltransferase MUCI70(n=1)	MUCI70	1.1e-05	Arabidopsis thaliana	4	TOD1_MUCI70(n=4:TOD1/MUCI70, glycosyltransferase-like do)	1/7	0/7	0.00	0
+OG0024979	7	0					0		0/7	0/7	0.00	0
+OG0025015	7	0					0		0/7	7/7	3.14	4
+OG0025016	7	0					0		0/7	0/7	0.00	0
+OG0025059	7	0					0		5/7	0/7	0.00	0
+OG0026865	6	6	Bifunctional arginine demethylase and lysyl-hydroxylase PSR(n=2); Bifunctional arginine demethylase and lysyl-hydroxylase JMJD6(n=2); Arginine-specific demethylase JMJ22(n=1)	PSR	3.5e-21	Hydra vulgaris	5	JmjC(n=5:JmjC domain, hydroxylase); Cupin_8(n=1:Cupin-like domain)	0/6	0/6	0.00	0

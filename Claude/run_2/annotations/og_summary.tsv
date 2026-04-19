@@ -1,0 +1,74 @@
+OG	n_members	n_blast	n_pfam	n_signalp	pct_signalp	n_tm_any	n_tm_single	n_tm_multi	pct_tm	mean_len	acidic_pct	cys_pct	calc_score	calc_tags	bmin_flags	top_hit	top_hit_count	top_pfams
+OG0017138	16	16	14	2	12.5	0	0	0	0.0	517.0	9.7	2.14	18	sulfation	-	Arylsulfatase B	14	Sulfatase (14x: Sulfatase), Polysacc_lyase (1x: Polysaccharide lyase), Kelch_1 (1x: Kelch motif)
+OG0023594	8	6	7	1	12.5	1	0	1	12.5	566.0	9.7	2.83	8	glycosyltransferase	-	Glycosyltransferase 8 domain-containing protein 1	2	Glyco_transf_8 (6x: Glycosyl transferase family 8), LRR_5 (1x: BspA type Leucine rich repeat region (6 copies)), Ank_2 (1x: Ankyrin repeats (3 copies))
+OG0020703	11	2	1	4	36.4	0	0	0	0.0	326.0	10.2	3.0	7	sulfation	novel_secreted	Heparan-sulfate 6-O-sulfotransferase 1	2	Sulfotransfer_3 (1x: Sulfotransferase family), Sulfotransfer_1 (1x: Sulfotransferase domain)
+OG0009301	29	1	5	21	72.4	15	14	1	51.7	220.0	9.2	7.4	6	-	secretome_candidate,novel_secreted,cysteine_rich	DNA-directed RNA polymerase II subunit RPB1	1	SHOCT (4x: Short C-terminal domain), PRIMA1 (1x: Proline-rich membrane anchor 1)
+OG0024846	7	1	4	1	14.3	0	0	0	0.0	334.0	6.7	2.79	6	glycosyltransferase	-	Probable hexosyltransferase MUCI70	1	TOD1_MUCI70 (4x: TOD1/MUCI70, glycosyltransferase-like domain)
+OG0017305	16	0	3	1	6.2	0	0	0	0.0	287.0	8.8	2.43	5	sulfation	-	no annotation	0	Sulphotransf (3x: Stf0 sulphotransferase)
+OG0011061	27	3	2	9	33.3	27	0	27	100.0	608.0	6.0	2.0	4	-	novel_secreted,novel_multipass_membrane	Putative PWWP domain-containing DNA repair factor 4	1	Exostosin_GT47 (2x: Exostosin GT47 domain)
+OG0018519	14	0	0	0	0.0	13	0	13	92.9	159.0	7.5	5.8	4	-	cysteine_rich,novel_multipass_membrane	no annotation	0	
+OG0022355	9	0	7	6	66.7	6	6	0	66.7	599.0	10.0	3.94	4	-	secretome_candidate,novel_secreted	no annotation	0	DUF2237 (7x: Uncharacterized protein conserved in bacteria (DUF2237))
+OG0025059	7	0	0	5	71.4	0	0	0	0.0	202.0	10.3	2.37	4	-	secretome_candidate,novel_secreted	no annotation	0	
+OG0009246	29	2	1	9	31.0	4	4	0	13.8	343.0	10.7	3.56	2	-	novel_secreted	Collagen alpha-5(VI) chain	1	tRNA-synt_2 (1x: tRNA synthetases class II (D, K and N))
+OG0014155	22	15	17	11	50.0	2	2	0	9.1	365.0	10.3	1.58	2	-	secretome_candidate	Pyrimidine-specific ribonucleoside hydrolase RihA	5	IU_nuc_hydro (17x: Inosine-uridine preferring nucleoside hydrolase)
+OG0014250	22	18	17	15	68.2	1	1	0	4.5	585.0	12.2	1.59	2	-	secretome_candidate	Glutamyl-tRNA(Gln) amidotransferase subunit A	17	Amidase (17x: Amidase)
+OG0015153	20	3	0	1	5.0	17	0	17	85.0	689.0	8.5	2.77	2	-	novel_multipass_membrane	Protein piccolo	2	
+OG0016211	18	0	1	2	11.1	18	1	17	100.0	235.0	8.1	4.77	2	-	novel_multipass_membrane	no annotation	0	SUR7 (1x: SUR7/PalI family)
+OG0017362	16	3	5	7	43.8	2	2	0	12.5	572.0	11.7	1.81	2	-	novel_secreted	Red chlorophyll catabolite reductase 1, chloroplastic	2	RCC_reductase (3x: Red chlorophyll catabolite reductase (RCC reductase)), Exo_endo_phos (1x: Endonuclease/Exonuclease/phosphatase family), Abhydrolase_5 (1x: Alpha/beta hydrolase family)
+OG0018986	13	3	12	7	53.8	10	7	3	76.9	783.0	12.6	3.17	2	-	secretome_candidate	Metabotropic glutamate receptor-like protein E	2	FG-GAP_3 (12x: FG-GAP-like repeat), FG-GAP (12x: FG-GAP repeat), TcdB_toxin_midN (5x: Insecticide toxin TcdB middle/N-terminal region)
+OG0019180	13	0	0	0	0.0	0	0	0	0.0	161.0	12.3	6.74	2	-	cysteine_rich	no annotation	0	
+OG0019817	12	10	10	8	66.7	1	1	0	8.3	370.0	10.2	1.3	2	-	secretome_candidate	Aurachin C monooxygenase/isomerase	5	FAD_binding_3 (9x: FAD binding domain), NAD_binding_8 (9x: NAD(P)-binding Rossmann-like domain)
+OG0021347	10	10	10	5	50.0	0	0	0	0.0	314.0	10.5	3.21	2	-	secretome_candidate	Trypsin-1	3	Trypsin (10x: Trypsin), Trypsin_2 (3x: Trypsin-like peptidase domain), DUF1986 (1x: Domain of unknown function (DUF1986))
+OG0022473	9	0	0	3	33.3	3	3	0	33.3	332.0	10.4	1.83	2	-	novel_secreted	no annotation	0	
+OG0025015	7	0	0	0	0.0	7	0	7	100.0	168.0	5.7	2.71	2	-	novel_multipass_membrane	no annotation	0	
+OG0000049	502	20	14	2	0.4	3	2	1	0.6	674.0	11.7	2.03	0	-	-	Reticulocyte-binding protein homolog 2a	6	FKBP15 (7x: FK506-binding protein 15-like domain), CCDC39 (2x: Coiled-coil domain-containing protein 39), ODF2_C (2x: ODF2 C-terminal coiled coil domain)
+OG0001332	91	84	86	1	1.1	76	70	6	83.5	290.0	8.4	2.0	0	-	-	Warthog protein 1	68	Hint (85x: Hint module), Trypsin (2x: Trypsin), Hint_2 (2x: Hint domain)
+OG0001976	73	70	72	4	5.5	3	1	2	4.1	303.0	10.8	1.62	0	-	-	Uncharacterized protein slr1819	44	Pentapeptide (72x: Pentapeptide repeats (8 copies)), Pentapeptide_4 (70x: Pentapeptide repeat region), Pentapeptide_3 (70x: Pentapeptide repeats (9 copies))
+OG0002887	59	16	31	1	1.7	0	0	0	0.0	282.0	11.6	1.57	0	-	-	ATP-dependent DNA helicase PIF1	5	PIF1 (18x: PIF1-like helicase), Pif1_2B_dom (17x: DNA helicase Pif1, 2B domain), AAA_30 (7x: AAA domain)
+OG0003717	51	0	0	0	0.0	4	2	2	7.8	338.0	10.6	1.44	0	-	-	no annotation	0	
+OG0009816	28	10	15	2	7.1	6	5	1	21.4	503.0	9.3	2.34	0	-	-	Putative alpha-1,3-mannosyltransferase MNN14	9	Mannosyl_trans3 (15x: Mannosyltransferase putative)
+OG0010177	28	25	24	0	0.0	0	0	0	0.0	315.0	13.1	2.66	0	-	-	Putative ankyrin repeat protein RBE_0220	15	Ank_2 (24x: Ankyrin repeats (3 copies)), Ank (24x: Ankyrin repeat), Ank_5 (24x: Ankyrin repeats (many copies))
+OG0010867	27	27	27	1	3.7	0	0	0	0.0	341.0	10.4	2.04	0	-	-	Uncharacterized protein slr1819	16	Pentapeptide (27x: Pentapeptide repeats (8 copies)), Pentapeptide_3 (26x: Pentapeptide repeats (9 copies)), Pentapeptide_4 (25x: Pentapeptide repeat region)
+OG0010991	27	0	0	4	14.8	1	0	1	3.7	338.0	8.9	2.93	0	-	-	no annotation	0	
+OG0011197	27	4	3	1	3.7	2	2	0	7.4	345.0	9.3	3.46	0	-	-	Kihadalactone A synthase LFS	2	2OG-FeII_Oxy (3x: 2OG-Fe(II) oxygenase superfamily)
+OG0013037	24	2	1	5	20.8	6	6	0	25.0	452.0	10.7	2.22	0	-	-	Protein Obscurin	1	Hydrolase_4 (1x: Serine aminopeptidase, S33)
+OG0016203	18	6	2	1	5.6	15	1	14	83.3	442.0	7.4	1.83	0	-	-	Hexamerin 110	3	Collagen (1x: Collagen triple helix repeat (20 copies)), RCC1 (1x: Regulator of chromosome condensation (RCC1) repeat), WD40_RLD (1x: RCC1-like domain)
+OG0017238	16	11	0	0	0.0	0	0	0	0.0	553.0	9.7	1.84	0	-	-	tRNA ligase 1	11	
+OG0017361	16	16	16	1	6.2	2	2	0	12.5	322.0	10.2	2.24	0	-	-	Isonitrile hydratase	14	DJ-1_PfpI (16x: DJ-1/PfpI family), HTH_18 (1x: Helix-turn-helix domain), HTH_AraC (1x: Bacterial regulatory helix-turn-helix proteins, AraC family)
+OG0017884	15	2	7	0	0.0	4	0	4	26.7	385.0	10.5	2.18	0	-	-	Mycothiol acetyltransferase	2	Acetyltransf_1 (7x: Acetyltransferase (GNAT) family), Acetyltransf_7 (7x: Acetyltransferase (GNAT) domain), RNF34L-like_3rd (2x: E3 ubiquitin-protein ligase rififylin-like domain)
+OG0017903	15	15	12	0	0.0	0	0	0	0.0	365.0	9.8	1.81	0	-	-	Flavohemoprotein	15	FAD_binding_6 (10x: Oxidoreductase FAD-binding domain), Globin (5x: Globin), NAD_binding_1 (2x: Oxidoreductase NAD-binding domain)
+OG0017965	15	5	5	0	0.0	0	0	0	0.0	327.0	7.7	3.53	0	-	-	Kelch repeat-containing protein At3g27220	3	Kelch_1 (5x: Kelch motif), Kelch_2 (5x: Kelch motif), NANM (5x: N-acetylneuraminate epimerase)
+OG0019067	13	12	12	0	0.0	5	4	1	38.5	385.0	9.7	2.07	0	-	-	Protein NLRC3	6	LRR_6 (12x: Leucine Rich repeat), LRR_TMOD-LMOD (7x: TMOD/LMOD Leucine-rich domain), LRR_4 (1x: Leucine Rich repeats (2 copies))
+OG0019078	13	13	12	0	0.0	0	0	0	0.0	367.0	14.0	1.63	0	-	-	Elongation factor 1-gamma 2	6	GST_N (11x: Glutathione S-transferase, N-terminal domain), GST_C (10x: Glutathione S-transferase, C-terminal domain), GST_N_2 (10x: Glutathione S-transferase, N-terminal domain)
+OG0019174	13	13	13	5	38.5	0	0	0	0.0	669.0	11.5	1.89	0	-	-	Glutamyl-tRNA(Gln) amidotransferase subunit A	7	Amidase (13x: Amidase)
+OG0019790	12	12	12	0	0.0	0	0	0	0.0	1104.0	10.4	2.01	0	-	-	E3 ubiquitin-protein ligase hecd-1	7	HECT (9x: HECT-domain (ubiquitin-transferase)), Ank_2 (4x: Ankyrin repeats (3 copies)), Ank (4x: Ankyrin repeat)
+OG0019873	12	12	10	0	0.0	0	0	0	0.0	382.0	11.7	1.71	0	-	-	1-aminocyclopropane-1-carboxylate synthase 11	7	Aminotran_1_2 (10x: Aminotransferase class I and II)
+OG0019887	12	2	9	0	0.0	0	0	0	0.0	298.0	9.0	2.51	0	-	-	Mitochondrial ribosome-associated GTPase 1	1	MMR_HSR1 (4x: 50S ribosome-binding GTPase), Intron_maturas2 (4x: Type II intron maturase), CysS_C (1x: Cysteinyl-tRNA ligase anticodon binding domain)
+OG0019917	12	2	3	1	8.3	3	2	1	25.0	512.0	11.9	1.81	0	-	-	cAMP-dependent protein kinase regulatory subunit	2	cNMP_binding (2x: Cyclic nucleotide-binding domain), Apolipoprotein (1x: Apolipoprotein A1/A4/E domain)
+OG0020622	11	11	11	1	9.1	0	0	0	0.0	726.0	10.5	1.4	0	-	-	ATP-dependent RecD2 DNA helicase	11	AAA_30 (10x: AAA domain), AAA_19 (10x: AAA domain), UvrD_C_2 (10x: UvrD-like helicase C-terminal domain)
+OG0020657	11	0	0	3	27.3	0	0	0	0.0	340.0	12.5	2.79	0	-	-	no annotation	0	
+OG0020696	11	0	0	1	9.1	3	3	0	27.3	252.0	12.7	1.67	0	-	-	no annotation	0	
+OG0020700	11	0	3	0	0.0	0	0	0	0.0	388.0	15.0	0.88	0	-	-	no annotation	0	PDZ_2 (3x: PDZ domain), PDZ (2x: PDZ domain), PDZ_6 (2x: PDZ domain)
+OG0020706	11	0	0	0	0.0	5	1	4	45.5	266.0	5.4	3.53	0	-	-	no annotation	0	
+OG0020728	11	0	0	0	0.0	0	0	0	0.0	300.0	13.6	0.78	0	-	-	no annotation	0	
+OG0020729	11	0	0	0	0.0	0	0	0	0.0	283.0	12.9	2.25	0	-	-	no annotation	0	
+OG0021406	10	10	10	0	0.0	0	0	0	0.0	230.0	9.9	0.28	0	-	-	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase	9	adh_short (10x: short chain dehydrogenase), adh_short_C2 (10x: Enoyl-(Acyl carrier protein) reductase), KR (9x: KR domain)
+OG0021517	10	2	9	0	0.0	0	0	0	0.0	262.0	9.4	2.55	0	-	-	F-box only protein 36	1	F-box-like (8x: F-box-like), F-box (4x: F-box domain)
+OG0021520	10	0	0	0	0.0	1	0	1	10.0	588.0	7.6	1.22	0	-	-	no annotation	0	
+OG0021523	10	6	6	0	0.0	0	0	0	0.0	325.0	11.6	1.41	0	-	-	Probable protein phosphatase 2C 35	3	PP2C (6x: Protein phosphatase 2C)
+OG0021531	10	7	10	0	0.0	0	0	0	0.0	273.0	11.5	0.88	0	-	-	Probable periplasmic serine endoprotease DegP-like	3	PDZ_6 (10x: PDZ domain), PDZ_2 (7x: PDZ domain), PDZ (6x: PDZ domain)
+OG0022381	9	9	9	0	0.0	4	4	0	44.4	514.0	11.4	1.8	0	-	-	NADPH--cytochrome P450 reductase 3	4	FAD_binding_1 (8x: FAD binding domain), NAD_binding_1 (8x: Oxidoreductase NAD-binding domain), Flavodoxin_1 (7x: Flavodoxin)
+OG0022455	9	0	0	0	0.0	0	0	0	0.0	178.0	10.1	2.66	0	-	-	no annotation	0	
+OG0022474	9	0	8	0	0.0	0	0	0	0.0	216.0	10.2	3.66	0	-	-	no annotation	0	F-box-like (8x: F-box-like), F-box (6x: F-box domain)
+OG0022492	9	5	9	0	0.0	0	0	0	0.0	473.0	9.8	1.84	0	-	-	Myosin heavy chain kinase B	4	Beta-prop_TEP1_2nd (7x: TEP-1 second beta-propeller), WD40 (5x: WD domain, G-beta repeat), Beta-prop_WDR3_1st (5x: WDR3 first beta-propeller domain)
+OG0022500	9	0	0	0	0.0	0	0	0	0.0	286.0	10.3	0.73	0	-	-	no annotation	0	
+OG0022520	9	0	0	0	0.0	0	0	0	0.0	251.0	10.9	2.51	0	-	-	no annotation	0	
+OG0022524	9	9	9	0	0.0	0	0	0	0.0	346.0	9.8	1.53	0	-	-	Uncharacterized protein slr1819	4	Pentapeptide (9x: Pentapeptide repeats (8 copies)), Pentapeptide_4 (9x: Pentapeptide repeat region), Pentapeptide_3 (9x: Pentapeptide repeats (9 copies))
+OG0022528	9	0	0	0	0.0	0	0	0	0.0	321.0	7.8	2.06	0	-	-	no annotation	0	
+OG0023496	8	8	8	0	0.0	0	0	0	0.0	412.0	11.0	2.91	0	-	-	Cyclin-G-associated kinase	4	Pkinase (8x: Protein kinase domain), PK_Tyr_Ser-Thr (8x: Protein tyrosine and serine/threonine kinase), Kdo (1x: Lipopolysaccharide kinase (Kdo/WaaP) family)
+OG0023566	8	5	3	3	37.5	1	1	0	12.5	476.0	9.1	1.16	0	-	-	Protein SEY1 homolog	2	RHD3_GTPase (3x: Root hair defective 3 GTP-binding protein (RHD3) GTPase domain)
+OG0023657	8	0	0	0	0.0	0	0	0	0.0	332.0	13.1	1.39	0	-	-	no annotation	0	
+OG0023790	8	4	6	1	12.5	0	0	0	0.0	308.0	12.7	1.56	0	-	-	Red chlorophyll catabolite reductase (Fragment)	3	RCC_reductase (6x: Red chlorophyll catabolite reductase (RCC reductase))
+OG0024979	7	0	0	0	0.0	0	0	0	0.0	493.0	11.2	1.87	0	-	-	no annotation	0	
+OG0025016	7	0	0	0	0.0	0	0	0	0.0	217.0	9.7	3.8	0	-	-	no annotation	0	
+OG0026865	6	6	5	0	0.0	0	0	0	0.0	493.0	11.5	3.39	0	-	-	Bifunctional arginine demethylase and lysyl-hydroxylase PSR	3	JmjC (5x: JmjC domain, hydroxylase), Cupin_8 (1x: Cupin-like domain)

@@ -1,0 +1,15 @@
+Orthogroup: OG0017305
+Members: 16
+With BLAST hit: 0  |  With Pfam: 3
+SignalP positive: 1/16
+TMR: any=0/16  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+
+Pfam domains observed:
+  [3x] Sulphotransf — Stf0 sulphotransferase
+
+Calcification tags: sulfation
+Biomin flags: -
+Mean length: 287 aa | mean acidic (D+E): 8.8% | mean S+T: 14.4% | mean Cys: 2.4%
+Calcification score: 5

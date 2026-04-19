@@ -1,0 +1,22 @@
+Orthogroup: OG0018986
+Members: 13
+With BLAST hit: 3  |  With Pfam: 12
+SignalP positive: 7/13
+TMR: any=10/13  single-pass=7  multi-pass=3
+
+Top SwissProt hit(s) across members:
+  [2x] Metabotropic glutamate receptor-like protein E
+  [1x] Protein DEFECTIVE IN EXINE FORMATION 1
+
+Pfam domains observed:
+  [12x] FG-GAP_3 — FG-GAP-like repeat
+  [12x] FG-GAP — FG-GAP repeat
+  [5x] TcdB_toxin_midN — Insecticide toxin TcdB middle/N-terminal region
+  [2x] 7tm_3 — 7 transmembrane sweet-taste receptor of 3 GCPR
+  [1x] BBS2_Mid — Ciliary BBSome complex subunit 2, middle region
+  [1x] Itfg2 — Integrin-alpha FG-GAP repeat-containing protein 2
+
+Calcification tags: 
+Biomin flags: secretome_candidate
+Mean length: 783 aa | mean acidic (D+E): 12.6% | mean S+T: 14.5% | mean Cys: 3.2%
+Calcification score: 2

@@ -1,0 +1,26 @@
+Orthogroup: OG0019078
+Members: 13
+With BLAST hit: 13  |  With Pfam: 12
+SignalP positive: 0/13
+TMR: any=0/13  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [6x] Elongation factor 1-gamma 2
+  [4x] Elongation factor 1-gamma
+  [2x] Probable elongation factor 1-gamma 1
+  [1x] Elongation factor 1-gamma 1
+
+Pfam domains observed:
+  [11x] GST_N — Glutathione S-transferase, N-terminal domain
+  [10x] GST_C — Glutathione S-transferase, C-terminal domain
+  [10x] GST_N_2 — Glutathione S-transferase, N-terminal domain
+  [10x] GST_N_3 — Glutathione S-transferase, N-terminal domain
+  [9x] GST_C_2 — Glutathione S-transferase, C-terminal domain
+  [7x] GST_C_3 — Glutathione S-transferase, C-terminal domain
+  [7x] GST_N_5 — Glutathione S-transferase, N-terminal domain
+  [1x] Arc1p_N_like — Nuclear-export cofactor Arc1p
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 367 aa | mean acidic (D+E): 14.0% | mean S+T: 8.6% | mean Cys: 1.6%
+Calcification score: 0

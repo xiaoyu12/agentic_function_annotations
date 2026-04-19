@@ -1,0 +1,21 @@
+﻿\begin{table}[ht]
+\centering
+\small
+\caption{Full method-level consistency summary. Label distributions were normalized from each agent output.}
+\label{tab:s_method_summary}
+\begin{tabularx}{\linewidth}{lYrrr}
+\toprule
+Run & Normalized label distribution & Mean score & Score SD & Missing OGs\\
+\midrule
+\texttt{Claude\_app\_run1} & high=11; low=27; moderate/possible=15; watchlist/uncertain=20 & 1.71 & 1.22 & 0\\
+\texttt{Claude\_app\_run2} & high=1; low=67; moderate/possible=5 & 0.68 & 0.64 & 0\\
+\texttt{Claude\_app\_run3} & high=8; low=45; moderate/possible=10; watchlist/uncertain=10 & 1.29 & 1.19 & 0\\
+\texttt{Claude\_code\_run1} & high=1; low=62; moderate/possible=10 & 0.82 & 0.79 & 0\\
+\texttt{Claude\_code\_run2} & high=3; low=33; moderate/possible=15; watchlist/uncertain=22 & 1.36 & 0.95 & 0\\
+\texttt{Claude\_code\_run3} & high=2; low=21; moderate/possible=16; watchlist/uncertain=34 & 1.5 & 0.83 & 0\\
+\texttt{Codex\_app\_run1} & high=1; low=62; moderate/possible=10 & 0.82 & 0.79 & 0\\
+\texttt{Codex\_app\_run2} & low=39; moderate/possible=34 & 1.43 & 1 & 0\\
+\texttt{Codex\_app\_run3} & high=12; low=27; moderate/possible=34 & 2.01 & 1.28 & 0\\
+\bottomrule
+\end{tabularx}
+\end{table}

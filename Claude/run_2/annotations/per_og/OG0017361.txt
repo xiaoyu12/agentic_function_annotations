@@ -1,0 +1,20 @@
+Orthogroup: OG0017361
+Members: 16
+With BLAST hit: 16  |  With Pfam: 16
+SignalP positive: 1/16
+TMR: any=2/16  single-pass=2  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [14x] Isonitrile hydratase
+  [1x] HTH-type transcriptional regulator CdhR
+  [1x] HTH-type transcriptional regulator GbdR
+
+Pfam domains observed:
+  [16x] DJ-1_PfpI — DJ-1/PfpI family
+  [1x] HTH_18 — Helix-turn-helix domain
+  [1x] HTH_AraC — Bacterial regulatory helix-turn-helix proteins, AraC family
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 322 aa | mean acidic (D+E): 10.2% | mean S+T: 14.2% | mean Cys: 2.2%
+Calcification score: 0

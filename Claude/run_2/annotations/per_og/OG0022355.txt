@@ -1,0 +1,15 @@
+Orthogroup: OG0022355
+Members: 9
+With BLAST hit: 0  |  With Pfam: 7
+SignalP positive: 6/9
+TMR: any=6/9  single-pass=6  multi-pass=0
+
+Top SwissProt hit(s) across members:
+
+Pfam domains observed:
+  [7x] DUF2237 — Uncharacterized protein conserved in bacteria (DUF2237)
+
+Calcification tags: 
+Biomin flags: secretome_candidate,novel_secreted
+Mean length: 599 aa | mean acidic (D+E): 10.0% | mean S+T: 15.8% | mean Cys: 3.9%
+Calcification score: 4

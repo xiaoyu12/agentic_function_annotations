@@ -1,0 +1,23 @@
+Listed 1 directory (ctrl+o to expand)                                                               
+                                                                                                      
+⏺ Done. All 73 orthogroups annotated. Three new files in the folder:                                  
+                                                                                                      
+  - annotate_ogs.py — parser that aggregates BLAST top hits, Pfam domains (e-value ≤ 1e-3), SignalP   
+  prediction counts, and DeepTMHMM topology counts per OG.                                            
+  - annotation_summary.tsv — raw evidence per OG (BLAST / Pfam / SignalP / DeepTMHMM columns).        
+  - annotation_calcification.tsv — curated per-OG annotation: primary function, key domains/hits,     
+  secretion profile, calcification-relevance bucket, and rationale.                                   
+  - annotation_README.md — rubric, rationale, and shortlist of candidates.                            
+                                                                                                      
+  Relevance distribution: HIGH 3, MEDIUM 6, LOW-MEDIUM 9, LOW 33, UNKNOWN 22.                         
+                                                                                                      
+  Top calcification candidates:                                                                       
+  - HIGH: OG0017138 (arylsulfatase B), OG0020703 (heparan-sulfate 6-O-sulfotransferase), OG0011061    
+  (exostosin GT47). All point at sulfated-polysaccharide / GAG biosynthesis or turnover — canonical   
+  biomineral organic-matrix chemistry.                                                                
+  - MEDIUM: secreted trypsin proteases (OG0021347), collagen-VI/adhesive-plaque-like ECM (OG0009246), 
+  integrin FG-GAP (OG0018986), GT8 galacturonosyltransferase (OG0023594), Stf0 sulphotransferase     
+  (OG0017305), PRIMA1-like membrane anchor (OG0009301).                                               
+  - "Dark-matter" watch-list (no BLAST/Pfam but enriched for SP/SP+TM — possible lineage-specific     
+  matrix proteins): OG0020657, OG0025059, OG0022355, OG0022473, OG0018519, OG0025015, OG0010991.      
+                              

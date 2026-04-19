@@ -1,0 +1,19 @@
+Orthogroup: OG0021517
+Members: 10
+With BLAST hit: 2  |  With Pfam: 9
+SignalP positive: 0/10
+TMR: any=0/10  single-pass=0  multi-pass=0
+TMHMM topology types: [('GLOB', 1)]
+
+Top SwissProt hit(s) across members:
+  [1x] F-box only protein 36
+  [1x] F-box only protein 3
+
+Pfam domains observed:
+  [8x] F-box-like — F-box-like
+  [4x] F-box — F-box domain
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 262 aa | mean acidic (D+E): 9.4% | mean S+T: 10.2% | mean Cys: 2.5%
+Calcification score: 0

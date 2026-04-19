@@ -1,0 +1,172 @@
+\begin{thebibliography}{16}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{The UniProt Consortium}(2025)]{UniProt2025}
+{The UniProt Consortium}.
+\newblock {UniProt}: the universal protein knowledgebase in 2025.
+\newblock \emph{Nucleic Acids Research}, 53\penalty0 (D1):\penalty0 D609--D617,
+  2025.
+\newblock \doi{10.1093/nar/gkae1010}.
+
+\bibitem[Altschul et~al.(1990)Altschul, Gish, Miller, Myers, and
+  Lipman]{Altschul1990}
+Stephen~F. Altschul, Warren Gish, Webb Miller, Eugene~W. Myers, and David~J.
+  Lipman.
+\newblock Basic local alignment search tool.
+\newblock \emph{Journal of Molecular Biology}, 215\penalty0 (3):\penalty0
+  403--410, 1990.
+\newblock \doi{10.1016/S0022-2836(05)80360-2}.
+
+\bibitem[Mistry et~al.(2021)Mistry, Chuguransky, Williams, Qureshi, Salazar,
+  Sonnhammer, Tosatto, Paladin, Raj, Richardson, Finn, and Bateman]{Mistry2021}
+Jaina Mistry, Sara Chuguransky, Lowri Williams, Matloob Qureshi, Gustavo~A.
+  Salazar, Erik L.~L. Sonnhammer, Silvio C.~E. Tosatto, Lisanna Paladin, Shriya
+  Raj, Lorna~J. Richardson, Robert~D. Finn, and Alex Bateman.
+\newblock {Pfam}: The protein families database in 2021.
+\newblock \emph{Nucleic Acids Research}, 49\penalty0 (D1):\penalty0 D412--D419,
+  2021.
+\newblock \doi{10.1093/nar/gkaa913}.
+
+\bibitem[Eddy(2011)]{Eddy2011}
+Sean~R. Eddy.
+\newblock Accelerated profile {HMM} searches.
+\newblock \emph{PLoS Computational Biology}, 7\penalty0 (10):\penalty0
+  e1002195, 2011.
+\newblock \doi{10.1371/journal.pcbi.1002195}.
+
+\bibitem[Teufel et~al.(2022)Teufel, Almagro~Armenteros, Johansen, G{\'i}slason,
+  Pihl, Tsirigos, Winther, Brunak, von Heijne, and Nielsen]{Teufel2022}
+Felix Teufel, Jos{\'e}~Juan Almagro~Armenteros, Alexander~Rosenberg Johansen,
+  Magn{\'u}s~Halld{\'o}r G{\'i}slason, Silas~Irby Pihl, Konstantinos~D.
+  Tsirigos, Ole Winther, S{\o}ren Brunak, Gunnar von Heijne, and Henrik
+  Nielsen.
+\newblock {SignalP} 6.0 predicts all five types of signal peptides using
+  protein language models.
+\newblock \emph{Nature Biotechnology}, 40:\penalty0 1023--1025, 2022.
+\newblock \doi{10.1038/s41587-021-01156-3}.
+
+\bibitem[Hallgren et~al.(2022)Hallgren, Tsirigos, Pedersen, Almagro~Armenteros,
+  Marcatili, Nielsen, Krogh, and Winther]{Hallgren2022}
+Jeppe Hallgren, Konstantinos~D. Tsirigos, Mads~Damgaard Pedersen, Jos{\'e}~Juan
+  Almagro~Armenteros, Paolo Marcatili, Henrik Nielsen, Anders Krogh, and Ole
+  Winther.
+\newblock {DeepTMHMM} predicts alpha and beta transmembrane proteins using deep
+  neural networks.
+\newblock \emph{bioRxiv}, 2022.
+\newblock \doi{10.1101/2022.04.08.487609}.
+
+\bibitem[Radivojac et~al.(2013)Radivojac, Clark, Oron, Schnoes, Wittkop,
+  Sokolov, Graim, Funk, Verspoor, Ben-Hur, Pandey, Yunes, Talwalkar, Repo,
+  Souza, Piovesan, Casadio, Wang, Cheng, Fang, Gough, Koskinen,
+  T{\"o}r{\"o}nen, Nokso-Koivisto, Holm, Cozzetto, Buchan, Bryson, Jones,
+  Limaye, Inamdar, Datta, Manjari, Joshi, Chitale, Kihara, Lisewski, Erdin,
+  Venner, Lichtarge, Rentzsch, Yang, Romero, Bhat, Paccanaro, Hamp, Ka{\ss}ner,
+  Seemayer, Vicedo, Schaefer, Achten, Auer, Boehm, Braun, Hecht, Heron,
+  H{\"o}nigschmid, Hopf, Kaufmann, Kiening, Krompass, Landerer, Mahlich, Roos,
+  Bj{\"o}rne, Salakoski, Wong, Shatkay, Gatzmann, Sommer, Wass, Sternberg,
+  Skunca, Supek, Bosnjak, Panov, Dzeroski, Kourmpetis, van Dijk, ter Braak,
+  Zhou, Gong, Dong, Tian, Falda, Fontana, Lavezzo, Di~Camillo, Lan, Djuric,
+  Guo, Vucetic, Bairoch, Linial, Babbitt, Brenner, Orengo, Rost, Mooney, and
+  Friedberg]{Radivojac2013}
+Predrag Radivojac, Wyatt~T. Clark, Tal~Ronnen Oron, Alexandra~M. Schnoes,
+  Tobias Wittkop, Artem Sokolov, Kiley Graim, Christopher Funk, Karin Verspoor,
+  Asa Ben-Hur, Gaurav Pandey, Jeffrey~M. Yunes, Ameet~S. Talwalkar, Susanna
+  Repo, Michael~L. Souza, Damiano Piovesan, Rita Casadio, Zheng Wang, Jianlin
+  Cheng, Hai Fang, Julian Gough, Patrik Koskinen, Petri T{\"o}r{\"o}nen, Jussi
+  Nokso-Koivisto, Liisa Holm, Domenico Cozzetto, Daniel W.~A. Buchan, Kevin
+  Bryson, David~T. Jones, Bhakti Limaye, Harshal Inamdar, Avik Datta,
+  Sunitha~K. Manjari, Rajendra Joshi, Meghana Chitale, Daisuke Kihara,
+  Andreas~M. Lisewski, Serkan Erdin, Eric Venner, Olivier Lichtarge, Robert
+  Rentzsch, Haixuan Yang, Alfonso~E. Romero, Prajwal Bhat, Alberto Paccanaro,
+  Tobias Hamp, Rebecca Ka{\ss}ner, Stefan Seemayer, Esmeralda Vicedo, Christian
+  Schaefer, Dominik Achten, Florian Auer, Ariane Boehm, Tatjana Braun,
+  Maximilian Hecht, Mark Heron, Peter H{\"o}nigschmid, Thomas~A. Hopf, Stefanie
+  Kaufmann, Michael Kiening, Denis Krompass, Cedric Landerer, Yannick Mahlich,
+  Manfred Roos, Jari Bj{\"o}rne, Tapio Salakoski, Andrew Wong, Hagit Shatkay,
+  Fanny Gatzmann, Ingolf Sommer, Mark~N. Wass, Michael J.~E. Sternberg, Nives
+  Skunca, Fran Supek, Matko Bosnjak, Pance Panov, Saso Dzeroski, Yiannis A.~I.
+  Kourmpetis, Aalt D.~J. van Dijk, Cajo J.~F. ter Braak, Yuanpeng Zhou,
+  Qingtian Gong, Xinran Dong, Weidong Tian, Marco Falda, Paolo Fontana, Enrico
+  Lavezzo, Barbara Di~Camillo, Liang Lan, Nemanja Djuric, Yuhong Guo, Slobodan
+  Vucetic, Amos Bairoch, Michal Linial, Patricia~C. Babbitt, Steven~E. Brenner,
+  Christine Orengo, Burkhard Rost, Sean~D. Mooney, and Iddo Friedberg.
+\newblock A large-scale evaluation of computational protein function
+  prediction.
+\newblock \emph{Nature Methods}, 10:\penalty0 221--227, 2013.
+\newblock \doi{10.1038/nmeth.2340}.
+
+\bibitem[Brownlee et~al.(2015)Brownlee, Wheeler, and Taylor]{Brownlee2015}
+Colin Brownlee, Glen~L. Wheeler, and Alison~R. Taylor.
+\newblock Coccolithophore biomineralization: New questions, new answers.
+\newblock \emph{Seminars in Cell \& Developmental Biology}, 46:\penalty0
+  11--16, 2015.
+\newblock \doi{10.1016/j.semcdb.2015.10.027}.
+
+\bibitem[Skeffington et~al.(2023)Skeffington, Fischer, Sviben, Brzezinka,
+  G{\'o}rka, Bertinetti, Woehle, Huettel, Graf, and Scheffel]{Skeffington2023}
+Alastair Skeffington, Axel Fischer, Sanja Sviben, Magdalena Brzezinka, Michal
+  G{\'o}rka, Luca Bertinetti, Christian Woehle, Bruno Huettel, Alexander Graf,
+  and Andr{\'e} Scheffel.
+\newblock A joint proteomic and genomic investigation provides insights into
+  the mechanism of calcification in coccolithophores.
+\newblock \emph{Nature Communications}, 14:\penalty0 3749, 2023.
+\newblock \doi{10.1038/s41467-023-39336-1}.
+
+\bibitem[Kayano et~al.(2011)Kayano, Saruwatari, Kogure, and
+  Shiraiwa]{Kayano2011}
+Keisuke Kayano, Kazuko Saruwatari, Toshihiro Kogure, and Yoshihiro Shiraiwa.
+\newblock Effect of coccolith polysaccharides isolated from the
+  coccolithophorid, {Emiliania huxleyi}, on calcite crystal formation in in
+  vitro {CaCO3} crystallization.
+\newblock \emph{Marine Biotechnology}, 13\penalty0 (1):\penalty0 83--92, 2011.
+\newblock \doi{10.1007/s10126-010-9272-4}.
+
+\bibitem[{Anthropic}(2026{\natexlab{a}})]{AnthropicClaudeCode2026}
+{Anthropic}.
+\newblock Claude code overview.
+\newblock \url{https://docs.anthropic.com/en/docs/claude-code/overview},
+  2026{\natexlab{a}}.
+\newblock Accessed 18 April 2026.
+
+\bibitem[{OpenAI}(2026)]{OpenAICodex2026}
+{OpenAI}.
+\newblock Codex web.
+\newblock \url{https://platform.openai.com/docs/codex/overview}, 2026.
+\newblock Accessed 18 April 2026.
+
+\bibitem[{K-Dense AI}(2026)]{KDenseSkills2026}
+{K-Dense AI}.
+\newblock Scientific agent skills.
+\newblock \url{https://github.com/K-Dense-AI/claude-scientific-skills}, 2026.
+\newblock Accessed 18 April 2026.
+
+\bibitem[Vetting et~al.(2006)Vetting, Hegde, Fajardo, Fiser, Roderick, Takiff,
+  and Blanchard]{Vetting2006}
+Matthew~W. Vetting, Subray~S. Hegde, Joel~E. Fajardo, Andras Fiser, Steven~L.
+  Roderick, Howard~E. Takiff, and John~S. Blanchard.
+\newblock Pentapeptide repeat proteins.
+\newblock \emph{Biochemistry}, 45\penalty0 (1):\penalty0 1--10, 2006.
+\newblock \doi{10.1021/bi052130w}.
+
+\bibitem[Schnoes et~al.(2009)Schnoes, Brown, Dodevski, and
+  Babbitt]{Schnoes2009}
+Alexandra~M. Schnoes, Shoshana~D. Brown, Igor Dodevski, and Patricia~C.
+  Babbitt.
+\newblock Annotation error in public databases: Misannotation of molecular
+  function in enzyme superfamilies.
+\newblock \emph{PLoS Computational Biology}, 5\penalty0 (12):\penalty0
+  e1000605, 2009.
+\newblock \doi{10.1371/journal.pcbi.1000605}.
+
+\bibitem[{Anthropic}(2026{\natexlab{b}})]{AnthropicOpus47_2026}
+{Anthropic}.
+\newblock Introducing claude opus 4.7.
+\newblock \url{https://www.anthropic.com/news/claude-opus-4-7},
+  2026{\natexlab{b}}.
+\newblock Accessed 18 April 2026.
+
+\end{thebibliography}

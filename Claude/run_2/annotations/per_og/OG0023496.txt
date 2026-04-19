@@ -1,0 +1,21 @@
+Orthogroup: OG0023496
+Members: 8
+With BLAST hit: 8  |  With Pfam: 8
+SignalP positive: 0/8
+TMR: any=0/8  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [4x] Cyclin-G-associated kinase
+  [2x] BMP-2-inducible protein kinase
+  [1x] Probable serine/threonine-protein kinase HAL5-like
+  [1x] Probable serine/threonine-protein kinase DDB_G0276461
+
+Pfam domains observed:
+  [8x] Pkinase — Protein kinase domain
+  [8x] PK_Tyr_Ser-Thr — Protein tyrosine and serine/threonine kinase
+  [1x] Kdo — Lipopolysaccharide kinase (Kdo/WaaP) family
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 412 aa | mean acidic (D+E): 11.0% | mean S+T: 11.9% | mean Cys: 2.9%
+Calcification score: 0

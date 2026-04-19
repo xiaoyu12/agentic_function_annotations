@@ -1,0 +1,20 @@
+The folder Orthogroups.calcifying_loose_fastas contains the FASTA files of selected orthogroups. Please annotate the biological functions of each orthogroup and check their relevances to calcification, based on blast_out, PFAM domains in hmm_out, deeptmhmm_results and signalp_results in the folder. Generate additional data if necessary.
+
+
+Ran 9 commands
+
+Updated todos, ran 7 commands, created 2 files, edited 11 files, read 3 files, used a tool
+Annotation pipeline is in annotate_ogs.py and outputs live under annotations/.
+
+Results
+
+annotations/README.md — narrative interpretation grouped by calcification confidence.
+annotations/og_summary.tsv — master table (73 OGs × 19 cols: member counts, SignalP/TMHMM fractions, mean length, acidic %, Cys %, calc score, tags, top BLAST hit, top Pfams).
+annotations/og_summary.md — same bucketed High / Medium / Low / Background.
+annotations/per_og/ — 73 per-OG files with top SwissProt hits, Pfam counts, secretome/TM counts, composition, score.
+What correlates with calcification
+
+Highest-scoring OGs are ECM-biosynthesis enzymes: OG0017138 arylsulfatase B (14/16 Sulfatase Pfam), OG0023594 / OG0024846 glycosyltransferases (GT8, TOD1/MUCI70), OG0020703 / OG0017305 sulfotransferases. Consistent with the coccolith acidic-polysaccharide / CAP matrix.
+Strong secretome-biased novel families: OG0009301 (72% SignalP, PRIMA1 anchor), OG0025059, OG0022355, OG0022473 (small, uncharacterized, signal-peptide rich — likely lineage-specific matrix candidates).
+Multi-pass TM novel families: OG0016211 (SUR7), OG0018519, OG0025015, OG0015153, OG0011061 — candidate transporters/channels, need structural homology (Foldseek) to commit to Ca²⁺/HCO₃⁻ role.
+No hits in the full set to carbonic anhydrase, Ca²⁺-ATPase/SERCA/PMCA, SLC4/SLC26, annexin, or coccolith GPA/CAP; the set is enriched for ECM biosynthesis, not canonical Ca/bicarbonate transport.

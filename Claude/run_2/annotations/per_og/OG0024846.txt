@@ -1,0 +1,16 @@
+Orthogroup: OG0024846
+Members: 7
+With BLAST hit: 1  |  With Pfam: 4
+SignalP positive: 1/7
+TMR: any=0/7  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [1x] Probable hexosyltransferase MUCI70
+
+Pfam domains observed:
+  [4x] TOD1_MUCI70 — TOD1/MUCI70, glycosyltransferase-like domain
+
+Calcification tags: glycosyltransferase
+Biomin flags: -
+Mean length: 334 aa | mean acidic (D+E): 6.7% | mean S+T: 13.4% | mean Cys: 2.8%
+Calcification score: 6

@@ -1,0 +1,4347 @@
+[
+ {
+  "og": "OG0000049",
+  "n": 502,
+  "species": {
+   "Callep1130_1": 124,
+   "Emihu1": 1,
+   "Gepoce1": 10,
+   "Hymcor1016_1": 4,
+   "Ochro3194_1": 8,
+   "Pleelo874_1": 313,
+   "Umbfol2878_1": 42
+  },
+  "blast_cov": 0.0398406374501992,
+  "best_blast": {
+   "q": "jgi|Gepoce1|375749|evm.geph.scaffold_2113.1",
+   "s": "sp|P54137|NTH_CAEEL",
+   "desc": "sp|P54137|NTH_CAEEL Endonuclease III homolog OS=Caenorhabditis elegans OX=6239 GN=nth-1 PE=1 SV=2",
+   "pident": 48.052,
+   "aln": 77,
+   "evalue": 7.09e-11,
+   "bitscore": 65.5
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q6P9Q6|FKB15_MOUSE",
+     "sp|Q6P9Q6|FKB15_MOUSE FK506-binding protein 15 OS=Mus musculus OX=10090 GN=Fkbp15 PE=1 SV=2"
+    ],
+    7
+   ],
+   [
+    [
+     "sp|Q8IDX6|RH2A_PLAF7",
+     "sp|Q8IDX6|RH2A_PLAF7 Reticulocyte-binding protein homolog 2a OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=RH2a PE=1 SV=1"
+    ],
+    6
+   ],
+   [
+    [
+     "sp|Q5T1M5|FKB15_HUMAN",
+     "sp|Q5T1M5|FKB15_HUMAN FK506-binding protein 15 OS=Homo sapiens OX=9606 GN=FKBP15 PE=1 SV=2"
+    ],
+    3
+   ]
+  ],
+  "n_blast_hits": 32,
+  "pfam_cov": 0.027888446215139442,
+  "top_pfam": [
+   [
+    "FKBP15",
+    "PF23649.2",
+    7,
+    "FK506-binding protein 15-like domain",
+    1.9e-05
+   ],
+   [
+    "CCDC39",
+    "PF24161.2",
+    2,
+    "Coiled-coil domain-containing protein 39",
+    5.5e-06
+   ],
+   [
+    "ODF2_C",
+    "PF27605.1",
+    2,
+    "ODF2 C-terminal coiled coil domain",
+    1.7e-05
+   ],
+   [
+    "T4SS_LegC2C7",
+    "PF28175.1",
+    1,
+    "Dot/Icm T4SS effector LegC2/C7",
+    1.6e-05
+   ],
+   [
+    "MAD",
+    "PF05557.19",
+    1,
+    "Mitotic checkpoint protein",
+    2e-05
+   ]
+  ],
+  "n_pfam_hits": 14,
+  "sig_n": 2,
+  "sig_frac": 0.00398406374501992,
+  "tm_any": 3,
+  "tm_scored": 502,
+  "tm_frac": 0.00597609561752988
+ },
+ {
+  "og": "OG0001332",
+  "n": 91,
+  "species": {
+   "Callep1130_1": 76,
+   "Chrlea393_1": 1,
+   "Emihu1": 2,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 4,
+   "Pavlova6257_1": 2,
+   "Pleelo874_1": 4
+  },
+  "blast_cov": 0.9230769230769231,
+  "best_blast": {
+   "q": "jgi|Pavlova6257_1|3541073|gw1.28.332.1",
+   "s": "sp|Q94129|WRT4_CAEEL",
+   "desc": "sp|Q94129|WRT4_CAEEL Warthog protein 4 OS=Caenorhabditis elegans OX=6239 GN=wrt-4 PE=2 SV=2",
+   "pident": 30.818,
+   "aln": 159,
+   "evalue": 1.2e-15,
+   "bitscore": 75.5
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q94128|WRT1_CAEEL",
+     "sp|Q94128|WRT1_CAEEL Warthog protein 1 OS=Caenorhabditis elegans OX=6239 GN=wrt-1 PE=2 SV=1"
+    ],
+    76
+   ],
+   [
+    [
+     "sp|B4LZT9|HH_DROVI",
+     "sp|B4LZT9|HH_DROVI Protein hedgehog OS=Drosophila virilis OX=7244 GN=hh PE=3 SV=1"
+    ],
+    64
+   ],
+   [
+    [
+     "sp|B4JTF5|HH_DROGR",
+     "sp|B4JTF5|HH_DROGR Protein hedgehog OS=Drosophila grimshawi OX=7222 GN=hh PE=3 SV=1"
+    ],
+    14
+   ]
+  ],
+  "n_blast_hits": 191,
+  "pfam_cov": 0.945054945054945,
+  "top_pfam": [
+   [
+    "Hint",
+    "PF01079.26",
+    85,
+    "Hint module",
+    2.6e-29
+   ],
+   [
+    "Trypsin",
+    "PF00089.33",
+    2,
+    "Trypsin",
+    2.1e-19
+   ],
+   [
+    "Hint_2",
+    "PF13403.12",
+    2,
+    "Hint domain",
+    1e-05
+   ],
+   [
+    "Recep_L_domain",
+    "PF01030.32",
+    1,
+    "Receptor L domain",
+    2.9e-07
+   ],
+   [
+    "Trypsin_2",
+    "PF13365.13",
+    1,
+    "Trypsin-like peptidase domain",
+    7.2e-06
+   ]
+  ],
+  "n_pfam_hits": 91,
+  "sig_n": 1,
+  "sig_frac": 0.01098901098901099,
+  "tm_any": 76,
+  "tm_scored": 91,
+  "tm_frac": 0.8351648351648352
+ },
+ {
+  "og": "OG0001976",
+  "n": 73,
+  "species": {
+   "Callep1130_1": 14,
+   "Emihu1": 5,
+   "Gepoce1": 9,
+   "Hymcor1016_1": 4,
+   "Ochro3194_1": 9,
+   "Pleelo874_1": 15,
+   "Umbfol2878_1": 17
+  },
+  "blast_cov": 0.958904109589041,
+  "best_blast": {
+   "q": "jgi|Umbfol2878_1|4268139|estExt_Genewise1.C_6_t20134",
+   "s": "sp|Q52118|YMO3_PANSE",
+   "desc": "sp|Q52118|YMO3_PANSE Uncharacterized protein in mobD 3'region OS=Pantoea stewartii subsp. stewartii OX=66271 PE=4 SV=1",
+   "pident": 31.679,
+   "aln": 262,
+   "evalue": 2.51e-21,
+   "bitscore": 99.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q52118|YMO3_PANSE",
+     "sp|Q52118|YMO3_PANSE Uncharacterized protein in mobD 3'region OS=Pantoea stewartii subsp. stewartii OX=66271 PE=4 SV=1"
+    ],
+    220
+   ],
+   [
+    [
+     "sp|P73709|Y1819_SYNY3",
+     "sp|P73709|Y1819_SYNY3 Uncharacterized protein slr1819 OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr1819 PE=4 SV=1"
+    ],
+    203
+   ],
+   [
+    [
+     "sp|P74221|Y1152_SYNY3",
+     "sp|P74221|Y1152_SYNY3 Uncharacterized protein slr1152 OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr1152 PE=4 SV=1"
+    ],
+    73
+   ]
+  ],
+  "n_blast_hits": 660,
+  "pfam_cov": 0.9863013698630136,
+  "top_pfam": [
+   [
+    "Pentapeptide",
+    "PF00805.29",
+    72,
+    "Pentapeptide repeats (8 copies)",
+    1.2e-83
+   ],
+   [
+    "Pentapeptide_4",
+    "PF13599.14",
+    70,
+    "Pentapeptide repeat region",
+    1.3e-48
+   ],
+   [
+    "Pentapeptide_3",
+    "PF13576.13",
+    70,
+    "Pentapeptide repeats (9 copies)",
+    5.3e-37
+   ],
+   [
+    "Decapeptide",
+    "PF25296.2",
+    39,
+    "Decapeptide repeat region",
+    2.3e-17
+   ],
+   [
+    "LD_SV2",
+    "PF23894.3",
+    24,
+    "SV2A/B/C luminal domain",
+    4.4e-10
+   ]
+  ],
+  "n_pfam_hits": 275,
+  "sig_n": 4,
+  "sig_frac": 0.0547945205479452,
+  "tm_any": 3,
+  "tm_scored": 73,
+  "tm_frac": 0.0410958904109589
+ },
+ {
+  "og": "OG0002887",
+  "n": 59,
+  "species": {
+   "Callep1130_1": 5,
+   "Chrlea393_1": 4,
+   "Chrsim136_1": 5,
+   "Emihu1": 1,
+   "Gepoce1": 15,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 5,
+   "Pleelo874_1": 16,
+   "Umbfol2878_1": 7
+  },
+  "blast_cov": 0.2711864406779661,
+  "best_blast": {
+   "q": "jgi|Gepoce1|367612|evm.geph.scaffold_1160.10",
+   "s": "sp|Q9H611|PIF1_HUMAN",
+   "desc": "sp|Q9H611|PIF1_HUMAN ATP-dependent DNA helicase PIF1 OS=Homo sapiens OX=9606 GN=PIF1 PE=1 SV=2",
+   "pident": 27.842,
+   "aln": 431,
+   "evalue": 8.44e-18,
+   "bitscore": 90.9
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|A5WFR0|PIF1_PSYWF",
+     "sp|A5WFR0|PIF1_PSYWF ATP-dependent DNA helicase Pif1 OS=Psychrobacter sp. (strain PRwf-1) OX=349106 GN=pif1 PE=1 SV=1"
+    ],
+    6
+   ],
+   [
+    [
+     "sp|Q9H611|PIF1_HUMAN",
+     "sp|Q9H611|PIF1_HUMAN ATP-dependent DNA helicase PIF1 OS=Homo sapiens OX=9606 GN=PIF1 PE=1 SV=2"
+    ],
+    4
+   ],
+   [
+    [
+     "sp|Q381V6|PIF4_TRYB2",
+     "sp|Q381V6|PIF4_TRYB2 ATP-dependent DNA helicase PIF4 OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=PIF4 PE=3 SV=1"
+    ],
+    4
+   ]
+  ],
+  "n_blast_hits": 43,
+  "pfam_cov": 0.5254237288135594,
+  "top_pfam": [
+   [
+    "PIF1",
+    "PF05970.21",
+    18,
+    "PIF1-like helicase",
+    1.2e-68
+   ],
+   [
+    "Pif1_2B_dom",
+    "PF21530.4",
+    17,
+    "DNA helicase Pif1, 2B domain",
+    8.7e-19
+   ],
+   [
+    "AAA_30",
+    "PF13604.13",
+    7,
+    "AAA domain",
+    8.9e-07
+   ],
+   [
+    "DnaJ",
+    "PF00226.37",
+    3,
+    "DnaJ domain",
+    9.9e-18
+   ],
+   [
+    "Helitron_like_N",
+    "PF14214.12",
+    2,
+    "Helitron helicase-like domain at N-terminus",
+    2.9e-49
+   ]
+  ],
+  "n_pfam_hits": 50,
+  "sig_n": 1,
+  "sig_frac": 0.01694915254237288,
+  "tm_any": 0,
+  "tm_scored": 59,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0003717",
+  "n": 51,
+  "species": {
+   "Callep1130_1": 2,
+   "Chrlea393_1": 7,
+   "Gepoce1": 5,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 3,
+   "Phaglo1": 2,
+   "Pleelo874_1": 30,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 4,
+  "tm_scored": 51,
+  "tm_frac": 0.0784313725490196
+ },
+ {
+  "og": "OG0009246",
+  "n": 29,
+  "species": {
+   "Callep1130_1": 14,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 2,
+   "IsochDm2_1": 1,
+   "Ochro3194_1": 3,
+   "Pleelo874_1": 2,
+   "Umbfol2878_1": 5
+  },
+  "blast_cov": 0.06896551724137931,
+  "best_blast": {
+   "q": "jgi|IsochDm2_1|1441665|MIX25241_9_20",
+   "s": "sp|Q25434|FP1_MYTCO",
+   "desc": "sp|Q25434|FP1_MYTCO Adhesive plaque matrix protein OS=Mytilus coruscus OX=42192 GN=FP1 PE=2 SV=1",
+   "pident": 32.833,
+   "aln": 600,
+   "evalue": 2.12e-08,
+   "bitscore": 61.6
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q25434|FP1_MYTCO",
+     "sp|Q25434|FP1_MYTCO Adhesive plaque matrix protein OS=Mytilus coruscus OX=42192 GN=FP1 PE=2 SV=1"
+    ],
+    3
+   ],
+   [
+    [
+     "sp|A6H584|CO6A5_MOUSE",
+     "sp|A6H584|CO6A5_MOUSE Collagen alpha-5(VI) chain OS=Mus musculus OX=10090 GN=Col6a5 PE=1 SV=4"
+    ],
+    1
+   ]
+  ],
+  "n_blast_hits": 4,
+  "pfam_cov": 0.034482758620689655,
+  "top_pfam": [
+   [
+    "tRNA-synt_2",
+    "PF00152.26",
+    1,
+    "tRNA synthetases class II (D, K and N)",
+    2.1e-06
+   ]
+  ],
+  "n_pfam_hits": 1,
+  "sig_n": 9,
+  "sig_frac": 0.3103448275862069,
+  "tm_any": 4,
+  "tm_scored": 29,
+  "tm_frac": 0.13793103448275862
+ },
+ {
+  "og": "OG0009301",
+  "n": 29,
+  "species": {
+   "Callep1130_1": 5,
+   "Emihu1": 3,
+   "Gepoce1": 4,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 7,
+   "Pleelo874_1": 2,
+   "Umbfol2878_1": 7
+  },
+  "blast_cov": 0.034482758620689655,
+  "best_blast": {
+   "q": "jgi|Gepoce1|386842|evm.geph.scaffold_477.4",
+   "s": "sp|P08775|RPB1_MOUSE",
+   "desc": "sp|P08775|RPB1_MOUSE DNA-directed RNA polymerase II subunit RPB1 OS=Mus musculus OX=10090 GN=Polr2a PE=1 SV=3",
+   "pident": 34.848,
+   "aln": 66,
+   "evalue": 0.000845,
+   "bitscore": 45.8
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|P08775|RPB1_MOUSE",
+     "sp|P08775|RPB1_MOUSE DNA-directed RNA polymerase II subunit RPB1 OS=Mus musculus OX=10090 GN=Polr2a PE=1 SV=3"
+    ],
+    1
+   ],
+   [
+    [
+     "sp|P24928|RPB1_HUMAN",
+     "sp|P24928|RPB1_HUMAN DNA-directed RNA polymerase II subunit RPB1 OS=Homo sapiens OX=9606 GN=POLR2A PE=1 SV=2"
+    ],
+    1
+   ],
+   [
+    [
+     "sp|P11414|RPB1_CRIGR",
+     "sp|P11414|RPB1_CRIGR DNA-directed RNA polymerase II subunit RPB1 OS=Cricetulus griseus OX=10029 GN=POLR2A PE=1 SV=2"
+    ],
+    1
+   ]
+  ],
+  "n_blast_hits": 3,
+  "pfam_cov": 0.1724137931034483,
+  "top_pfam": [
+   [
+    "SHOCT",
+    "PF09851.15",
+    4,
+    "Short C-terminal domain",
+    2.4e-07
+   ],
+   [
+    "PRIMA1",
+    "PF16101.11",
+    1,
+    "Proline-rich membrane anchor 1",
+    6e-05
+   ]
+  ],
+  "n_pfam_hits": 5,
+  "sig_n": 21,
+  "sig_frac": 0.7241379310344828,
+  "tm_any": 15,
+  "tm_scored": 29,
+  "tm_frac": 0.5172413793103449
+ },
+ {
+  "og": "OG0009816",
+  "n": 28,
+  "species": {
+   "Callep1130_1": 4,
+   "Emihu1": 2,
+   "Gepoce1": 4,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 6,
+   "Pavlova5622_1": 1,
+   "Pleelo874_1": 4,
+   "Umbfol2878_1": 6
+  },
+  "blast_cov": 0.35714285714285715,
+  "best_blast": {
+   "q": "jgi|Gepoce1|370824|evm.geph.scaffold_1455.2",
+   "s": "sp|Q59YS7|MNN14_CANAL",
+   "desc": "sp|Q59YS7|MNN14_CANAL Putative alpha-1,3-mannosyltransferase MNN14 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=MNN14 PE=2 SV=1",
+   "pident": 21.111,
+   "aln": 270,
+   "evalue": 1.94e-12,
+   "bitscore": 74.3
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q59YS7|MNN14_CANAL",
+     "sp|Q59YS7|MNN14_CANAL Putative alpha-1,3-mannosyltransferase MNN14 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=MNN14 PE=2 SV=1"
+    ],
+    10
+   ],
+   [
+    [
+     "sp|Q5APQ8|MNN12_CANAL",
+     "sp|Q5APQ8|MNN12_CANAL Putative alpha-1,3-mannosyltransferase MNN12 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=MNN12 PE=3 SV=2"
+    ],
+    7
+   ],
+   [
+    [
+     "sp|Q5AGA9|MNN13_CANAL",
+     "sp|Q5AGA9|MNN13_CANAL Putative alpha-1,3-mannosyltransferase MNN13 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=MNN13 PE=2 SV=2"
+    ],
+    7
+   ]
+  ],
+  "n_blast_hits": 29,
+  "pfam_cov": 0.5357142857142857,
+  "top_pfam": [
+   [
+    "Mannosyl_trans3",
+    "PF11051.15",
+    15,
+    "Mannosyltransferase putative",
+    5.5e-24
+   ]
+  ],
+  "n_pfam_hits": 15,
+  "sig_n": 2,
+  "sig_frac": 0.07142857142857142,
+  "tm_any": 6,
+  "tm_scored": 28,
+  "tm_frac": 0.21428571428571427
+ },
+ {
+  "og": "OG0010177",
+  "n": 28,
+  "species": {
+   "Callep1130_1": 1,
+   "Chrlea393_1": 21,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 2,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.8928571428571429,
+  "best_blast": {
+   "q": "jgi|Chrlea393_1|1643042|fgenesh1_kg.9_#_1868_#_TRINITY_DN48831_c0_g1_i1",
+   "s": "sp|Q1RK13|Y220_RICBR",
+   "desc": "sp|Q1RK13|Y220_RICBR Putative ankyrin repeat protein RBE_0220 OS=Rickettsia bellii (strain RML369-C) OX=336407 GN=RBE_0220 PE=4 SV=1",
+   "pident": 33.588,
+   "aln": 131,
+   "evalue": 3.86e-16,
+   "bitscore": 84.7
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|O75179|ANR17_HUMAN",
+     "sp|O75179|ANR17_HUMAN Ankyrin repeat domain-containing protein 17 OS=Homo sapiens OX=9606 GN=ANKRD17 PE=1 SV=3"
+    ],
+    91
+   ],
+   [
+    [
+     "sp|Q1RK13|Y220_RICBR",
+     "sp|Q1RK13|Y220_RICBR Putative ankyrin repeat protein RBE_0220 OS=Rickettsia bellii (strain RML369-C) OX=336407 GN=RBE_0220 PE=4 SV=1"
+    ],
+    48
+   ],
+   [
+    [
+     "sp|Q8N6D5|ANR29_HUMAN",
+     "sp|Q8N6D5|ANR29_HUMAN Ankyrin repeat domain-containing protein 29 OS=Homo sapiens OX=9606 GN=ANKRD29 PE=1 SV=2"
+    ],
+    43
+   ]
+  ],
+  "n_blast_hits": 317,
+  "pfam_cov": 0.8571428571428571,
+  "top_pfam": [
+   [
+    "Ank_2",
+    "PF12796.14",
+    24,
+    "Ankyrin repeats (3 copies)",
+    1.1e-23
+   ],
+   [
+    "Ank",
+    "PF00023.37",
+    24,
+    "Ankyrin repeat",
+    1.1e-21
+   ],
+   [
+    "Ank_5",
+    "PF13857.13",
+    24,
+    "Ankyrin repeats (many copies)",
+    7.3e-17
+   ],
+   [
+    "Ank_4",
+    "PF13637.13",
+    24,
+    "Ankyrin repeats (many copies)",
+    3.8e-18
+   ],
+   [
+    "Ank_3",
+    "PF13606.13",
+    24,
+    "Ankyrin repeat",
+    1.5e-16
+   ]
+  ],
+  "n_pfam_hits": 142,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 28,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0010867",
+  "n": 27,
+  "species": {
+   "Callep1130_1": 4,
+   "Emihu1": 5,
+   "Gepoce1": 5,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 6,
+   "Pleelo874_1": 3,
+   "Umbfol2878_1": 3
+  },
+  "blast_cov": 1.0,
+  "best_blast": {
+   "q": "jgi|Callep1130_1|3380590|fgenesh1_kg.1605_#_20_#_OTBYP_transcript_84477",
+   "s": "sp|P73709|Y1819_SYNY3",
+   "desc": "sp|P73709|Y1819_SYNY3 Uncharacterized protein slr1819 OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr1819 PE=4 SV=1",
+   "pident": 32.468,
+   "aln": 308,
+   "evalue": 1.14e-22,
+   "bitscore": 100.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q52118|YMO3_PANSE",
+     "sp|Q52118|YMO3_PANSE Uncharacterized protein in mobD 3'region OS=Pantoea stewartii subsp. stewartii OX=66271 PE=4 SV=1"
+    ],
+    79
+   ],
+   [
+    [
+     "sp|P73709|Y1819_SYNY3",
+     "sp|P73709|Y1819_SYNY3 Uncharacterized protein slr1819 OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr1819 PE=4 SV=1"
+    ],
+    70
+   ],
+   [
+    [
+     "sp|P74221|Y1152_SYNY3",
+     "sp|P74221|Y1152_SYNY3 Uncharacterized protein slr1152 OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr1152 PE=4 SV=1"
+    ],
+    42
+   ]
+  ],
+  "n_blast_hits": 224,
+  "pfam_cov": 1.0,
+  "top_pfam": [
+   [
+    "Pentapeptide",
+    "PF00805.29",
+    27,
+    "Pentapeptide repeats (8 copies)",
+    1.1e-48
+   ],
+   [
+    "Pentapeptide_3",
+    "PF13576.13",
+    26,
+    "Pentapeptide repeats (9 copies)",
+    5.1e-31
+   ],
+   [
+    "Pentapeptide_4",
+    "PF13599.14",
+    25,
+    "Pentapeptide repeat region",
+    7.1e-34
+   ],
+   [
+    "Decapeptide",
+    "PF25296.2",
+    9,
+    "Decapeptide repeat region",
+    5.8e-10
+   ],
+   [
+    "LD_SV2",
+    "PF23894.3",
+    5,
+    "SV2A/B/C luminal domain",
+    2.5e-09
+   ]
+  ],
+  "n_pfam_hits": 92,
+  "sig_n": 1,
+  "sig_frac": 0.037037037037037035,
+  "tm_any": 0,
+  "tm_scored": 27,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0010991",
+  "n": 27,
+  "species": {
+   "Callep1130_1": 2,
+   "Emihu1": 4,
+   "Gepoce1": 5,
+   "Hymcor1016_1": 4,
+   "Ochro3194_1": 4,
+   "Pleelo874_1": 5,
+   "Umbfol2878_1": 3
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 4,
+  "sig_frac": 0.14814814814814814,
+  "tm_any": 1,
+  "tm_scored": 27,
+  "tm_frac": 0.037037037037037035
+ },
+ {
+  "og": "OG0011061",
+  "n": 27,
+  "species": {
+   "Callep1130_1": 1,
+   "Chrsim136_1": 2,
+   "Emihu1": 3,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 9,
+   "Ochro3194_1": 2,
+   "Phaant1": 2,
+   "Pleelo874_1": 3,
+   "Umbfol2878_1": 3
+  },
+  "blast_cov": 0.1111111111111111,
+  "best_blast": {
+   "q": "jgi|Callep1130_1|3900039|estExt_fgenesh1_pg.C_59800003",
+   "s": "sp|A0A494C071|PWWP4_HUMAN",
+   "desc": "sp|A0A494C071|PWWP4_HUMAN Putative PWWP domain-containing DNA repair factor 4 OS=Homo sapiens OX=9606 GN=PWWP4 PE=5 SV=1",
+   "pident": 24.457,
+   "aln": 736,
+   "evalue": 6.02e-11,
+   "bitscore": 72.4
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|A0A494C071|PWWP4_HUMAN",
+     "sp|A0A494C071|PWWP4_HUMAN Putative PWWP domain-containing DNA repair factor 4 OS=Homo sapiens OX=9606 GN=PWWP4 PE=5 SV=1"
+    ],
+    3
+   ],
+   [
+    [
+     "sp|Q9QYX7|PCLO_MOUSE",
+     "sp|Q9QYX7|PCLO_MOUSE Protein piccolo OS=Mus musculus OX=10090 GN=Pclo PE=1 SV=4"
+    ],
+    2
+   ],
+   [
+    [
+     "sp|Q9JKS6|PCLO_RAT",
+     "sp|Q9JKS6|PCLO_RAT Protein piccolo OS=Rattus norvegicus OX=10116 GN=Pclo PE=1 SV=1"
+    ],
+    1
+   ]
+  ],
+  "n_blast_hits": 10,
+  "pfam_cov": 0.07407407407407407,
+  "top_pfam": [
+   [
+    "Exostosin_GT47",
+    "PF03016.21",
+    2,
+    "Exostosin GT47 domain",
+    2.7e-10
+   ]
+  ],
+  "n_pfam_hits": 2,
+  "sig_n": 9,
+  "sig_frac": 0.3333333333333333,
+  "tm_any": 27,
+  "tm_scored": 27,
+  "tm_frac": 1.0
+ },
+ {
+  "og": "OG0011197",
+  "n": 27,
+  "species": {
+   "Emihu1": 2,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 14,
+   "Imarot4477_3": 1,
+   "Imarot704_1": 1,
+   "Ochro3194_1": 3,
+   "Pleelo874_1": 3,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.14814814814814814,
+  "best_blast": {
+   "q": "jgi|Emihu1|251391|gm1.109200006",
+   "s": "sp|Q84MH1|RAP_ORYSJ",
+   "desc": "sp|Q84MH1|RAP_ORYSJ RAP domain-containing protein, chloroplastic OS=Oryza sativa subsp. japonica OX=39947 GN=AL1 PE=2 SV=1",
+   "pident": 38.095,
+   "aln": 84,
+   "evalue": 1.73e-10,
+   "bitscore": 59.7
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|P0DXH0|LFS_CITSI",
+     "sp|P0DXH0|LFS_CITSI Kihadalactone A synthase LFS OS=Citrus sinensis OX=2711 GN=LFS PE=1 SV=1"
+    ],
+    2
+   ],
+   [
+    [
+     "sp|Q9C6I4|G2OX7_ARATH",
+     "sp|Q9C6I4|G2OX7_ARATH Gibberellin 2-beta-dioxygenase 7 OS=Arabidopsis thaliana OX=3702 GN=GA2OX7 PE=1 SV=1"
+    ],
+    1
+   ],
+   [
+    [
+     "sp|Q6AT12|G3OX1_ORYSJ",
+     "sp|Q6AT12|G3OX1_ORYSJ Gibberellin 3-beta-dioxygenase 1 OS=Oryza sativa subsp. japonica OX=39947 GN=GA3OX1 PE=1 SV=1"
+    ],
+    1
+   ]
+  ],
+  "n_blast_hits": 7,
+  "pfam_cov": 0.1111111111111111,
+  "top_pfam": [
+   [
+    "2OG-FeII_Oxy",
+    "PF03171.27",
+    3,
+    "2OG-Fe(II) oxygenase superfamily",
+    1.3e-07
+   ]
+  ],
+  "n_pfam_hits": 3,
+  "sig_n": 1,
+  "sig_frac": 0.037037037037037035,
+  "tm_any": 2,
+  "tm_scored": 27,
+  "tm_frac": 0.07407407407407407
+ },
+ {
+  "og": "OG0013037",
+  "n": 24,
+  "species": {
+   "Callep1130_1": 2,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 7,
+   "Ochro3194_1": 2,
+   "Pleelo874_1": 4,
+   "Umbfol2878_1": 7
+  },
+  "blast_cov": 0.08333333333333333,
+  "best_blast": {
+   "q": "jgi|Umbfol2878_1|5619597|fgenesh1_kg.55_#_2731_#_TRINITY_DN4127_c0_g1_i5",
+   "s": "sp|Q8WZ42|TITIN_HUMAN",
+   "desc": "sp|Q8WZ42|TITIN_HUMAN Titin OS=Homo sapiens OX=9606 GN=TTN PE=1 SV=4",
+   "pident": 29.293,
+   "aln": 99,
+   "evalue": 2.7e-05,
+   "bitscore": 52.8
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|A8DYP0|OBSCN_DROME",
+     "sp|A8DYP0|OBSCN_DROME Protein Obscurin OS=Drosophila melanogaster OX=7227 GN=Obsc PE=1 SV=1"
+    ],
+    1
+   ],
+   [
+    [
+     "sp|Q8WZ42|TITIN_HUMAN",
+     "sp|Q8WZ42|TITIN_HUMAN Titin OS=Homo sapiens OX=9606 GN=TTN PE=1 SV=4"
+    ],
+    1
+   ]
+  ],
+  "n_blast_hits": 2,
+  "pfam_cov": 0.041666666666666664,
+  "top_pfam": [
+   [
+    "Hydrolase_4",
+    "PF12146.16",
+    1,
+    "Serine aminopeptidase, S33",
+    6.9e-05
+   ]
+  ],
+  "n_pfam_hits": 1,
+  "sig_n": 5,
+  "sig_frac": 0.20833333333333334,
+  "tm_any": 6,
+  "tm_scored": 24,
+  "tm_frac": 0.25
+ },
+ {
+  "og": "OG0014155",
+  "n": 22,
+  "species": {
+   "Callep1130_1": 3,
+   "Emihu1": 3,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 3,
+   "IsochDm2_1": 1,
+   "Ochro3194_1": 2,
+   "Phaant1": 7,
+   "Pleelo874_1": 2
+  },
+  "blast_cov": 0.6818181818181818,
+  "best_blast": {
+   "q": "jgi|Phaant1|26240|Phant.0042s0016.1",
+   "s": "sp|F4JZJ2|NSH4_ARATH",
+   "desc": "sp|F4JZJ2|NSH4_ARATH Nucleoside hydrolase 4 OS=Arabidopsis thaliana OX=3702 GN=NSH4 PE=3 SV=1",
+   "pident": 29.618,
+   "aln": 314,
+   "evalue": 4.06e-21,
+   "bitscore": 99.4
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q8RY23|NSH3_ARATH",
+     "sp|Q8RY23|NSH3_ARATH Nucleoside hydrolase 3 OS=Arabidopsis thaliana OX=3702 GN=NSH3 PE=1 SV=1"
+    ],
+    16
+   ],
+   [
+    [
+     "sp|F4JZJ2|NSH4_ARATH",
+     "sp|F4JZJ2|NSH4_ARATH Nucleoside hydrolase 4 OS=Arabidopsis thaliana OX=3702 GN=NSH4 PE=3 SV=1"
+    ],
+    8
+   ],
+   [
+    [
+     "sp|F4JZJ0|NSH5_ARATH",
+     "sp|F4JZJ0|NSH5_ARATH Nucleoside hydrolase 5 OS=Arabidopsis thaliana OX=3702 GN=NSH5 PE=3 SV=1"
+    ],
+    8
+   ]
+  ],
+  "n_blast_hits": 53,
+  "pfam_cov": 0.7727272727272727,
+  "top_pfam": [
+   [
+    "IU_nuc_hydro",
+    "PF01156.25",
+    17,
+    "Inosine-uridine preferring nucleoside hydrolase",
+    1.3e-36
+   ]
+  ],
+  "n_pfam_hits": 17,
+  "sig_n": 11,
+  "sig_frac": 0.5,
+  "tm_any": 2,
+  "tm_scored": 22,
+  "tm_frac": 0.09090909090909091
+ },
+ {
+  "og": "OG0014250",
+  "n": 22,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 4,
+   "Gepoce1": 4,
+   "Hymcor1016_1": 2,
+   "Ochro3194_1": 4,
+   "Platy1217_1": 1,
+   "Pleelo874_1": 3,
+   "Umbfol2878_1": 3
+  },
+  "blast_cov": 0.8181818181818182,
+  "best_blast": {
+   "q": "jgi|Hymcor1016_1|1899514|estExt_Genewise1.C_4450002",
+   "s": "sp|Q661S5|GATA_BORGP",
+   "desc": "sp|Q661S5|GATA_BORGP Glutamyl-tRNA(Gln) amidotransferase subunit A OS=Borrelia garinii subsp. bavariensis (strain ATCC BAA-2496 / DSM 23469 / PBi) OX=290434 GN=gatA PE=3 SV=1",
+   "pident": 31.429,
+   "aln": 245,
+   "evalue": 8.8e-22,
+   "bitscore": 103.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|B2V855|GATA_SULSY",
+     "sp|B2V855|GATA_SULSY Glutamyl-tRNA(Gln) amidotransferase subunit A OS=Sulfurihydrogenibium sp. (strain YO3AOP1) OX=436114 GN=gatA PE=3 SV=1"
+    ],
+    5
+   ],
+   [
+    [
+     "sp|Q661S5|GATA_BORGP",
+     "sp|Q661S5|GATA_BORGP Glutamyl-tRNA(Gln) amidotransferase subunit A OS=Borrelia garinii subsp. bavariensis (strain ATCC BAA-2496 / DSM 23469 / PBi) OX=290434 GN=gatA PE=3 SV=1"
+    ],
+    5
+   ],
+   [
+    [
+     "sp|Q6AQK1|GATA_DESPS",
+     "sp|Q6AQK1|GATA_DESPS Glutamyl-tRNA(Gln) amidotransferase subunit A OS=Desulfotalea psychrophila (strain LSv54 / DSM 12343) OX=177439 GN=gatA PE=3 SV=1"
+    ],
+    4
+   ]
+  ],
+  "n_blast_hits": 51,
+  "pfam_cov": 0.7727272727272727,
+  "top_pfam": [
+   [
+    "Amidase",
+    "PF01425.27",
+    17,
+    "Amidase",
+    1.6e-39
+   ]
+  ],
+  "n_pfam_hits": 17,
+  "sig_n": 15,
+  "sig_frac": 0.6818181818181818,
+  "tm_any": 1,
+  "tm_scored": 22,
+  "tm_frac": 0.045454545454545456
+ },
+ {
+  "og": "OG0015153",
+  "n": 20,
+  "species": {
+   "Callep1130_1": 2,
+   "Emihu1": 3,
+   "Gepoce1": 4,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 3,
+   "Isogal1": 2,
+   "Ochro3194_1": 3,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.15,
+  "best_blast": {
+   "q": "jgi|Pleelo874_1|660256|CE660255_2610",
+   "s": "sp|Q4WWA0|HAC6_ASPFU",
+   "desc": "sp|Q4WWA0|HAC6_ASPFU Subtelomeric hrmA-associated cluster protein AFUA_5G14930 OS=Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293) OX=330879 GN=AFUA_5G14930 PE=2 SV=1",
+   "pident": 37.795,
+   "aln": 127,
+   "evalue": 1.29e-10,
+   "bitscore": 68.9
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q9Y6V0|PCLO_HUMAN",
+     "sp|Q9Y6V0|PCLO_HUMAN Protein piccolo OS=Homo sapiens OX=9606 GN=PCLO PE=1 SV=5"
+    ],
+    13
+   ],
+   [
+    [
+     "sp|Q9JKS6|PCLO_RAT",
+     "sp|Q9JKS6|PCLO_RAT Protein piccolo OS=Rattus norvegicus OX=10116 GN=Pclo PE=1 SV=1"
+    ],
+    4
+   ],
+   [
+    [
+     "sp|Q9QYX7|PCLO_MOUSE",
+     "sp|Q9QYX7|PCLO_MOUSE Protein piccolo OS=Mus musculus OX=10090 GN=Pclo PE=1 SV=4"
+    ],
+    3
+   ]
+  ],
+  "n_blast_hits": 28,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 1,
+  "sig_frac": 0.05,
+  "tm_any": 17,
+  "tm_scored": 20,
+  "tm_frac": 0.85
+ },
+ {
+  "og": "OG0016203",
+  "n": 18,
+  "species": {
+   "Callep1130_1": 2,
+   "Chrlea393_1": 4,
+   "Chrsim136_1": 3,
+   "Emihu1": 2,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 2,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 2
+  },
+  "blast_cov": 0.3333333333333333,
+  "best_blast": {
+   "q": "jgi|Callep1130_1|3101629|fgenesh1_kg.126_#_180_#_OTBYS_OTBYS_transcript_88561",
+   "s": "sp|P27393|CO4A2_ASCSU",
+   "desc": "sp|P27393|CO4A2_ASCSU Collagen alpha-2(IV) chain OS=Ascaris suum OX=6253 PE=2 SV=1",
+   "pident": 36.975,
+   "aln": 119,
+   "evalue": 8.05e-19,
+   "bitscore": 89.4
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|P27393|CO4A2_ASCSU",
+     "sp|P27393|CO4A2_ASCSU Collagen alpha-2(IV) chain OS=Ascaris suum OX=6253 PE=2 SV=1"
+    ],
+    19
+   ],
+   [
+    [
+     "sp|P17139|CO4A1_CAEEL",
+     "sp|P17139|CO4A1_CAEEL Collagen alpha-1(IV) chain OS=Caenorhabditis elegans OX=6239 GN=emb-9 PE=1 SV=5"
+    ],
+    18
+   ],
+   [
+    [
+     "sp|A0A9B2JT35|HEX11_BOMTE",
+     "sp|A0A9B2JT35|HEX11_BOMTE Hexamerin 110 OS=Bombus terrestris OX=30195 GN=Hex110 PE=2 SV=1"
+    ],
+    8
+   ]
+  ],
+  "n_blast_hits": 70,
+  "pfam_cov": 0.1111111111111111,
+  "top_pfam": [
+   [
+    "Collagen",
+    "PF01391.24",
+    1,
+    "Collagen triple helix repeat (20 copies)",
+    8e-14
+   ],
+   [
+    "RCC1",
+    "PF00415.25",
+    1,
+    "Regulator of chromosome condensation (RCC1) repeat",
+    5.1e-15
+   ],
+   [
+    "WD40_RLD",
+    "PF25390.2",
+    1,
+    "RCC1-like domain",
+    1.8e-14
+   ],
+   [
+    "RCC1_2",
+    "PF13540.13",
+    1,
+    "Regulator of chromosome condensation (RCC1) repeat",
+    9.8e-07
+   ]
+  ],
+  "n_pfam_hits": 4,
+  "sig_n": 1,
+  "sig_frac": 0.05555555555555555,
+  "tm_any": 15,
+  "tm_scored": 18,
+  "tm_frac": 0.8333333333333334
+ },
+ {
+  "og": "OG0016211",
+  "n": 18,
+  "species": {
+   "Callep1130_1": 3,
+   "Emihu1": 2,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 2,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 3,
+   "Umbfol2878_1": 4
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.05555555555555555,
+  "top_pfam": [
+   [
+    "SUR7",
+    "PF06687.18",
+    1,
+    "SUR7/PalI family",
+    1.2e-06
+   ]
+  ],
+  "n_pfam_hits": 1,
+  "sig_n": 2,
+  "sig_frac": 0.1111111111111111,
+  "tm_any": 18,
+  "tm_scored": 18,
+  "tm_frac": 1.0
+ },
+ {
+  "og": "OG0017138",
+  "n": 16,
+  "species": {
+   "Callep1130_1": 3,
+   "Chrlea393_1": 6,
+   "Chrsim136_1": 2,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 1.0,
+  "best_blast": {
+   "q": "jgi|Hymcor1016_1|2155336|fgenesh1_kg.191_#_204_#_TRINITY_DN1786_c0_g1_i33",
+   "s": "sp|P50430|ARSB_RAT",
+   "desc": "sp|P50430|ARSB_RAT Arylsulfatase B OS=Rattus norvegicus OX=10116 GN=Arsb PE=2 SV=2",
+   "pident": 36.381,
+   "aln": 514,
+   "evalue": 3.63e-95,
+   "bitscore": 302.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|P50430|ARSB_RAT",
+     "sp|P50430|ARSB_RAT Arylsulfatase B OS=Rattus norvegicus OX=10116 GN=Arsb PE=2 SV=2"
+    ],
+    14
+   ],
+   [
+    [
+     "sp|P50429|ARSB_MOUSE",
+     "sp|P50429|ARSB_MOUSE Arylsulfatase B OS=Mus musculus OX=10090 GN=Arsb PE=1 SV=3"
+    ],
+    12
+   ],
+   [
+    [
+     "sp|P15848|ARSB_HUMAN",
+     "sp|P15848|ARSB_HUMAN Arylsulfatase B OS=Homo sapiens OX=9606 GN=ARSB PE=1 SV=1"
+    ],
+    10
+   ]
+  ],
+  "n_blast_hits": 51,
+  "pfam_cov": 0.875,
+  "top_pfam": [
+   [
+    "Sulfatase",
+    "PF00884.29",
+    14,
+    "Sulfatase",
+    4.6e-48
+   ],
+   [
+    "Polysacc_lyase",
+    "PF14099.14",
+    1,
+    "Polysaccharide lyase",
+    7.2e-16
+   ],
+   [
+    "Kelch_1",
+    "PF01344.32",
+    1,
+    "Kelch motif",
+    5.7e-41
+   ],
+   [
+    "Kelch_2",
+    "PF07646.22",
+    1,
+    "Kelch motif",
+    8.2e-19
+   ],
+   [
+    "Kelch_FKB95",
+    "PF25210.2",
+    1,
+    "FKB95, Kelch-repeats domain",
+    4.2e-15
+   ]
+  ],
+  "n_pfam_hits": 25,
+  "sig_n": 2,
+  "sig_frac": 0.125,
+  "tm_any": 0,
+  "tm_scored": 16,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0017238",
+  "n": 16,
+  "species": {
+   "Callep1130_1": 2,
+   "Emihu1": 4,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 2,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 2,
+   "Pleelo874_1": 2,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.6875,
+  "best_blast": {
+   "q": "jgi|Isogal1|80151|evm.iso.scaffold_207.19",
+   "s": "sp|Q0WL81|RNL_ARATH",
+   "desc": "sp|Q0WL81|RNL_ARATH tRNA ligase 1 OS=Arabidopsis thaliana OX=3702 GN=RNL PE=1 SV=1",
+   "pident": 24.031,
+   "aln": 645,
+   "evalue": 6.21e-25,
+   "bitscore": 116.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q0WL81|RNL_ARATH",
+     "sp|Q0WL81|RNL_ARATH tRNA ligase 1 OS=Arabidopsis thaliana OX=3702 GN=RNL PE=1 SV=1"
+    ],
+    11
+   ]
+  ],
+  "n_blast_hits": 11,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 16,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0017305",
+  "n": 16,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 2,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 3,
+   "Phaant1": 4,
+   "Phaglo1": 3,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.1875,
+  "top_pfam": [
+   [
+    "Sulphotransf",
+    "PF09037.17",
+    3,
+    "Stf0 sulphotransferase",
+    8.9e-06
+   ]
+  ],
+  "n_pfam_hits": 3,
+  "sig_n": 1,
+  "sig_frac": 0.0625,
+  "tm_any": 0,
+  "tm_scored": 16,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0017361",
+  "n": 16,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 4,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 5,
+   "Pavlova2550_1": 1,
+   "Pavlova5622_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 1.0,
+  "best_blast": {
+   "q": "jgi|Gepoce1|388822|evm.geph.scaffold_5.1351",
+   "s": "sp|Q9HTH5|CDHR_PSEAE",
+   "desc": "sp|Q9HTH5|CDHR_PSEAE HTH-type transcriptional regulator CdhR OS=Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1) OX=208964 GN=cdhR PE=1 SV=1",
+   "pident": 46.545,
+   "aln": 275,
+   "evalue": 3.59e-84,
+   "bitscore": 259.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q8G9F9|INHA_PSEPU",
+     "sp|Q8G9F9|INHA_PSEPU Isonitrile hydratase OS=Pseudomonas putida OX=303 GN=inhA PE=1 SV=1"
+    ],
+    18
+   ],
+   [
+    [
+     "sp|Q4WEE0|XANA_ASPFU",
+     "sp|Q4WEE0|XANA_ASPFU Isonitrile hydratase-like protein xanA OS=Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293) OX=330879 GN=xanA PE=2 SV=1"
+    ],
+    6
+   ],
+   [
+    [
+     "sp|Q9HTH5|CDHR_PSEAE",
+     "sp|Q9HTH5|CDHR_PSEAE HTH-type transcriptional regulator CdhR OS=Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1) OX=208964 GN=cdhR PE=1 SV=1"
+    ],
+    5
+   ]
+  ],
+  "n_blast_hits": 43,
+  "pfam_cov": 1.0,
+  "top_pfam": [
+   [
+    "DJ-1_PfpI",
+    "PF01965.31",
+    16,
+    "DJ-1/PfpI family",
+    1.6e-38
+   ],
+   [
+    "HTH_18",
+    "PF12833.14",
+    1,
+    "Helix-turn-helix domain",
+    5.5e-25
+   ],
+   [
+    "HTH_AraC",
+    "PF00165.30",
+    1,
+    "Bacterial regulatory helix-turn-helix proteins, AraC family",
+    9e-15
+   ]
+  ],
+  "n_pfam_hits": 18,
+  "sig_n": 1,
+  "sig_frac": 0.0625,
+  "tm_any": 2,
+  "tm_scored": 16,
+  "tm_frac": 0.125
+ },
+ {
+  "og": "OG0017362",
+  "n": 16,
+  "species": {
+   "Callep1130_1": 3,
+   "Chrlea393_1": 2,
+   "Chrsim136_1": 1,
+   "Emihu1": 2,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 2,
+   "Ochro3194_1": 2,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.1875,
+  "best_blast": {
+   "q": "jgi|Emihu1|462994|estExtDG_fgeneshEH_pg.C_200051",
+   "s": "sp|Q5XF07|APE1L_ARATH",
+   "desc": "sp|Q5XF07|APE1L_ARATH DNA-(apurinic or apyrimidinic site) endonuclease OS=Arabidopsis thaliana OX=3702 GN=APE1L PE=1 SV=1",
+   "pident": 28.796,
+   "aln": 382,
+   "evalue": 1.18e-27,
+   "bitscore": 120.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q338P6|RCCR1_ORYSJ",
+     "sp|Q338P6|RCCR1_ORYSJ Red chlorophyll catabolite reductase 1, chloroplastic OS=Oryza sativa subsp. japonica OX=39947 GN=RCCR1 PE=2 SV=1"
+    ],
+    2
+   ],
+   [
+    [
+     "sp|Q5XF07|APE1L_ARATH",
+     "sp|Q5XF07|APE1L_ARATH DNA-(apurinic or apyrimidinic site) endonuclease OS=Arabidopsis thaliana OX=3702 GN=APE1L PE=1 SV=1"
+    ],
+    1
+   ],
+   [
+    [
+     "sp|A0A509ADV9|APEX_PLABA",
+     "sp|A0A509ADV9|APEX_PLABA DNA-(apurinic or apyrimidinic site) endonuclease OS=Plasmodium berghei (strain Anka) OX=5823 GN=APE1 PE=3 SV=1"
+    ],
+    1
+   ]
+  ],
+  "n_blast_hits": 5,
+  "pfam_cov": 0.3125,
+  "top_pfam": [
+   [
+    "RCC_reductase",
+    "PF06405.17",
+    3,
+    "Red chlorophyll catabolite reductase (RCC reductase)",
+    6.6e-07
+   ],
+   [
+    "Exo_endo_phos",
+    "PF03372.30",
+    1,
+    "Endonuclease/Exonuclease/phosphatase family",
+    5.8e-13
+   ],
+   [
+    "Abhydrolase_5",
+    "PF12695.14",
+    1,
+    "Alpha/beta hydrolase family",
+    8.3e-05
+   ]
+  ],
+  "n_pfam_hits": 5,
+  "sig_n": 7,
+  "sig_frac": 0.4375,
+  "tm_any": 2,
+  "tm_scored": 16,
+  "tm_frac": 0.125
+ },
+ {
+  "og": "OG0017884",
+  "n": 15,
+  "species": {
+   "Callep1130_1": 3,
+   "Chrlea393_1": 1,
+   "Gepoce1": 3,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 5,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.13333333333333333,
+  "best_blast": {
+   "q": "jgi|Callep1130_1|3581810|fgenesh1_kg.3560_#_13_#_TRINITY_DN13561_c0_g2_i3",
+   "s": "sp|D2Q187|MSHD_KRIFD",
+   "desc": "sp|D2Q187|MSHD_KRIFD Mycothiol acetyltransferase OS=Kribbella flavida (strain DSM 17836 / JCM 10339 / NBRC 14399) OX=479435 GN=mshD PE=3 SV=1",
+   "pident": 35.135,
+   "aln": 111,
+   "evalue": 2.42e-05,
+   "bitscore": 48.5
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|D2Q187|MSHD_KRIFD",
+     "sp|D2Q187|MSHD_KRIFD Mycothiol acetyltransferase OS=Kribbella flavida (strain DSM 17836 / JCM 10339 / NBRC 14399) OX=479435 GN=mshD PE=3 SV=1"
+    ],
+    2
+   ]
+  ],
+  "n_blast_hits": 2,
+  "pfam_cov": 0.4666666666666667,
+  "top_pfam": [
+   [
+    "Acetyltransf_1",
+    "PF00583.32",
+    7,
+    "Acetyltransferase (GNAT) family",
+    6.1e-08
+   ],
+   [
+    "Acetyltransf_7",
+    "PF13508.14",
+    7,
+    "Acetyltransferase (GNAT) domain",
+    9.5e-08
+   ],
+   [
+    "RNF34L-like_3rd",
+    "PF22968.3",
+    2,
+    "E3 ubiquitin-protein ligase rififylin-like domain",
+    4.3e-05
+   ]
+  ],
+  "n_pfam_hits": 16,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 4,
+  "tm_scored": 15,
+  "tm_frac": 0.26666666666666666
+ },
+ {
+  "og": "OG0017903",
+  "n": 15,
+  "species": {
+   "Callep1130_1": 2,
+   "Emihu1": 4,
+   "Gepoce1": 2,
+   "IsochDm2_1": 1,
+   "Ochro3194_1": 2,
+   "Pleelo874_1": 1,
+   "Psesor5268_1": 1,
+   "Umbfol2878_1": 2
+  },
+  "blast_cov": 1.0,
+  "best_blast": {
+   "q": "jgi|IsochDm2_1|1308439|fgenesh1_kg.108_#_612_#_ONZOT_transcript_21456",
+   "s": "sp|P40609|HMP_VIBPA",
+   "desc": "sp|P40609|HMP_VIBPA Flavohemoprotein OS=Vibrio parahaemolyticus serotype O3:K6 (strain RIMD 2210633) OX=223926 GN=hmp PE=3 SV=2",
+   "pident": 40.288,
+   "aln": 417,
+   "evalue": 2.23e-106,
+   "bitscore": 323.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q6LM37|HMP_PHOPR",
+     "sp|Q6LM37|HMP_PHOPR Flavohemoprotein OS=Photobacterium profundum (strain SS9) OX=298386 GN=hmp PE=3 SV=1"
+    ],
+    8
+   ],
+   [
+    [
+     "sp|Q88PP0|HMP_PSEPK",
+     "sp|Q88PP0|HMP_PSEPK Flavohemoprotein OS=Pseudomonas putida (strain ATCC 47054 / DSM 6125 / CFBP 8728 / NCIMB 11950 / KT2440) OX=160488 GN=hmp PE=3 SV=1"
+    ],
+    5
+   ],
+   [
+    [
+     "sp|Q54D73|FHBB_DICDI",
+     "sp|Q54D73|FHBB_DICDI Flavohemoprotein B OS=Dictyostelium discoideum OX=44689 GN=fhbB PE=1 SV=1"
+    ],
+    5
+   ]
+  ],
+  "n_blast_hits": 43,
+  "pfam_cov": 0.8,
+  "top_pfam": [
+   [
+    "FAD_binding_6",
+    "PF00970.31",
+    10,
+    "Oxidoreductase FAD-binding domain",
+    1.2e-09
+   ],
+   [
+    "Globin",
+    "PF00042.29",
+    5,
+    "Globin",
+    2.3e-11
+   ],
+   [
+    "NAD_binding_1",
+    "PF00175.27",
+    2,
+    "Oxidoreductase NAD-binding domain",
+    8.3e-10
+   ],
+   [
+    "NPF",
+    "PF16601.11",
+    1,
+    "Rabosyn-5 repeating NPF sequence-motif",
+    6.9e-05
+   ],
+   [
+    "Protoglobin",
+    "PF11563.15",
+    1,
+    "Protoglobin",
+    1.2e-06
+   ]
+  ],
+  "n_pfam_hits": 19,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 15,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0017965",
+  "n": 15,
+  "species": {
+   "Callep1130_1": 2,
+   "Emihu1": 5,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 2,
+   "Ochro3194_1": 3,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.3333333333333333,
+  "best_blast": {
+   "q": "jgi|Umbfol2878_1|6304651|gm4et.235_g",
+   "s": "sp|Q9Z2X8|KEAP1_MOUSE",
+   "desc": "sp|Q9Z2X8|KEAP1_MOUSE Kelch-like ECH-associated protein 1 OS=Mus musculus OX=10090 GN=Keap1 PE=1 SV=1",
+   "pident": 32.911,
+   "aln": 158,
+   "evalue": 1.1e-10,
+   "bitscore": 68.2
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q9LK31|Y3272_ARATH",
+     "sp|Q9LK31|Y3272_ARATH Kelch repeat-containing protein At3g27220 OS=Arabidopsis thaliana OX=3702 GN=At3g27220 PE=2 SV=1"
+    ],
+    3
+   ],
+   [
+    [
+     "sp|Q4QP39|NANM_HAEI8",
+     "sp|Q4QP39|NANM_HAEI8 N-acetylneuraminate epimerase OS=Haemophilus influenzae (strain 86-028NP) OX=281310 GN=nanM PE=3 SV=2"
+    ],
+    3
+   ],
+   [
+    [
+     "sp|Q503R4|KLH36_DANRE",
+     "sp|Q503R4|KLH36_DANRE Kelch-like protein 36 OS=Danio rerio OX=7955 GN=klhl36 PE=2 SV=1"
+    ],
+    2
+   ]
+  ],
+  "n_blast_hits": 17,
+  "pfam_cov": 0.3333333333333333,
+  "top_pfam": [
+   [
+    "Kelch_1",
+    "PF01344.32",
+    5,
+    "Kelch motif",
+    3.9e-17
+   ],
+   [
+    "Kelch_2",
+    "PF07646.22",
+    5,
+    "Kelch motif",
+    3.8e-12
+   ],
+   [
+    "NANM",
+    "PF24996.1",
+    5,
+    "N-acetylneuraminate epimerase",
+    9.3e-12
+   ],
+   [
+    "Kelch_KLHDC2_KLHL20_DRC7",
+    "PF24681.2",
+    5,
+    "KLHDC2/KLHL20/DRC7 Kelch-repeats domain",
+    1.4e-13
+   ],
+   [
+    "Beta-prop_Calicin",
+    "PF13964.13",
+    5,
+    "Calicin, beta-propeller domain",
+    5.9e-08
+   ]
+  ],
+  "n_pfam_hits": 40,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 15,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0018519",
+  "n": 14,
+  "species": {
+   "Callep1130_1": 2,
+   "Emihu1": 2,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 4,
+   "Ochro3194_1": 2,
+   "Umbfol2878_1": 2
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 13,
+  "tm_scored": 14,
+  "tm_frac": 0.9285714285714286
+ },
+ {
+  "og": "OG0018986",
+  "n": 13,
+  "species": {
+   "Callep1130_1": 2,
+   "Chrlea393_1": 3,
+   "Emihu1": 1,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 2,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 2
+  },
+  "blast_cov": 0.23076923076923078,
+  "best_blast": {
+   "q": "jgi|Pleelo874_1|847719|CE847718_3982",
+   "s": "sp|Q54ET0|GRLE_DICDI",
+   "desc": "sp|Q54ET0|GRLE_DICDI Metabotropic glutamate receptor-like protein E OS=Dictyostelium discoideum OX=44689 GN=grlE PE=2 SV=2",
+   "pident": 25.758,
+   "aln": 264,
+   "evalue": 1.06e-12,
+   "bitscore": 76.3
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q54ET0|GRLE_DICDI",
+     "sp|Q54ET0|GRLE_DICDI Metabotropic glutamate receptor-like protein E OS=Dictyostelium discoideum OX=44689 GN=grlE PE=2 SV=2"
+    ],
+    2
+   ],
+   [
+    [
+     "sp|F4IYM4|DEX1_ARATH",
+     "sp|F4IYM4|DEX1_ARATH Protein DEFECTIVE IN EXINE FORMATION 1 OS=Arabidopsis thaliana OX=3702 GN=DEX1 PE=2 SV=1"
+    ],
+    1
+   ],
+   [
+    [
+     "sp|G5ECB2|GABR2_CAEEL",
+     "sp|G5ECB2|GABR2_CAEEL Gamma-aminobutyric acid type B receptor subunit 2 OS=Caenorhabditis elegans OX=6239 GN=gbb-2 PE=1 SV=1"
+    ],
+    1
+   ]
+  ],
+  "n_blast_hits": 7,
+  "pfam_cov": 0.9230769230769231,
+  "top_pfam": [
+   [
+    "FG-GAP_3",
+    "PF13517.13",
+    12,
+    "FG-GAP-like repeat",
+    1.3e-62
+   ],
+   [
+    "FG-GAP",
+    "PF01839.30",
+    12,
+    "FG-GAP repeat",
+    2.8e-22
+   ],
+   [
+    "TcdB_toxin_midN",
+    "PF12256.15",
+    5,
+    "Insecticide toxin TcdB middle/N-terminal region",
+    1.1e-05
+   ],
+   [
+    "7tm_3",
+    "PF00003.29",
+    2,
+    "7 transmembrane sweet-taste receptor of 3 GCPR",
+    6.5e-33
+   ],
+   [
+    "BBS2_Mid",
+    "PF14783.13",
+    1,
+    "Ciliary BBSome complex subunit 2, middle region",
+    1.5e-06
+   ]
+  ],
+  "n_pfam_hits": 33,
+  "sig_n": 7,
+  "sig_frac": 0.5384615384615384,
+  "tm_any": 10,
+  "tm_scored": 13,
+  "tm_frac": 0.7692307692307693
+ },
+ {
+  "og": "OG0019067",
+  "n": 13,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 4,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 1,
+   "Ochro3194_1": 3,
+   "Pavlova2550_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.9230769230769231,
+  "best_blast": {
+   "q": "jgi|Callep1130_1|3145823|fgenesh1_kg.298_#_79_#_OTBYS_OTBYS_transcript_85371",
+   "s": "sp|Q7RTR2|NLRC3_HUMAN",
+   "desc": "sp|Q7RTR2|NLRC3_HUMAN NLR family CARD domain-containing protein 3 OS=Homo sapiens OX=9606 GN=NLRC3 PE=1 SV=2",
+   "pident": 36.126,
+   "aln": 191,
+   "evalue": 1.52e-16,
+   "bitscore": 84.7
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q7RTR2|NLRC3_HUMAN",
+     "sp|Q7RTR2|NLRC3_HUMAN NLR family CARD domain-containing protein 3 OS=Homo sapiens OX=9606 GN=NLRC3 PE=1 SV=2"
+    ],
+    51
+   ],
+   [
+    [
+     "sp|Q5DU56|NLRC3_MOUSE",
+     "sp|Q5DU56|NLRC3_MOUSE Protein NLRC3 OS=Mus musculus OX=10090 GN=Nlrc3 PE=1 SV=2"
+    ],
+    39
+   ],
+   [
+    [
+     "sp|Q9Y239|NOD1_HUMAN",
+     "sp|Q9Y239|NOD1_HUMAN Nucleotide-binding oligomerization domain-containing protein 1 OS=Homo sapiens OX=9606 GN=NOD1 PE=1 SV=1"
+    ],
+    12
+   ]
+  ],
+  "n_blast_hits": 118,
+  "pfam_cov": 0.9230769230769231,
+  "top_pfam": [
+   [
+    "LRR_6",
+    "PF13516.13",
+    12,
+    "Leucine Rich repeat",
+    3.1e-21
+   ],
+   [
+    "LRR_TMOD-LMOD",
+    "PF27087.1",
+    7,
+    "TMOD/LMOD Leucine-rich domain",
+    5.6e-11
+   ],
+   [
+    "LRR_4",
+    "PF12799.14",
+    1,
+    "Leucine Rich repeats (2 copies)",
+    3e-05
+   ]
+  ],
+  "n_pfam_hits": 20,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 5,
+  "tm_scored": 13,
+  "tm_frac": 0.38461538461538464
+ },
+ {
+  "og": "OG0019078",
+  "n": 13,
+  "species": {
+   "Callep1130_1": 2,
+   "Emihu1": 2,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 2,
+   "Umbfol2878_1": 2
+  },
+  "blast_cov": 1.0,
+  "best_blast": {
+   "q": "jgi|Umbfol2878_1|5919468|fgenesh1_kg.281_#_342_#_TRINITY_DN920_c2_g1_i7",
+   "s": "sp|Q6YW46|EF1G2_ORYSJ",
+   "desc": "sp|Q6YW46|EF1G2_ORYSJ Elongation factor 1-gamma 2 OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0220500 PE=2 SV=2",
+   "pident": 43.307,
+   "aln": 254,
+   "evalue": 4.5e-59,
+   "bitscore": 201.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q6YW46|EF1G2_ORYSJ",
+     "sp|Q6YW46|EF1G2_ORYSJ Elongation factor 1-gamma 2 OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0220500 PE=2 SV=2"
+    ],
+    8
+   ],
+   [
+    [
+     "sp|Q9ZRI7|EF1G1_ORYSJ",
+     "sp|Q9ZRI7|EF1G1_ORYSJ Elongation factor 1-gamma 1 OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0220600 PE=2 SV=1"
+    ],
+    7
+   ],
+   [
+    [
+     "sp|O04487|EF1G1_ARATH",
+     "sp|O04487|EF1G1_ARATH Probable elongation factor 1-gamma 1 OS=Arabidopsis thaliana OX=3702 GN=At1g09640 PE=1 SV=1"
+    ],
+    6
+   ]
+  ],
+  "n_blast_hits": 39,
+  "pfam_cov": 0.9230769230769231,
+  "top_pfam": [
+   [
+    "GST_N",
+    "PF02798.27",
+    11,
+    "Glutathione S-transferase, N-terminal domain",
+    1.6e-13
+   ],
+   [
+    "GST_C",
+    "PF00043.31",
+    10,
+    "Glutathione S-transferase, C-terminal domain",
+    7.1e-15
+   ],
+   [
+    "GST_N_2",
+    "PF13409.13",
+    10,
+    "Glutathione S-transferase, N-terminal domain",
+    6.2e-09
+   ],
+   [
+    "GST_N_3",
+    "PF13417.13",
+    10,
+    "Glutathione S-transferase, N-terminal domain",
+    9e-08
+   ],
+   [
+    "GST_C_2",
+    "PF13410.12",
+    9,
+    "Glutathione S-transferase, C-terminal domain",
+    4e-08
+   ]
+  ],
+  "n_pfam_hits": 65,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 13,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0019174",
+  "n": 13,
+  "species": {
+   "Callep1130_1": 3,
+   "Emihu1": 2,
+   "Gepoce1": 1,
+   "Ochro3194_1": 1,
+   "Platy1217_1": 1,
+   "Pleelo874_1": 2,
+   "Umbfol2878_1": 3
+  },
+  "blast_cov": 1.0,
+  "best_blast": {
+   "q": "jgi|Pleelo874_1|6517918|MIX48169_1328_99",
+   "s": "sp|Q8AVG9|GATA_XENLA",
+   "desc": "sp|Q8AVG9|GATA_XENLA Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial OS=Xenopus laevis OX=8355 GN=qrsl1 PE=2 SV=1",
+   "pident": 28.975,
+   "aln": 283,
+   "evalue": 2.91e-19,
+   "bitscore": 95.5
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q8AVG9|GATA_XENLA",
+     "sp|Q8AVG9|GATA_XENLA Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial OS=Xenopus laevis OX=8355 GN=qrsl1 PE=2 SV=1"
+    ],
+    6
+   ],
+   [
+    [
+     "sp|Q31F53|GATA_HYDCU",
+     "sp|Q31F53|GATA_HYDCU Glutamyl-tRNA(Gln) amidotransferase subunit A OS=Hydrogenovibrio crunogenus (strain DSM 25203 / XCL-2) OX=317025 GN=gatA PE=3 SV=1"
+    ],
+    5
+   ],
+   [
+    [
+     "sp|A9M003|GATA_NEIM0",
+     "sp|A9M003|GATA_NEIM0 Glutamyl-tRNA(Gln) amidotransferase subunit A OS=Neisseria meningitidis serogroup C (strain 053442) OX=374833 GN=gatA PE=3 SV=1"
+    ],
+    4
+   ]
+  ],
+  "n_blast_hits": 39,
+  "pfam_cov": 1.0,
+  "top_pfam": [
+   [
+    "Amidase",
+    "PF01425.27",
+    13,
+    "Amidase",
+    1.1e-31
+   ]
+  ],
+  "n_pfam_hits": 13,
+  "sig_n": 5,
+  "sig_frac": 0.38461538461538464,
+  "tm_any": 0,
+  "tm_scored": 13,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0019180",
+  "n": 13,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 2,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 3,
+   "Pleelo874_1": 2,
+   "Umbfol2878_1": 2
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 13,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0019790",
+  "n": 12,
+  "species": {
+   "Callep1130_1": 2,
+   "Emihu1": 2,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 2,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 1.0,
+  "best_blast": {
+   "q": "jgi|Umbfol2878_1|5408396|fgenesh1_pm.78_#_23",
+   "s": "sp|V6CLA2|HECD1_CAEEL",
+   "desc": "sp|V6CLA2|HECD1_CAEEL E3 ubiquitin-protein ligase hecd-1 OS=Caenorhabditis elegans OX=6239 GN=hecd-1 PE=1 SV=1",
+   "pident": 30.769,
+   "aln": 559,
+   "evalue": 1.17e-58,
+   "bitscore": 229.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|V6CLA2|HECD1_CAEEL",
+     "sp|V6CLA2|HECD1_CAEEL E3 ubiquitin-protein ligase hecd-1 OS=Caenorhabditis elegans OX=6239 GN=hecd-1 PE=1 SV=1"
+    ],
+    7
+   ],
+   [
+    [
+     "sp|Q6WWW4|UPL3_ARATH",
+     "sp|Q6WWW4|UPL3_ARATH E3 ubiquitin-protein ligase UPL3 OS=Arabidopsis thaliana OX=3702 GN=UPL3 PE=1 SV=1"
+    ],
+    7
+   ],
+   [
+    [
+     "sp|Q9ULJ7|ANR50_HUMAN",
+     "sp|Q9ULJ7|ANR50_HUMAN Ankyrin repeat domain-containing protein 50 OS=Homo sapiens OX=9606 GN=ANKRD50 PE=1 SV=4"
+    ],
+    6
+   ]
+  ],
+  "n_blast_hits": 40,
+  "pfam_cov": 1.0,
+  "top_pfam": [
+   [
+    "HECT",
+    "PF00632.31",
+    9,
+    "HECT-domain (ubiquitin-transferase)",
+    1.6e-46
+   ],
+   [
+    "Ank_2",
+    "PF12796.14",
+    4,
+    "Ankyrin repeats (3 copies)",
+    7.4e-10
+   ],
+   [
+    "Ank",
+    "PF00023.37",
+    4,
+    "Ankyrin repeat",
+    4.8e-10
+   ],
+   [
+    "Ank_3",
+    "PF13606.13",
+    4,
+    "Ankyrin repeat",
+    2.2e-07
+   ],
+   [
+    "Ank_4",
+    "PF13637.13",
+    4,
+    "Ankyrin repeats (many copies)",
+    1.2e-07
+   ]
+  ],
+  "n_pfam_hits": 28,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 12,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0019817",
+  "n": 12,
+  "species": {
+   "Chrlea393_1": 1,
+   "Chrsim136_1": 1,
+   "Emihu1": 1,
+   "Gepoce1": 3,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 2,
+   "Umbfol2878_1": 2
+  },
+  "blast_cov": 0.8333333333333334,
+  "best_blast": {
+   "q": "jgi|Chrsim136_1|3199396|e_gw1.46.2368.1",
+   "s": "sp|H1ZZA4|AUAG_STIAU",
+   "desc": "sp|H1ZZA4|AUAG_STIAU Aurachin C monooxygenase/isomerase OS=Stigmatella aurantiaca OX=41 GN=auaG PE=1 SV=1",
+   "pident": 30.46,
+   "aln": 348,
+   "evalue": 3.99e-28,
+   "bitscore": 117.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|H1ZZA4|AUAG_STIAU",
+     "sp|H1ZZA4|AUAG_STIAU Aurachin C monooxygenase/isomerase OS=Stigmatella aurantiaca OX=41 GN=auaG PE=1 SV=1"
+    ],
+    7
+   ],
+   [
+    [
+     "sp|Q40412|ABA2_NICPL",
+     "sp|Q40412|ABA2_NICPL Zeaxanthin epoxidase, chloroplastic OS=Nicotiana plumbaginifolia OX=4092 GN=ABA2 PE=1 SV=1"
+    ],
+    4
+   ],
+   [
+    [
+     "sp|A0A0K2JKU1|AHBM_STRCM",
+     "sp|A0A0K2JKU1|AHBM_STRCM 3-amino-4-hydroxybenzoate 2-monooxygenase OS=Streptomyces cremeus OX=66881 GN=creL PE=1 SV=1"
+    ],
+    3
+   ]
+  ],
+  "n_blast_hits": 30,
+  "pfam_cov": 0.8333333333333334,
+  "top_pfam": [
+   [
+    "FAD_binding_3",
+    "PF01494.26",
+    9,
+    "FAD binding domain",
+    5.7e-18
+   ],
+   [
+    "NAD_binding_8",
+    "PF13450.13",
+    9,
+    "NAD(P)-binding Rossmann-like domain",
+    2.7e-06
+   ]
+  ],
+  "n_pfam_hits": 18,
+  "sig_n": 8,
+  "sig_frac": 0.6666666666666666,
+  "tm_any": 1,
+  "tm_scored": 12,
+  "tm_frac": 0.08333333333333333
+ },
+ {
+  "og": "OG0019873",
+  "n": 12,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 2,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 2,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 1.0,
+  "best_blast": {
+   "q": "jgi|Ochro3194_1|4193147|fgenesh1_kg.60_1109_ONZOP_transcript_9492",
+   "s": "sp|Q9S9U6|1A111_ARATH",
+   "desc": "sp|Q9S9U6|1A111_ARATH 1-aminocyclopropane-1-carboxylate synthase 11 OS=Arabidopsis thaliana OX=3702 GN=ACS11 PE=1 SV=1",
+   "pident": 32.952,
+   "aln": 437,
+   "evalue": 1.69e-71,
+   "bitscore": 238.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q9S9U6|1A111_ARATH",
+     "sp|Q9S9U6|1A111_ARATH 1-aminocyclopropane-1-carboxylate synthase 11 OS=Arabidopsis thaliana OX=3702 GN=ACS11 PE=1 SV=1"
+    ],
+    10
+   ],
+   [
+    [
+     "sp|A0A0P0WIY3|1A13_ORYSJ",
+     "sp|A0A0P0WIY3|1A13_ORYSJ 1-aminocyclopropane-1-carboxylate synthase 3 OS=Oryza sativa subsp. japonica OX=39947 GN=ACS3 PE=2 SV=1"
+    ],
+    7
+   ],
+   [
+    [
+     "sp|Q9SAR0|1A16_ARATH",
+     "sp|Q9SAR0|1A16_ARATH 1-aminocyclopropane-1-carboxylate synthase 6 OS=Arabidopsis thaliana OX=3702 GN=ACS6 PE=1 SV=2"
+    ],
+    5
+   ]
+  ],
+  "n_blast_hits": 37,
+  "pfam_cov": 0.8333333333333334,
+  "top_pfam": [
+   [
+    "Aminotran_1_2",
+    "PF00155.28",
+    10,
+    "Aminotransferase class I and II",
+    6.2e-48
+   ]
+  ],
+  "n_pfam_hits": 10,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 12,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0019887",
+  "n": 12,
+  "species": {
+   "Callep1130_1": 2,
+   "Gepoce1": 3,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 2,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.16666666666666666,
+  "best_blast": {
+   "q": "jgi|Ochro3194_1|4074362|fgenesh1_kg.38_1297_OTBYT_transcript_16189",
+   "s": "sp|Q17EJ1|MTG1_AEDAE",
+   "desc": "sp|Q17EJ1|MTG1_AEDAE Mitochondrial GTPase 1 OS=Aedes aegypti OX=7159 GN=AAEL003813 PE=3 SV=1",
+   "pident": 34.722,
+   "aln": 144,
+   "evalue": 1.22e-06,
+   "bitscore": 54.3
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q8R2R6|MTG1_MOUSE",
+     "sp|Q8R2R6|MTG1_MOUSE Mitochondrial ribosome-associated GTPase 1 OS=Mus musculus OX=10090 GN=Mtg1 PE=1 SV=2"
+    ],
+    2
+   ],
+   [
+    [
+     "sp|Q17EJ1|MTG1_AEDAE",
+     "sp|Q17EJ1|MTG1_AEDAE Mitochondrial GTPase 1 OS=Aedes aegypti OX=7159 GN=AAEL003813 PE=3 SV=1"
+    ],
+    2
+   ],
+   [
+    [
+     "sp|A9JTX2|MTG1_XENTR",
+     "sp|A9JTX2|MTG1_XENTR Mitochondrial ribosome-associated GTPase 1 OS=Xenopus tropicalis OX=8364 GN=mtg1 PE=2 SV=1"
+    ],
+    2
+   ]
+  ],
+  "n_blast_hits": 6,
+  "pfam_cov": 0.75,
+  "top_pfam": [
+   [
+    "MMR_HSR1",
+    "PF01926.30",
+    4,
+    "50S ribosome-binding GTPase",
+    1.4e-09
+   ],
+   [
+    "Intron_maturas2",
+    "PF01348.27",
+    4,
+    "Type II intron maturase",
+    2.7e-08
+   ],
+   [
+    "CysS_C",
+    "PF23493.2",
+    1,
+    "Cysteinyl-tRNA ligase anticodon binding domain",
+    7.9e-05
+   ]
+  ],
+  "n_pfam_hits": 9,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 12,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0019917",
+  "n": 12,
+  "species": {
+   "Callep1130_1": 2,
+   "Emihu1": 3,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 3,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.16666666666666666,
+  "best_blast": {
+   "q": "jgi|Emihu1|248202|gm1.64300005",
+   "s": "sp|P05987|KAPR_DICDI",
+   "desc": "sp|P05987|KAPR_DICDI cAMP-dependent protein kinase regulatory subunit OS=Dictyostelium discoideum OX=44689 GN=pkaR PE=1 SV=1",
+   "pident": 35.294,
+   "aln": 153,
+   "evalue": 2.36e-18,
+   "bitscore": 90.1
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q6C2X0|KAPR_YARLI",
+     "sp|Q6C2X0|KAPR_YARLI cAMP-dependent protein kinase regulatory subunit OS=Yarrowia lipolytica (strain CLIB 122 / E 150) OX=284591 GN=PKAR PE=3 SV=1"
+    ],
+    4
+   ],
+   [
+    [
+     "sp|P05987|KAPR_DICDI",
+     "sp|P05987|KAPR_DICDI cAMP-dependent protein kinase regulatory subunit OS=Dictyostelium discoideum OX=44689 GN=pkaR PE=1 SV=1"
+    ],
+    2
+   ],
+   [
+    [
+     "sp|Q9C196|KAPR_ASPNG",
+     "sp|Q9C196|KAPR_ASPNG cAMP-dependent protein kinase regulatory subunit OS=Aspergillus niger OX=5061 GN=pkaR PE=3 SV=1"
+    ],
+    2
+   ]
+  ],
+  "n_blast_hits": 8,
+  "pfam_cov": 0.25,
+  "top_pfam": [
+   [
+    "cNMP_binding",
+    "PF00027.36",
+    2,
+    "Cyclic nucleotide-binding domain",
+    3.4e-16
+   ],
+   [
+    "Apolipoprotein",
+    "PF01442.24",
+    1,
+    "Apolipoprotein A1/A4/E domain",
+    2.6e-06
+   ]
+  ],
+  "n_pfam_hits": 3,
+  "sig_n": 1,
+  "sig_frac": 0.08333333333333333,
+  "tm_any": 3,
+  "tm_scored": 12,
+  "tm_frac": 0.25
+ },
+ {
+  "og": "OG0020622",
+  "n": 11,
+  "species": {
+   "Callep1130_1": 3,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 2,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 1.0,
+  "best_blast": {
+   "q": "jgi|Callep1130_1|3061535|fgenesh1_pm.3787_#_3",
+   "s": "sp|O34481|RECD2_BACSU",
+   "desc": "sp|O34481|RECD2_BACSU ATP-dependent RecD2 DNA helicase OS=Bacillus subtilis (strain 168) OX=224308 GN=recD2 PE=1 SV=1",
+   "pident": 29.349,
+   "aln": 753,
+   "evalue": 3.07e-72,
+   "bitscore": 254.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|O34481|RECD2_BACSU",
+     "sp|O34481|RECD2_BACSU ATP-dependent RecD2 DNA helicase OS=Bacillus subtilis (strain 168) OX=224308 GN=recD2 PE=1 SV=1"
+    ],
+    15
+   ],
+   [
+    [
+     "sp|Q9RT63|RECD2_DEIRA",
+     "sp|Q9RT63|RECD2_DEIRA ATP-dependent RecD2 DNA helicase OS=Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / CCUG 27074 / LMG 4051 / NBRC 15346 / NCIMB 9279 / VKM B-1422 / R1) OX=243230 GN=recD2 PE=1 SV=1"
+    ],
+    11
+   ],
+   [
+    [
+     "sp|A0QS28|RECD_MYCS2",
+     "sp|A0QS28|RECD_MYCS2 RecBCD enzyme subunit RecD OS=Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155) OX=246196 GN=recD PE=3 SV=1"
+    ],
+    6
+   ]
+  ],
+  "n_blast_hits": 37,
+  "pfam_cov": 1.0,
+  "top_pfam": [
+   [
+    "AAA_30",
+    "PF13604.13",
+    10,
+    "AAA domain",
+    2.7e-40
+   ],
+   [
+    "AAA_19",
+    "PF13245.13",
+    10,
+    "AAA domain",
+    7.5e-39
+   ],
+   [
+    "UvrD_C_2",
+    "PF13538.13",
+    10,
+    "UvrD-like helicase C-terminal domain",
+    1e-18
+   ],
+   [
+    "SH3_13",
+    "PF18335.8",
+    10,
+    "ATP-dependent RecD-like DNA helicase SH3 domain",
+    4.6e-11
+   ],
+   [
+    "Viral_helicase1",
+    "PF01443.25",
+    10,
+    "Viral superfamily 1 RNA helicase core domain",
+    2.6e-12
+   ]
+  ],
+  "n_pfam_hits": 97,
+  "sig_n": 1,
+  "sig_frac": 0.09090909090909091,
+  "tm_any": 0,
+  "tm_scored": 11,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0020657",
+  "n": 11,
+  "species": {
+   "Callep1130_1": 2,
+   "Emihu1": 1,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 2,
+   "Pleelo874_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 3,
+  "sig_frac": 0.2727272727272727,
+  "tm_any": 0,
+  "tm_scored": 11,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0020696",
+  "n": 11,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 3,
+   "Gepoce1": 1,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 2,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 1,
+  "sig_frac": 0.09090909090909091,
+  "tm_any": 3,
+  "tm_scored": 11,
+  "tm_frac": 0.2727272727272727
+ },
+ {
+  "og": "OG0020700",
+  "n": 11,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 1,
+   "Gepoce1": 1,
+   "Imarot2298_1": 1,
+   "Imarot4780_1": 2,
+   "Ochro3194_1": 3,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.2727272727272727,
+  "top_pfam": [
+   [
+    "PDZ_2",
+    "PF13180.13",
+    3,
+    "PDZ domain",
+    1.9e-06
+   ],
+   [
+    "PDZ",
+    "PF00595.30",
+    2,
+    "PDZ domain",
+    4.4e-07
+   ],
+   [
+    "PDZ_6",
+    "PF17820.8",
+    2,
+    "PDZ domain",
+    1.8e-05
+   ]
+  ],
+  "n_pfam_hits": 7,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 11,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0020703",
+  "n": 11,
+  "species": {
+   "Callep1130_1": 2,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 1,
+   "Phaant1": 1,
+   "Phaglo1": 2,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.18181818181818182,
+  "best_blast": {
+   "q": "jgi|Callep1130_1|3624914|fgenesh1_kg.4179_#_8_#_OTBYS_OTBYS_transcript_83801",
+   "s": "sp|O60243|H6ST1_HUMAN",
+   "desc": "sp|O60243|H6ST1_HUMAN Heparan-sulfate 6-O-sulfotransferase 1 OS=Homo sapiens OX=9606 GN=HS6ST1 PE=1 SV=5",
+   "pident": 24.437,
+   "aln": 311,
+   "evalue": 2.91e-05,
+   "bitscore": 49.3
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|O60243|H6ST1_HUMAN",
+     "sp|O60243|H6ST1_HUMAN Heparan-sulfate 6-O-sulfotransferase 1 OS=Homo sapiens OX=9606 GN=HS6ST1 PE=1 SV=5"
+    ],
+    2
+   ],
+   [
+    [
+     "sp|Q800H9|H6ST2_DANRE",
+     "sp|Q800H9|H6ST2_DANRE Heparan-sulfate 6-O-sulfotransferase 2 OS=Danio rerio OX=7955 GN=hs6st2 PE=2 SV=2"
+    ],
+    2
+   ]
+  ],
+  "n_blast_hits": 4,
+  "pfam_cov": 0.09090909090909091,
+  "top_pfam": [
+   [
+    "Sulfotransfer_3",
+    "PF13469.13",
+    1,
+    "Sulfotransferase family",
+    1.9e-13
+   ],
+   [
+    "Sulfotransfer_1",
+    "PF00685.34",
+    1,
+    "Sulfotransferase domain",
+    1.4e-06
+   ]
+  ],
+  "n_pfam_hits": 2,
+  "sig_n": 4,
+  "sig_frac": 0.36363636363636365,
+  "tm_any": 0,
+  "tm_scored": 11,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0020706",
+  "n": 11,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 2,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 1,
+   "Ochro3194_1": 2,
+   "Phaant1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 5,
+  "tm_scored": 11,
+  "tm_frac": 0.45454545454545453
+ },
+ {
+  "og": "OG0020728",
+  "n": 11,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 1,
+   "Gepoce1": 3,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 2,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 11,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0020729",
+  "n": 11,
+  "species": {
+   "Callep1130_1": 3,
+   "Chrlea393_1": 1,
+   "Emihu1": 1,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 2,
+   "Ochro3194_1": 1,
+   "Umbfol2878_1": 2
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 11,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0021347",
+  "n": 10,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 1,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 2,
+   "Pleelo874_1": 1
+  },
+  "blast_cov": 1.0,
+  "best_blast": {
+   "q": "jgi|Emihu1|433953|estExtDG_fgenesh_newKGs_kg.C_150069",
+   "s": "sp|P29786|TRY3_AEDAE",
+   "desc": "sp|P29786|TRY3_AEDAE Trypsin 3A1 OS=Aedes aegypti OX=7159 GN=AAEL007818 PE=2 SV=2",
+   "pident": 36.641,
+   "aln": 262,
+   "evalue": 2.33e-38,
+   "bitscore": 140.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|P35035|TRY1_ANOGA",
+     "sp|P35035|TRY1_ANOGA Trypsin-1 OS=Anopheles gambiae OX=7165 GN=TRYP1 PE=2 SV=3"
+    ],
+    7
+   ],
+   [
+    [
+     "sp|P35038|TRY4_ANOGA",
+     "sp|P35038|TRY4_ANOGA Trypsin-4 OS=Anopheles gambiae OX=7165 GN=TRYP4 PE=2 SV=2"
+    ],
+    4
+   ],
+   [
+    [
+     "sp|P29786|TRY3_AEDAE",
+     "sp|P29786|TRY3_AEDAE Trypsin 3A1 OS=Aedes aegypti OX=7159 GN=AAEL007818 PE=2 SV=2"
+    ],
+    3
+   ]
+  ],
+  "n_blast_hits": 30,
+  "pfam_cov": 1.0,
+  "top_pfam": [
+   [
+    "Trypsin",
+    "PF00089.33",
+    10,
+    "Trypsin",
+    8.9e-46
+   ],
+   [
+    "Trypsin_2",
+    "PF13365.13",
+    3,
+    "Trypsin-like peptidase domain",
+    2.4e-05
+   ],
+   [
+    "DUF1986",
+    "PF09342.17",
+    1,
+    "Domain of unknown function (DUF1986)",
+    1.1e-05
+   ]
+  ],
+  "n_pfam_hits": 14,
+  "sig_n": 5,
+  "sig_frac": 0.5,
+  "tm_any": 0,
+  "tm_scored": 10,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0021406",
+  "n": 10,
+  "species": {
+   "Callep1130_1": 1,
+   "Chrsim136_1": 1,
+   "Emihu1": 2,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 2,
+   "IsochDm2_1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1
+  },
+  "blast_cov": 1.0,
+  "best_blast": {
+   "q": "jgi|Ochro3194_1|4014948|fgenesh1_kg.29_6270_ONZOP_transcript_42535",
+   "s": "sp|P37769|KDUD_ECOLI",
+   "desc": "sp|P37769|KDUD_ECOLI 2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase OS=Escherichia coli (strain K12) OX=83333 GN=kduD PE=1 SV=2",
+   "pident": 39.2,
+   "aln": 250,
+   "evalue": 3.21e-53,
+   "bitscore": 176.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|P37769|KDUD_ECOLI",
+     "sp|P37769|KDUD_ECOLI 2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase OS=Escherichia coli (strain K12) OX=83333 GN=kduD PE=1 SV=2"
+    ],
+    8
+   ],
+   [
+    [
+     "sp|Q05528|KDUD_DICD3",
+     "sp|Q05528|KDUD_DICD3 2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase OS=Dickeya dadantii (strain 3937) OX=198628 GN=kduD PE=1 SV=2"
+    ],
+    8
+   ],
+   [
+    [
+     "sp|P50199|GNO_GLUOX",
+     "sp|P50199|GNO_GLUOX Gluconate 5-dehydrogenase OS=Gluconobacter oxydans (strain 621H) OX=290633 GN=gno PE=1 SV=1"
+    ],
+    6
+   ]
+  ],
+  "n_blast_hits": 30,
+  "pfam_cov": 1.0,
+  "top_pfam": [
+   [
+    "adh_short",
+    "PF00106.32",
+    10,
+    "short chain dehydrogenase",
+    2.9e-57
+   ],
+   [
+    "adh_short_C2",
+    "PF13561.13",
+    10,
+    "Enoyl-(Acyl carrier protein) reductase",
+    6.6e-56
+   ],
+   [
+    "KR",
+    "PF08659.17",
+    9,
+    "KR domain",
+    4.8e-14
+   ],
+   [
+    "SDR",
+    "PF23441.1",
+    5,
+    "SDR-like rossmann domain",
+    5e-10
+   ],
+   [
+    "Epimerase",
+    "PF01370.28",
+    4,
+    "NAD dependent epimerase/dehydratase family",
+    4.8e-07
+   ]
+  ],
+  "n_pfam_hits": 39,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 10,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0021517",
+  "n": 10,
+  "species": {
+   "Callep1130_1": 1,
+   "Chrlea393_1": 1,
+   "Emihu1": 2,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 2,
+   "Phaant1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.2,
+  "best_blast": {
+   "q": "jgi|Phaant1|8965|Phant.0154s0089.1",
+   "s": "sp|Q9UK99|FBX3_HUMAN",
+   "desc": "sp|Q9UK99|FBX3_HUMAN F-box only protein 3 OS=Homo sapiens OX=9606 GN=FBXO3 PE=1 SV=3",
+   "pident": 51.02,
+   "aln": 49,
+   "evalue": 4.91e-05,
+   "bitscore": 48.1
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q5R796|FBX36_PONAB",
+     "sp|Q5R796|FBX36_PONAB F-box only protein 36 OS=Pongo abelii OX=9601 GN=FBXO36 PE=2 SV=1"
+    ],
+    1
+   ],
+   [
+    [
+     "sp|Q8NEA4|FBX36_HUMAN",
+     "sp|Q8NEA4|FBX36_HUMAN F-box only protein 36 OS=Homo sapiens OX=9606 GN=FBXO36 PE=1 SV=2"
+    ],
+    1
+   ],
+   [
+    [
+     "sp|Q9UK99|FBX3_HUMAN",
+     "sp|Q9UK99|FBX3_HUMAN F-box only protein 3 OS=Homo sapiens OX=9606 GN=FBXO3 PE=1 SV=3"
+    ],
+    1
+   ]
+  ],
+  "n_blast_hits": 5,
+  "pfam_cov": 0.9,
+  "top_pfam": [
+   [
+    "F-box-like",
+    "PF12937.13",
+    8,
+    "F-box-like",
+    2.5e-07
+   ],
+   [
+    "F-box",
+    "PF00646.39",
+    4,
+    "F-box domain",
+    6.5e-09
+   ]
+  ],
+  "n_pfam_hits": 12,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 10,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0021520",
+  "n": 10,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 1,
+   "Gepoce1": 2,
+   "IsochDm2_1": 2,
+   "Isogal1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 1,
+  "tm_scored": 10,
+  "tm_frac": 0.1
+ },
+ {
+  "og": "OG0021523",
+  "n": 10,
+  "species": {
+   "Callep1130_1": 2,
+   "Emihu1": 3,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.6,
+  "best_blast": {
+   "q": "jgi|Callep1130_1|3204905|fgenesh1_kg.560_#_77_#_OTBYS_OTBYS_transcript_41926",
+   "s": "sp|Q7XJ53|P2C35_ARATH",
+   "desc": "sp|Q7XJ53|P2C35_ARATH Probable protein phosphatase 2C 35 OS=Arabidopsis thaliana OX=3702 GN=At3g06270 PE=2 SV=1",
+   "pident": 33.846,
+   "aln": 260,
+   "evalue": 6.87e-38,
+   "bitscore": 141.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q8H4S6|P2C64_ORYSJ",
+     "sp|Q8H4S6|P2C64_ORYSJ Probable protein phosphatase 2C 64 OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0566200 PE=2 SV=2"
+    ],
+    5
+   ],
+   [
+    [
+     "sp|Q7XJ53|P2C35_ARATH",
+     "sp|Q7XJ53|P2C35_ARATH Probable protein phosphatase 2C 35 OS=Arabidopsis thaliana OX=3702 GN=At3g06270 PE=2 SV=1"
+    ],
+    4
+   ],
+   [
+    [
+     "sp|Q9SL76|P2C19_ARATH",
+     "sp|Q9SL76|P2C19_ARATH Protein phosphatase 2C and cyclic nucleotide-binding/kinase domain-containing protein OS=Arabidopsis thaliana OX=3702 GN=At2g20050/At2g20040 PE=2 SV=2"
+    ],
+    3
+   ]
+  ],
+  "n_blast_hits": 18,
+  "pfam_cov": 0.6,
+  "top_pfam": [
+   [
+    "PP2C",
+    "PF00481.27",
+    6,
+    "Protein phosphatase 2C",
+    3.2e-39
+   ]
+  ],
+  "n_pfam_hits": 6,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 10,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0021531",
+  "n": 10,
+  "species": {
+   "Callep1130_1": 2,
+   "Emihu1": 1,
+   "Gepoce1": 1,
+   "Ochro3194_1": 2,
+   "Pleelo874_1": 2,
+   "Umbfol2878_1": 2
+  },
+  "blast_cov": 0.7,
+  "best_blast": {
+   "q": "jgi|Pleelo874_1|749638|CE749637_1870",
+   "s": "sp|Q9QXY1|ZO3_MOUSE",
+   "desc": "sp|Q9QXY1|ZO3_MOUSE Tight junction protein ZO-3 OS=Mus musculus OX=10090 GN=Tjp3 PE=1 SV=1",
+   "pident": 26.855,
+   "aln": 283,
+   "evalue": 1.24e-05,
+   "bitscore": 51.6
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q2SL36|DEGPL_HAHCH",
+     "sp|Q2SL36|DEGPL_HAHCH Probable periplasmic serine endoprotease DegP-like OS=Hahella chejuensis (strain KCTC 2396) OX=349521 GN=mucD PE=3 SV=1"
+    ],
+    3
+   ],
+   [
+    [
+     "sp|A5W8F5|DEGPL_PSEP1",
+     "sp|A5W8F5|DEGPL_PSEP1 Probable periplasmic serine endoprotease DegP-like OS=Pseudomonas putida (strain ATCC 700007 / DSM 6899 / JCM 31910 / BCRC 17059 / LMG 24140 / F1) OX=351746 GN=Pput_4291 PE=3 SV=1"
+    ],
+    2
+   ],
+   [
+    [
+     "sp|P73940|HHOB_SYNY3",
+     "sp|P73940|HHOB_SYNY3 Putative serine protease HhoB OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=hhoB PE=1 SV=1"
+    ],
+    1
+   ]
+  ],
+  "n_blast_hits": 11,
+  "pfam_cov": 1.0,
+  "top_pfam": [
+   [
+    "PDZ_6",
+    "PF17820.8",
+    10,
+    "PDZ domain",
+    3.4e-32
+   ],
+   [
+    "PDZ_2",
+    "PF13180.13",
+    7,
+    "PDZ domain",
+    1.5e-21
+   ],
+   [
+    "PDZ",
+    "PF00595.30",
+    6,
+    "PDZ domain",
+    4.2e-14
+   ],
+   [
+    "PDZ_Tricorn",
+    "PF14685.15",
+    2,
+    "Tricorn protease PDZ domain",
+    2.4e-08
+   ],
+   [
+    "GRASP55_65",
+    "PF04495.21",
+    2,
+    "GRASP55/65 PDZ-like domain",
+    7e-09
+   ]
+  ],
+  "n_pfam_hits": 28,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 10,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0022355",
+  "n": 9,
+  "species": {
+   "Callep1130_1": 1,
+   "Chrlea393_1": 1,
+   "Emihu1": 1,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 2
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.7777777777777778,
+  "top_pfam": [
+   [
+    "DUF2237",
+    "PF09996.15",
+    7,
+    "Uncharacterized protein conserved in bacteria (DUF2237)",
+    2.1e-18
+   ]
+  ],
+  "n_pfam_hits": 7,
+  "sig_n": 6,
+  "sig_frac": 0.6666666666666666,
+  "tm_any": 6,
+  "tm_scored": 9,
+  "tm_frac": 0.6666666666666666
+ },
+ {
+  "og": "OG0022381",
+  "n": 9,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 1,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1
+  },
+  "blast_cov": 1.0,
+  "best_blast": {
+   "q": "jgi|Callep1130_1|3302777|fgenesh1_kg.1085_#_109_#_TRINITY_DN6431_c0_g1_i1",
+   "s": "sp|P37039|NCPR_CAVPO",
+   "desc": "sp|P37039|NCPR_CAVPO NADPH--cytochrome P450 reductase OS=Cavia porcellus OX=10141 GN=Por PE=2 SV=2",
+   "pident": 36.296,
+   "aln": 675,
+   "evalue": 3.45e-132,
+   "bitscore": 406.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q0J705|NCPR2_ORYSJ",
+     "sp|Q0J705|NCPR2_ORYSJ NADPH--cytochrome P450 reductase 2 OS=Oryza sativa subsp. japonica OX=39947 GN=CPR2 PE=1 SV=2"
+    ],
+    6
+   ],
+   [
+    [
+     "sp|Q653S9|NCPR3_ORYSJ",
+     "sp|Q653S9|NCPR3_ORYSJ NADPH--cytochrome P450 reductase 3 OS=Oryza sativa subsp. japonica OX=39947 GN=CPR3 PE=1 SV=1"
+    ],
+    6
+   ],
+   [
+    [
+     "sp|C5YJG8|NCPR_SORBI",
+     "sp|C5YJG8|NCPR_SORBI NADPH--cytochrome P450 reductase OS=Sorghum bicolor OX=4558 GN=CPR PE=1 SV=1"
+    ],
+    4
+   ]
+  ],
+  "n_blast_hits": 30,
+  "pfam_cov": 1.0,
+  "top_pfam": [
+   [
+    "FAD_binding_1",
+    "PF00667.27",
+    8,
+    "FAD binding domain",
+    1.5e-42
+   ],
+   [
+    "NAD_binding_1",
+    "PF00175.27",
+    8,
+    "Oxidoreductase NAD-binding domain",
+    2.4e-16
+   ],
+   [
+    "Flavodoxin_1",
+    "PF00258.31",
+    7,
+    "Flavodoxin",
+    4.9e-33
+   ]
+  ],
+  "n_pfam_hits": 23,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 4,
+  "tm_scored": 9,
+  "tm_frac": 0.4444444444444444
+ },
+ {
+  "og": "OG0022455",
+  "n": 9,
+  "species": {
+   "Callep1130_1": 2,
+   "Emihu1": 1,
+   "Gepoce1": 1,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 9,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0022473",
+  "n": 9,
+  "species": {
+   "Callep1130_1": 2,
+   "Emihu1": 1,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 3,
+  "sig_frac": 0.3333333333333333,
+  "tm_any": 3,
+  "tm_scored": 9,
+  "tm_frac": 0.3333333333333333
+ },
+ {
+  "og": "OG0022474",
+  "n": 9,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 2,
+   "Gepoce1": 1,
+   "Ochro3194_1": 1,
+   "Phaglo1": 1,
+   "Platy1217_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.8888888888888888,
+  "top_pfam": [
+   [
+    "F-box-like",
+    "PF12937.13",
+    8,
+    "F-box-like",
+    3.6e-10
+   ],
+   [
+    "F-box",
+    "PF00646.39",
+    6,
+    "F-box domain",
+    1e-06
+   ]
+  ],
+  "n_pfam_hits": 14,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 9,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0022492",
+  "n": 9,
+  "species": {
+   "Callep1130_1": 1,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 2
+  },
+  "blast_cov": 0.5555555555555556,
+  "best_blast": {
+   "q": "jgi|Umbfol2878_1|2580162|CE2580161_2913",
+   "s": "sp|P90648|MHCKB_DICDI",
+   "desc": "sp|P90648|MHCKB_DICDI Myosin heavy chain kinase B OS=Dictyostelium discoideum OX=44689 GN=mhkB PE=1 SV=1",
+   "pident": 25.523,
+   "aln": 239,
+   "evalue": 2.6e-10,
+   "bitscore": 65.1
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|P90648|MHCKB_DICDI",
+     "sp|P90648|MHCKB_DICDI Myosin heavy chain kinase B OS=Dictyostelium discoideum OX=44689 GN=mhkB PE=1 SV=1"
+    ],
+    5
+   ],
+   [
+    [
+     "sp|Q8MY12|MHCKC_DICDI",
+     "sp|Q8MY12|MHCKC_DICDI Myosin heavy chain kinase C OS=Dictyostelium discoideum OX=44689 GN=mhkC PE=1 SV=1"
+    ],
+    3
+   ],
+   [
+    [
+     "sp|Q0DYP5|C3H17_ORYSJ",
+     "sp|Q0DYP5|C3H17_ORYSJ Zinc finger CCCH domain-containing protein 17 OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0677700 PE=2 SV=2"
+    ],
+    2
+   ]
+  ],
+  "n_blast_hits": 16,
+  "pfam_cov": 1.0,
+  "top_pfam": [
+   [
+    "Beta-prop_TEP1_2nd",
+    "PF25047.1",
+    7,
+    "TEP-1 second beta-propeller",
+    1.2e-09
+   ],
+   [
+    "WD40",
+    "PF00400.39",
+    5,
+    "WD domain, G-beta repeat",
+    6.8e-12
+   ],
+   [
+    "Beta-prop_WDR3_1st",
+    "PF25173.2",
+    5,
+    "WDR3 first beta-propeller domain",
+    5.1e-13
+   ],
+   [
+    "WD40_Prp19",
+    "PF24814.2",
+    5,
+    "Prp19 WD40 domain",
+    2.3e-09
+   ],
+   [
+    "Beta-prop_THOC3",
+    "PF25174.2",
+    5,
+    "THOC3 beta-propeller domain",
+    7.3e-10
+   ]
+  ],
+  "n_pfam_hits": 67,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 9,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0022500",
+  "n": 9,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 1,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 9,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0022520",
+  "n": 9,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 1,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 9,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0022524",
+  "n": 9,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 2,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 2
+  },
+  "blast_cov": 1.0,
+  "best_blast": {
+   "q": "jgi|Hymcor1016_1|2482859|MIX31231_6_52",
+   "s": "sp|Q52118|YMO3_PANSE",
+   "desc": "sp|Q52118|YMO3_PANSE Uncharacterized protein in mobD 3'region OS=Pantoea stewartii subsp. stewartii OX=66271 PE=4 SV=1",
+   "pident": 37.885,
+   "aln": 227,
+   "evalue": 9.45e-29,
+   "bitscore": 114.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q52118|YMO3_PANSE",
+     "sp|Q52118|YMO3_PANSE Uncharacterized protein in mobD 3'region OS=Pantoea stewartii subsp. stewartii OX=66271 PE=4 SV=1"
+    ],
+    71
+   ],
+   [
+    [
+     "sp|P73709|Y1819_SYNY3",
+     "sp|P73709|Y1819_SYNY3 Uncharacterized protein slr1819 OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr1819 PE=4 SV=1"
+    ],
+    33
+   ],
+   [
+    [
+     "sp|P73063|Y1851_SYNY3",
+     "sp|P73063|Y1851_SYNY3 Uncharacterized protein slr1851 OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr1851 PE=4 SV=1"
+    ],
+    23
+   ]
+  ],
+  "n_blast_hits": 147,
+  "pfam_cov": 1.0,
+  "top_pfam": [
+   [
+    "Pentapeptide",
+    "PF00805.29",
+    9,
+    "Pentapeptide repeats (8 copies)",
+    5.1e-74
+   ],
+   [
+    "Pentapeptide_4",
+    "PF13599.14",
+    9,
+    "Pentapeptide repeat region",
+    5.8e-38
+   ],
+   [
+    "Pentapeptide_3",
+    "PF13576.13",
+    9,
+    "Pentapeptide repeats (9 copies)",
+    1e-29
+   ],
+   [
+    "Decapeptide",
+    "PF25296.2",
+    4,
+    "Decapeptide repeat region",
+    5.7e-10
+   ]
+  ],
+  "n_pfam_hits": 31,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 9,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0022528",
+  "n": 9,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 2,
+   "Gepoce1": 1,
+   "Ochro3194_1": 2,
+   "Phaglo1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 9,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0023496",
+  "n": 8,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 1,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 1.0,
+  "best_blast": {
+   "q": "jgi|Callep1130_1|1513863|CE1513862_2628",
+   "s": "sp|Q9NSY1|BMP2K_HUMAN",
+   "desc": "sp|Q9NSY1|BMP2K_HUMAN BMP-2-inducible protein kinase OS=Homo sapiens OX=9606 GN=BMP2K PE=1 SV=2",
+   "pident": 35.294,
+   "aln": 221,
+   "evalue": 9.4e-30,
+   "bitscore": 125.0
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q99KY4|GAK_MOUSE",
+     "sp|Q99KY4|GAK_MOUSE Cyclin-G-associated kinase OS=Mus musculus OX=10090 GN=Gak PE=1 SV=2"
+    ],
+    5
+   ],
+   [
+    [
+     "sp|O14976|GAK_HUMAN",
+     "sp|O14976|GAK_HUMAN Cyclin-G-associated kinase OS=Homo sapiens OX=9606 GN=GAK PE=1 SV=2"
+    ],
+    4
+   ],
+   [
+    [
+     "sp|P97874|GAK_RAT",
+     "sp|P97874|GAK_RAT Cyclin-G-associated kinase OS=Rattus norvegicus OX=10116 GN=Gak PE=1 SV=1"
+    ],
+    3
+   ]
+  ],
+  "n_blast_hits": 24,
+  "pfam_cov": 1.0,
+  "top_pfam": [
+   [
+    "Pkinase",
+    "PF00069.32",
+    8,
+    "Protein kinase domain",
+    4.9e-36
+   ],
+   [
+    "PK_Tyr_Ser-Thr",
+    "PF07714.24",
+    8,
+    "Protein tyrosine and serine/threonine kinase",
+    2.6e-24
+   ],
+   [
+    "Kdo",
+    "PF06293.21",
+    1,
+    "Lipopolysaccharide kinase (Kdo/WaaP) family",
+    1.9e-05
+   ]
+  ],
+  "n_pfam_hits": 17,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 8,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0023566",
+  "n": 8,
+  "species": {
+   "Callep1130_1": 1,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.625,
+  "best_blast": {
+   "q": "jgi|Hymcor1016_1|2075426|fgenesh1_kg.28_#_325_#_ONATT_transcript_3816",
+   "s": "sp|Q54W90|SEY1_DICDI",
+   "desc": "sp|Q54W90|SEY1_DICDI Protein SEY1 homolog OS=Dictyostelium discoideum OX=44689 GN=DDB_0206311 PE=3 SV=1",
+   "pident": 24.119,
+   "aln": 369,
+   "evalue": 1.59e-18,
+   "bitscore": 93.2
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q54W90|SEY1_DICDI",
+     "sp|Q54W90|SEY1_DICDI Protein SEY1 homolog OS=Dictyostelium discoideum OX=44689 GN=DDB_0206311 PE=3 SV=1"
+    ],
+    4
+   ],
+   [
+    [
+     "sp|Q2R224|RHD32_ORYSJ",
+     "sp|Q2R224|RHD32_ORYSJ Protein ROOT HAIR DEFECTIVE 3 homolog 2 OS=Oryza sativa subsp. japonica OX=39947 GN=Os11g0582300 PE=2 SV=1"
+    ],
+    2
+   ],
+   [
+    [
+     "sp|B0D0N9|SEY1_LACBS",
+     "sp|B0D0N9|SEY1_LACBS Protein SEY1 OS=Laccaria bicolor (strain S238N-H82 / ATCC MYA-4686) OX=486041 GN=SEY1 PE=3 SV=1"
+    ],
+    2
+   ]
+  ],
+  "n_blast_hits": 13,
+  "pfam_cov": 0.375,
+  "top_pfam": [
+   [
+    "RHD3_GTPase",
+    "PF05879.19",
+    3,
+    "Root hair defective 3 GTP-binding protein (RHD3) GTPase domain",
+    7.1e-11
+   ]
+  ],
+  "n_pfam_hits": 3,
+  "sig_n": 3,
+  "sig_frac": 0.375,
+  "tm_any": 1,
+  "tm_scored": 8,
+  "tm_frac": 0.125
+ },
+ {
+  "og": "OG0023594",
+  "n": 8,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 1,
+   "Gepoce1": 2,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 2,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.75,
+  "best_blast": {
+   "q": "jgi|Gepoce1|376605|evm.geph.scaffold_2272.1",
+   "s": "sp|Q09YN0|ASZ1_RABIT",
+   "desc": "sp|Q09YN0|ASZ1_RABIT Ankyrin repeat, SAM and basic leucine zipper domain-containing protein 1 OS=Oryctolagus cuniculus OX=9986 GN=ASZ1 PE=3 SV=1",
+   "pident": 51.613,
+   "aln": 62,
+   "evalue": 1.37e-11,
+   "bitscore": 65.9
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q5U3H3|GL8D1_DANRE",
+     "sp|Q5U3H3|GL8D1_DANRE Glycosyltransferase 8 domain-containing protein 1 OS=Danio rerio OX=7955 GN=glt8d1 PE=2 SV=1"
+    ],
+    3
+   ],
+   [
+    [
+     "sp|Q09YN0|ASZ1_RABIT",
+     "sp|Q09YN0|ASZ1_RABIT Ankyrin repeat, SAM and basic leucine zipper domain-containing protein 1 OS=Oryctolagus cuniculus OX=9986 GN=ASZ1 PE=3 SV=1"
+    ],
+    2
+   ],
+   [
+    [
+     "sp|Q2QL84|ASZ1_MICMU",
+     "sp|Q2QL84|ASZ1_MICMU Ankyrin repeat, SAM and basic leucine zipper domain-containing protein 1 OS=Microcebus murinus OX=30608 GN=ASZ1 PE=3 SV=1"
+    ],
+    2
+   ]
+  ],
+  "n_blast_hits": 14,
+  "pfam_cov": 0.875,
+  "top_pfam": [
+   [
+    "Glyco_transf_8",
+    "PF01501.27",
+    6,
+    "Glycosyl transferase family 8",
+    8.6e-20
+   ],
+   [
+    "LRR_5",
+    "PF13306.13",
+    1,
+    "BspA type Leucine rich repeat region (6 copies)",
+    2.6e-18
+   ],
+   [
+    "Ank_2",
+    "PF12796.14",
+    1,
+    "Ankyrin repeats (3 copies)",
+    1.9e-13
+   ],
+   [
+    "Ank_4",
+    "PF13637.13",
+    1,
+    "Ankyrin repeats (many copies)",
+    2.8e-12
+   ],
+   [
+    "Ank",
+    "PF00023.37",
+    1,
+    "Ankyrin repeat",
+    5.8e-11
+   ]
+  ],
+  "n_pfam_hits": 12,
+  "sig_n": 1,
+  "sig_frac": 0.125,
+  "tm_any": 1,
+  "tm_scored": 8,
+  "tm_frac": 0.125
+ },
+ {
+  "og": "OG0023657",
+  "n": 8,
+  "species": {
+   "Callep1130_1": 1,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 8,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0023790",
+  "n": 8,
+  "species": {
+   "Chrlea393_1": 1,
+   "Chrsim136_1": 1,
+   "Emihu1": 1,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.5,
+  "best_blast": {
+   "q": "jgi|Chrsim136_1|5015284|fgenesh1_kg.46_#_2405_#_TRINITY_DN51037_c0_g1_i1",
+   "s": "sp|Q9MTQ6|RCCR_HORVU",
+   "desc": "sp|Q9MTQ6|RCCR_HORVU Red chlorophyll catabolite reductase (Fragment) OS=Hordeum vulgare OX=4513 GN=rccR PE=1 SV=1",
+   "pident": 28.125,
+   "aln": 160,
+   "evalue": 1.96e-06,
+   "bitscore": 51.2
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q9MTQ6|RCCR_HORVU",
+     "sp|Q9MTQ6|RCCR_HORVU Red chlorophyll catabolite reductase (Fragment) OS=Hordeum vulgare OX=4513 GN=rccR PE=1 SV=1"
+    ],
+    3
+   ],
+   [
+    [
+     "sp|Q338P6|RCCR1_ORYSJ",
+     "sp|Q338P6|RCCR1_ORYSJ Red chlorophyll catabolite reductase 1, chloroplastic OS=Oryza sativa subsp. japonica OX=39947 GN=RCCR1 PE=2 SV=1"
+    ],
+    2
+   ]
+  ],
+  "n_blast_hits": 5,
+  "pfam_cov": 0.75,
+  "top_pfam": [
+   [
+    "RCC_reductase",
+    "PF06405.17",
+    6,
+    "Red chlorophyll catabolite reductase (RCC reductase)",
+    3.8e-08
+   ]
+  ],
+  "n_pfam_hits": 6,
+  "sig_n": 1,
+  "sig_frac": 0.125,
+  "tm_any": 0,
+  "tm_scored": 8,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0024846",
+  "n": 7,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 1,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.14285714285714285,
+  "best_blast": {
+   "q": "jgi|Hymcor1016_1|2600125|estExt_Genemark4ET.C_540086",
+   "s": "sp|Q9FZ97|MUC70_ARATH",
+   "desc": "sp|Q9FZ97|MUC70_ARATH Probable hexosyltransferase MUCI70 OS=Arabidopsis thaliana OX=3702 GN=MUCI70 PE=1 SV=1",
+   "pident": 28.846,
+   "aln": 156,
+   "evalue": 1.14e-05,
+   "bitscore": 50.8
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q9FZ97|MUC70_ARATH",
+     "sp|Q9FZ97|MUC70_ARATH Probable hexosyltransferase MUCI70 OS=Arabidopsis thaliana OX=3702 GN=MUCI70 PE=1 SV=1"
+    ],
+    1
+   ]
+  ],
+  "n_blast_hits": 1,
+  "pfam_cov": 0.5714285714285714,
+  "top_pfam": [
+   [
+    "TOD1_MUCI70",
+    "PF04765.20",
+    4,
+    "TOD1/MUCI70, glycosyltransferase-like domain",
+    1.8e-11
+   ]
+  ],
+  "n_pfam_hits": 4,
+  "sig_n": 1,
+  "sig_frac": 0.14285714285714285,
+  "tm_any": 0,
+  "tm_scored": 7,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0024979",
+  "n": 7,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 1,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "IsochDm2_1": 1,
+   "Ochro3194_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 7,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0025015",
+  "n": 7,
+  "species": {
+   "Callep1130_1": 1,
+   "Emihu1": 1,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "Isogal1": 1,
+   "Ochro3194_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 7,
+  "tm_scored": 7,
+  "tm_frac": 1.0
+ },
+ {
+  "og": "OG0025016",
+  "n": 7,
+  "species": {
+   "Callep1130_1": 1,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 1,
+   "Phaglo1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 7,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0025059",
+  "n": 7,
+  "species": {
+   "Callep1130_1": 1,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 2,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 0.0,
+  "best_blast": null,
+  "top_subjects": [],
+  "n_blast_hits": 0,
+  "pfam_cov": 0.0,
+  "top_pfam": [],
+  "n_pfam_hits": 0,
+  "sig_n": 5,
+  "sig_frac": 0.7142857142857143,
+  "tm_any": 0,
+  "tm_scored": 7,
+  "tm_frac": 0.0
+ },
+ {
+  "og": "OG0026865",
+  "n": 6,
+  "species": {
+   "Callep1130_1": 1,
+   "Gepoce1": 1,
+   "Hymcor1016_1": 1,
+   "Ochro3194_1": 1,
+   "Pleelo874_1": 1,
+   "Umbfol2878_1": 1
+  },
+  "blast_cov": 1.0,
+  "best_blast": {
+   "q": "jgi|Ochro3194_1|3341585|estExt_Genewise1.C_33_t10425",
+   "s": "sp|Q6Q4H1|JMJD6_HYDVU",
+   "desc": "sp|Q6Q4H1|JMJD6_HYDVU Bifunctional arginine demethylase and lysyl-hydroxylase PSR OS=Hydra vulgaris OX=6087 GN=PSR PE=1 SV=1",
+   "pident": 25.614,
+   "aln": 285,
+   "evalue": 3.46e-21,
+   "bitscore": 98.2
+  },
+  "top_subjects": [
+   [
+    [
+     "sp|Q6Q4H1|JMJD6_HYDVU",
+     "sp|Q6Q4H1|JMJD6_HYDVU Bifunctional arginine demethylase and lysyl-hydroxylase PSR OS=Hydra vulgaris OX=6087 GN=PSR PE=1 SV=1"
+    ],
+    5
+   ],
+   [
+    [
+     "sp|Q67XX3|JMJ22_ARATH",
+     "sp|Q67XX3|JMJ22_ARATH Arginine-specific demethylase JMJ22 OS=Arabidopsis thaliana OX=3702 GN=JMJ22 PE=1 SV=1"
+    ],
+    2
+   ],
+   [
+    [
+     "sp|Q9GYI4|JMJD6_CAEEL",
+     "sp|Q9GYI4|JMJD6_CAEEL Bifunctional arginine demethylase and lysyl-hydroxylase psr-1 OS=Caenorhabditis elegans OX=6239 GN=psr-1 PE=1 SV=2"
+    ],
+    2
+   ]
+  ],
+  "n_blast_hits": 18,
+  "pfam_cov": 0.8333333333333334,
+  "top_pfam": [
+   [
+    "JmjC",
+    "PF02373.29",
+    5,
+    "JmjC domain, hydroxylase",
+    7.6e-10
+   ],
+   [
+    "Cupin_8",
+    "PF13621.13",
+    1,
+    "Cupin-like domain",
+    3e-10
+   ]
+  ],
+  "n_pfam_hits": 6,
+  "sig_n": 0,
+  "sig_frac": 0.0,
+  "tm_any": 0,
+  "tm_scored": 6,
+  "tm_frac": 0.0
+ }
+]

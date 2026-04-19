@@ -1,0 +1,15 @@
+Orthogroup: OG0017238
+Members: 16
+With BLAST hit: 11  |  With Pfam: 0
+SignalP positive: 0/16
+TMR: any=0/16  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [11x] tRNA ligase 1
+
+Pfam domains observed:
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 553 aa | mean acidic (D+E): 9.7% | mean S+T: 10.2% | mean Cys: 1.8%
+Calcification score: 0

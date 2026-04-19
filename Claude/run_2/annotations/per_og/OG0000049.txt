@@ -1,0 +1,31 @@
+Orthogroup: OG0000049
+Members: 502
+With BLAST hit: 20  |  With Pfam: 14
+SignalP positive: 2/502
+TMR: any=3/502  single-pass=2  multi-pass=1
+TMHMM topology types: [('GLOB', 2)]
+
+Top SwissProt hit(s) across members:
+  [6x] Reticulocyte-binding protein homolog 2a
+  [6x] FK506-binding protein 15
+  [1x] Methyltransferase sdnD
+  [1x] Endonuclease III homolog
+  [1x] Serine/threonine-protein kinase MRCK beta
+  [1x] Myosin-10
+  [1x] Huntingtin-interacting protein 1
+  [1x] Ciliary rootlet coiled-coil protein 2
+  [1x] Laminin subunit beta-2
+  [1x] IgA FC receptor
+
+Pfam domains observed:
+  [7x] FKBP15 — FK506-binding protein 15-like domain
+  [2x] CCDC39 — Coiled-coil domain-containing protein 39
+  [2x] ODF2_C — ODF2 C-terminal coiled coil domain
+  [1x] T4SS_LegC2C7 — Dot/Icm T4SS effector LegC2/C7
+  [1x] MAD — Mitotic checkpoint protein
+  [1x] Rod_CreS — Crescentin, rod domain
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 674 aa | mean acidic (D+E): 11.7% | mean S+T: 12.0% | mean Cys: 2.0%
+Calcification score: 0

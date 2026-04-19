@@ -1,0 +1,74 @@
+OG	n_seq	primary_annotation	key_domains_or_hits	secretion_profile	calcification_relevance	rationale
+OG0000049	502	Heterogeneous; dominant FKBP15-like + coiled-coil (CCDC39/ODF2) family; cytosolic	FKBP15; CCDC39; ODF2_C; Reticulocyte-binding proteins	Almost all cytosolic (GLOB 495/502; SP 4; TM 3)	LOW	Giant mixed OG with weak, heterogeneous BLAST/Pfam support (<3% seqs annotated). Pfam hits (FKBP15, coiled-coils) indicate cytoskeletal / protein-interaction roles, not biomineralization. Non-secreted.
+OG0001332	91	Hedgehog/Hint-domain autoprocessing proteins (Warthog/hedgehog-like)	Hint module (85/91); Warthog 1 BLAST hits; 2 Trypsin hits	Mostly TM (73) + SP+TM (3); a few GLOB	LOW-MEDIUM	Hedgehog-type Hint-module proteins are membrane-anchored signalling/self-cleaving proteins. In calcifying metazoa Hedgehog signaling can influence skeletogenic cell fate, but evidence here points more broadly to morphogen/cell-fate signalling than direct matrix formation.
+OG0001976	73	Bacterial-like pentapeptide-repeat protein (MfpA/Slr1819 family)	Pentapeptide; Pentapeptide_3/4; Decapeptide; LD_SV2	Mostly cytosolic (GLOB 60) with some SP (10)	LOW	Pentapeptide-repeat proteins mimic B-DNA; typically cytosolic/defense. No link to Ca2+/CaCO3 biology.
+OG0002887	59	PIF1-family DNA helicases	PIF1; Pif1_2B; AAA_30	All GLOB (59)	LOW	Nuclear/mitochondrial DNA replication-fork helicases. Housekeeping; no mineralization role.
+OG0003717	51	Unknown (no BLAST/Pfam hits)	–	Mostly cytosolic (GLOB 47; TM 4)	UNKNOWN	No assignable domains or homology. Worth retaining as lineage-specific candidate but cannot rate without further analysis (structure prediction, synteny).
+OG0009246	29	Mixed secreted/ECM-like (collagen VI / mussel adhesive plaque-like)	Collagen alpha-5(VI); Adhesive plaque matrix protein; tRNA-synt_2 (1)	High secretion (SP 11; SP+TM 2; ~45% secreted)	MEDIUM	Hits to collagen VI and byssal/adhesive-plaque matrix proteins plus enrichment for signal peptides suggests secreted ECM/adhesive components, which in calcifying systems can organise the mineralization matrix.
+OG0009301	29	Short-C-terminal-domain / PRIMA1-like membrane-anchored secreted proteins	SHOCT (4); PRIMA1 (1)	Strongly secreted and membrane-anchored (SP+TM 11; SP 11; TM 4)	MEDIUM	Predominantly SP+TM with PRIMA1 (proline-rich membrane anchor) hit: cell-surface, likely plasma-membrane anchored. Cell-surface anchors can tether matrix/ectoenzymes (plausible interface for mineral-seeding) but direct evidence is indirect.
+OG0009816	28	Alpha-1,3-mannosyltransferase (MNN14/15 family)	Mannosyl_trans3 (15)	Mostly cytosolic/ER-luminal (GLOB 19; TM 5; SP 3; SP+TM 1)	LOW-MEDIUM	Golgi/ER mannosyltransferases glycosylate secreted matrix glycoproteins. Indirect contribution possible via glycosylation of matrix proteins.
+OG0010177	28	Ankyrin-repeat protein (Rickettsia RBE_0220-like)	Ank, Ank_2/3/4/5, Ank_KRIT1 (24)	All cytosolic (GLOB 28)	LOW	Pure ankyrin-repeat scaffolds; protein-protein interactions. No secretion or TM; no direct mineralization tie.
+OG0010867	27	Bacterial-like pentapeptide-repeat protein (same family as OG0001976/OG0022524)	Pentapeptide; Pentapeptide_3/4; Decapeptide	Mostly cytosolic (GLOB 23; SP 4)	LOW	Same family as OG0001976; likely intracellular.
+OG0010991	27	Unknown (no BLAST/Pfam hits)	–	Mostly cytosolic (GLOB 22) with some SP (4) and TM (1)	UNKNOWN	Dark-matter OG; no homology. Small fraction secreted — candidate for further study.
+OG0011061	27	Exostosin-family glycosyltransferase (HS/xyloglucan GT47)	Exostosin_GT47 (2); xyloglucan galactosyltransferase hit	Membrane-type II topology dominant (TM 18; SP+TM 9)	HIGH	Exostosin/GT47 = heparan-sulfate (animal) or xyloglucan (plant) polymer chain extension; Golgi type-II membrane enzymes. Heparan sulfate/sulfated polysaccharides are major components of biomineral organic matrices (e.g. skeletal/shell GAGs).
+OG0011197	27	2-OG/Fe(II)-dependent dioxygenase (plant-like)	2OG-FeII_Oxy (3)	Mostly cytosolic (GLOB 23)	LOW-MEDIUM	2OG dioxygenases include collagen prolyl/lysyl hydroxylases (relevant for ECM crosslinking) but top BLAST hits are plant secondary-metabolism oxidases (Kihadalactone/GA2ox), so matrix role is unlikely.
+OG0013037	24	Mixed / poorly supported; hints of serine aminopeptidase S33	Hydrolase_4 (1); Titin/Obscurin hits (1 each)	Mixed (GLOB 10; SP 8; TM 5; SP+TM 1)	LOW	Only 2 BLAST hits and 1 Pfam hit out of 24; annotations are heterogeneous and low-confidence.
+OG0014155	22	Inosine-uridine nucleoside hydrolase (RihA/B-like)	IU_nuc_hydro (17)	Strongly secreted (SP 14; SP+TM 2)	LOW-MEDIUM	Secreted nucleoside hydrolases act on nucleotide metabolism. Secretion is notable but nucleoside hydrolysis has no canonical role in CaCO3 deposition.
+OG0014250	22	Amidase-family enzyme (Glu-tRNA-Gln amidotransferase subunit A / AmiE-like)	Amidase (17)	Most secreted (SP 17; SP+TM none)	LOW	Cytosolic/mitochondrial in their canonical roles; secreted amidases hydrolyse amides broadly. No direct mineralization link.
+OG0015153	20	Unknown / piccolo-like low-confidence	– (no Pfam); Piccolo hits (2)	Mostly TM (14); SP 3; SP+TM 3	UNKNOWN	Large TM fraction suggests membrane proteins but functional assignment not supported.
+OG0016203	18	Mixed; weak hits to hexamerin and collagen IV	Collagen (1); RCC1 (1)	Mostly TM (13; SP+TM 2); few GLOB	LOW-MEDIUM	One collagen-IV hit in a TM-dominated family suggests a membrane-anchored ECM-like protein but support is weak.
+OG0016211	18	SUR7/PalI family membrane protein	SUR7 (1)	All TM (18)	LOW	Tetraspan membrane proteins involved in membrane microdomains/eisosomes; not a known mineralization factor.
+OG0017138	16	Arylsulfatase B / sulfatase family	Sulfatase (14); Arylsulfatase B/I/J BLAST	Some SP (3); mostly GLOB (13)	HIGH	Arylsulfatases hydrolyse sulfate esters on glycosaminoglycans/sulfated polysaccharides. Coccolith-associated polysaccharides and other biomineral matrices are heavily sulfated; ARSB orthologs are implicated in skeletal/shell matrix turnover.
+OG0017238	16	tRNA ligase 1	– (no Pfam); tRNA ligase hits (11)	All cytosolic (GLOB 16)	LOW	Housekeeping translation-related enzyme.
+OG0017305	16	Stf0-like sulphotransferase	Sulphotransf (3)	Over half secreted (SP 9)	MEDIUM	Small-molecule/polysaccharide sulphotransferases can sulfate matrix GAGs and acidic polysaccharides; secretion further supports an extracellular role. Direct evidence modest (only 3 Pfam hits).
+OG0017361	16	DJ-1/PfpI family (glyoxalase/isonitrile hydratase)	DJ-1_PfpI (16)	Mixed (GLOB 8; SP 6; TM 1; SP+TM 1)	LOW	Stress-response / detoxification enzymes; no mineralization role.
+OG0017362	16	Red chlorophyll catabolite reductase (RCCR)	RCC_reductase (3); Exo_endo_phos (1); Abhydrolase_5 (1)	SP 5; SP+TM 2; GLOB 9	LOW	Chloroplast/plastid chlorophyll catabolism; not related to calcification.
+OG0017884	15	GNAT acetyltransferase (mycothiol acetyltransferase-like)	Acetyltransf_1/7 (7)	All cytosolic (GLOB 11; TM 4)	LOW	Cytosolic acyl-CoA-dependent acetyltransferases.
+OG0017903	15	Flavohemoprotein (NO dioxygenase)	FAD_binding_6 (10); Globin (5); NAD_binding_1 (2)	All cytosolic (GLOB 15)	LOW	Nitric-oxide detoxification enzyme; no mineralization role.
+OG0017965	15	Kelch-repeat beta-propeller	Kelch_1/2, NANM, beta-propellers	All cytosolic (GLOB 14; SP 1)	LOW	Protein-protein scaffolds; typically cytosolic.
+OG0018519	14	Unknown, all TM	–	All TM (13) + SP 1	UNKNOWN	Integral membrane proteins of unknown function.
+OG0018986	13	FG-GAP-repeat integrin/adhesion-like; partial 7TM receptor signature	FG-GAP/FG-GAP_3 (12); TcdB_toxin_midN (5); 7tm_3 (2)	Mostly secreted/TM (SP+TM 8; SP 2; TM 2)	MEDIUM	FG-GAP repeats are canonical integrin-alpha β-propeller motifs that mediate cell-matrix (and divalent-cation-dependent) adhesion. Calcifying tissues rely on integrin-matrix interactions; worth follow-up.
+OG0019067	13	NLR / LRR-containing NLRC3-like innate immune receptor	LRR_6 (12); LRR_TMOD-LMOD (7)	Cytosolic/membrane mix (GLOB 8; SP+TM 3; TM 2)	LOW	Innate-immune pattern-recognition receptors; no mineralization role.
+OG0019078	13	Elongation factor 1-gamma (GST-type)	GST_N/C family (most proteins)	All cytosolic (GLOB 13)	LOW	Translation elongation factor; housekeeping.
+OG0019174	13	Amidase / Glu-tRNA-Gln amidotransferase subunit A	Amidase (13)	Strongly secreted (SP 12)	LOW	Same family as OG0014250; secreted amidase without mineralization link.
+OG0019180	13	Unknown	–	Nearly all cytosolic (GLOB 12; SP 1)	UNKNOWN	No homology or Pfam support.
+OG0019790	12	HECT E3 ubiquitin ligase (HECD1 / UPL3) with ankyrin repeats	HECT (9); Ank (4); Ank_2/3/4/5	All cytosolic (GLOB 12)	LOW	Ubiquitin ligases; protein-turnover; cytosolic.
+OG0019817	12	FAD-dependent monooxygenase (aurachin/antibiotic-biosynthesis-like)	FAD_binding_3 (9); NAD_binding_8 (9)	GLOB 9; SP 2; SP+TM 1	LOW	Small-molecule oxygenase; secondary metabolism.
+OG0019873	12	ACC synthase / aminotransferase class I/II	Aminotran_1_2 (10)	All cytosolic (GLOB 12)	LOW	Amino-acid metabolism; not secreted.
+OG0019887	12	Intron maturase II / MMR_HSR1 GTPase (organellar)	Intron_maturas2 (4); MMR_HSR1 (4)	All cytosolic (GLOB 11; SP 1)	LOW	Organellar translation/splicing factors.
+OG0019917	12	cAMP-dependent PKA regulatory subunit (+ one Apolipoprotein hit)	cNMP_binding (2); Apolipoprotein (1)	Mostly secreted (SP 7; SP+TM 2; TM 1)	LOW	Canonical cytosolic PKA-R subunit; the signalP profile is inconsistent with that annotation — may reflect poorly predicted/fragmented ORFs.
+OG0020622	11	ATP-dependent RecD2 DNA helicase	AAA_30/19 (10); UvrD_C_2; SH3_13; HHH_RecD2	All cytosolic (GLOB 11)	LOW	DNA-repair helicase; housekeeping.
+OG0020657	11	Unknown	–	GLOB 4; SP 7	UNKNOWN	Dark-matter but strongly secreted — potential candidate for unknown secreted matrix factor.
+OG0020696	11	Unknown	–	Mostly cytosolic (GLOB 7; TM 3; SP 1)	UNKNOWN	Dark-matter.
+OG0020700	11	PDZ-domain scaffold protein	PDZ/PDZ_2/PDZ_6 (3)	All cytosolic (GLOB 11)	LOW	PDZ scaffolds are cytosolic protein-interaction modules.
+OG0020703	11	Heparan-sulfate 6-O-sulfotransferase (HS6ST-like)	Sulfotransfer_1/3 (1 each); HS6ST1 BLAST (2)	Strongly secreted (SP 6; SP+TM none; GLOB 5)	HIGH	HS6ST sulfates heparan sulfate chains — directly relevant to acidic sulfated polysaccharide matrices that nucleate/regulate CaCO3 deposition in many calcifiers. Secreted/Golgi topology is consistent.
+OG0020706	11	Unknown	–	Mixed (GLOB 5; TM 4; SP 1; SP+TM 1)	UNKNOWN	Dark-matter.
+OG0020728	11	Unknown	–	All cytosolic (GLOB 11)	UNKNOWN	Dark-matter.
+OG0020729	11	Unknown	–	All cytosolic (GLOB 11)	UNKNOWN	Dark-matter.
+OG0021347	10	Secreted trypsin-family serine protease	Trypsin (10); Trypsin_2 (3); snake-venom serine protease hits	Fully secreted (SP 10)	MEDIUM	All members carry signal peptides plus a trypsin domain — canonical secreted proteases. Extracellular proteases remodel biomineralization matrices (e.g. shell/bone matrix processing).
+OG0021406	10	SDR / short-chain dehydrogenase (gluconate-5 DH)	adh_short (10); adh_short_C2 (10); KR (9); SDR (5)	All cytosolic (GLOB 10)	LOW	Reductases of sugar/carbonyl metabolism; cytosolic.
+OG0021517	10	F-box protein	F-box-like (8); F-box (4)	All cytosolic (GLOB 10)	LOW	SCF ubiquitin-ligase substrate adapter; cytosolic.
+OG0021520	10	Unknown (one BETA-barrel prediction)	–	GLOB 9; BETA 1	UNKNOWN	Dark-matter.
+OG0021523	10	Protein phosphatase 2C (PP2C)	PP2C (6)	All cytosolic (GLOB 10)	LOW-MEDIUM	PP2Cs include Ca2+/Mg2+-dependent Ser/Thr phosphatases involved in Ca2+ and stress signaling; indirect link to Ca2+ homeostasis possible.
+OG0021531	10	DegP-like serine endoprotease with PDZ domains	PDZ/PDZ_2/PDZ_6 (several); Pept_S41_N_bact	Mostly cytosolic (GLOB 9; SP 1)	LOW	HtrA/DegP-family quality-control proteases; not known as matrix remodelers in calcifiers.
+OG0022355	9	Uncharacterized bacterial-like DUF2237 family	DUF2237 (7)	Strongly membrane-secreted (SP+TM 6; SP 2; GLOB 1)	UNKNOWN	Function unknown but topology (SP+TM) is consistent with cell-surface/periplasmic proteins.
+OG0022381	9	NADPH–cytochrome P450 reductase (CPR)	FAD_binding_1 (8); NAD_binding_1 (8); Flavodoxin_1 (7)	Mix (GLOB 5; TM 3; SP+TM 1)	LOW	ER-anchored electron donor to P450s; general redox, no mineralization link.
+OG0022455	9	Unknown	–	Mostly cytosolic (GLOB 7; SP 2)	UNKNOWN	Dark-matter.
+OG0022473	9	Unknown (no Pfam hits; ~1/3 SP+TM)	–	SP+TM 3; GLOB 5; SP 1	UNKNOWN	Dark-matter with some membrane-secreted signal; candidate for further study.
+OG0022474	9	F-box protein	F-box-like (8); F-box (6)	All cytosolic (GLOB 9)	LOW	Same family as OG0021517.
+OG0022492	9	WD40 / beta-propeller scaffold (myosin-heavy-chain-kinase-like)	WD40 (5); multiple Beta-prop_* (5 each)	All cytosolic (GLOB 9)	LOW	WD40 scaffolds; cytosolic.
+OG0022500	9	Unknown	–	All cytosolic (GLOB 9)	UNKNOWN	Dark-matter.
+OG0022520	9	Unknown	–	All cytosolic (GLOB 9)	UNKNOWN	Dark-matter.
+OG0022524	9	Pentapeptide-repeat protein (MfpA/Slr1819-like)	Pentapeptide; Pentapeptide_3/4; Decapeptide	All cytosolic (GLOB 9)	LOW	Same family as OG0001976/OG0010867.
+OG0022528	9	Unknown	–	All cytosolic (GLOB 9)	UNKNOWN	Dark-matter.
+OG0023496	8	Protein kinase (BMP2K/GAK-like serine/threonine kinase)	Pkinase (8); PK_Tyr_Ser-Thr (8)	All cytosolic (GLOB 8)	LOW-MEDIUM	BMP-2-inducible kinase (BIKE/BMP2K) and cyclin-G-associated kinase participate in membrane trafficking; BMP-signaling link (bone morphogenetic protein pathway) is indirect but noteworthy.
+OG0023566	8	SEY1/RHD3-type GTPase (ER membrane fusion)	RHD3_GTPase (3)	Mix (GLOB 5; SP 2; TM 1)	LOW	ER-network dynamics; no mineralization role.
+OG0023594	8	GT8 glycosyltransferase (galacturonosyltransferase-like)	Glyco_transf_8 (6); minor LRR/Ankyrin	Mostly cytosolic (GLOB 7; SP+TM 1)	MEDIUM	GT8 glycosyltransferases build pectin/polyuronate and glycosaminoglycan backbones. Acidic polysaccharide matrices underpin many calcified structures.
+OG0023657	8	Unknown	–	All cytosolic (GLOB 8)	UNKNOWN	Dark-matter.
+OG0023790	8	Red chlorophyll catabolite reductase (RCCR)	RCC_reductase (6)	GLOB 4; SP 4	LOW	Chloroplast chlorophyll catabolism; not calcification related.
+OG0024846	7	TOD1/MUCI70 hexosyltransferase	TOD1_MUCI70 (4)	GLOB 5; SP 2	LOW-MEDIUM	Glycosyltransferase-like domain acting on secreted glycans; possible indirect role in matrix glycan decoration.
+OG0024979	7	Unknown	–	All cytosolic (GLOB 7)	UNKNOWN	Dark-matter.
+OG0025015	7	Unknown, all TM	–	All TM (7)	UNKNOWN	Integral membrane proteins of unknown function.
+OG0025016	7	Unknown	–	All cytosolic (GLOB 7)	UNKNOWN	Dark-matter.
+OG0025059	7	Unknown; predominantly secreted	–	SP 5; GLOB 2	UNKNOWN	Dark-matter with a strong secretion signal — candidate for lineage-specific secreted (matrix?) protein.
+OG0026865	6	JmjC-domain hydroxylase/demethylase (JMJD6/PSR-like)	JmjC (5); Cupin_8 (1)	All cytosolic (GLOB 6)	LOW-MEDIUM	2-OG/Fe(II) JmjC hydroxylases primarily act on histones/splicing factors, but the Fe(II)/2-OG chemistry is the same used by collagen/matrix hydroxylases; direct matrix role is speculative.

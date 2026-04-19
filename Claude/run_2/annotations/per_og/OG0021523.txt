@@ -1,0 +1,18 @@
+Orthogroup: OG0021523
+Members: 10
+With BLAST hit: 6  |  With Pfam: 6
+SignalP positive: 0/10
+TMR: any=0/10  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [3x] Probable protein phosphatase 2C 35
+  [2x] Probable protein phosphatase 2C 61
+  [1x] Probable protein phosphatase 2C 64
+
+Pfam domains observed:
+  [6x] PP2C — Protein phosphatase 2C
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 325 aa | mean acidic (D+E): 11.6% | mean S+T: 15.5% | mean Cys: 1.4%
+Calcification score: 0

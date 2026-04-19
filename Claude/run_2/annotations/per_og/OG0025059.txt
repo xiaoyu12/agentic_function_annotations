@@ -1,0 +1,14 @@
+Orthogroup: OG0025059
+Members: 7
+With BLAST hit: 0  |  With Pfam: 0
+SignalP positive: 5/7
+TMR: any=0/7  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+
+Pfam domains observed:
+
+Calcification tags: 
+Biomin flags: secretome_candidate,novel_secreted
+Mean length: 202 aa | mean acidic (D+E): 10.3% | mean S+T: 12.4% | mean Cys: 2.4%
+Calcification score: 4

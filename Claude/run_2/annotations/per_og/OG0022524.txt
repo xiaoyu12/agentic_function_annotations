@@ -1,0 +1,21 @@
+Orthogroup: OG0022524
+Members: 9
+With BLAST hit: 9  |  With Pfam: 9
+SignalP positive: 0/9
+TMR: any=0/9  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [4x] Uncharacterized protein slr1819
+  [3x] Pentapeptide repeat protein MfpA
+  [2x] Uncharacterized protein in mobD 3'region
+
+Pfam domains observed:
+  [9x] Pentapeptide — Pentapeptide repeats (8 copies)
+  [9x] Pentapeptide_4 — Pentapeptide repeat region
+  [9x] Pentapeptide_3 — Pentapeptide repeats (9 copies)
+  [4x] Decapeptide — Decapeptide repeat region
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 346 aa | mean acidic (D+E): 9.8% | mean S+T: 15.2% | mean Cys: 1.5%
+Calcification score: 0

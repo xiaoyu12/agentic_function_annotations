@@ -1,0 +1,18 @@
+Orthogroup: OG0023566
+Members: 8
+With BLAST hit: 5  |  With Pfam: 3
+SignalP positive: 3/8
+TMR: any=1/8  single-pass=1  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [2x] Protein SEY1 homolog
+  [2x] Protein SEY1
+  [1x] Protein ROOT HAIR DEFECTIVE 3 homolog 2
+
+Pfam domains observed:
+  [3x] RHD3_GTPase — Root hair defective 3 GTP-binding protein (RHD3) GTPase domain
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 476 aa | mean acidic (D+E): 9.1% | mean S+T: 14.1% | mean Cys: 1.2%
+Calcification score: 0

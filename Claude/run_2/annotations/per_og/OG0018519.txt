@@ -1,0 +1,15 @@
+Orthogroup: OG0018519
+Members: 14
+With BLAST hit: 0  |  With Pfam: 0
+SignalP positive: 0/14
+TMR: any=13/14  single-pass=0  multi-pass=13
+TMHMM topology types: [('TM', 1)]
+
+Top SwissProt hit(s) across members:
+
+Pfam domains observed:
+
+Calcification tags: 
+Biomin flags: cysteine_rich,novel_multipass_membrane
+Mean length: 159 aa | mean acidic (D+E): 7.5% | mean S+T: 9.5% | mean Cys: 5.8%
+Calcification score: 4

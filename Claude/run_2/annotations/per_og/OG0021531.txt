@@ -1,0 +1,25 @@
+Orthogroup: OG0021531
+Members: 10
+With BLAST hit: 7  |  With Pfam: 10
+SignalP positive: 0/10
+TMR: any=0/10  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [3x] Probable periplasmic serine endoprotease DegP-like
+  [1x] Putative serine protease HhoB
+  [1x] Tight junction protein ZO-3
+  [1x] Periplasmic serine endoprotease DegP
+  [1x] Pro-apoptotic serine protease NMA111
+
+Pfam domains observed:
+  [10x] PDZ_6 — PDZ domain
+  [7x] PDZ_2 — PDZ domain
+  [6x] PDZ — PDZ domain
+  [2x] PDZ_Tricorn — Tricorn protease PDZ domain
+  [2x] GRASP55_65 — GRASP55/65 PDZ-like domain
+  [1x] Pept_S41_N_bact — Bacteroidetes, Peptidase, S41 family, N-terminal domain
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 273 aa | mean acidic (D+E): 11.5% | mean S+T: 16.3% | mean Cys: 0.9%
+Calcification score: 0

@@ -1,0 +1,28 @@
+Orthogroup: OG0001976
+Members: 73
+With BLAST hit: 70  |  With Pfam: 72
+SignalP positive: 4/73
+TMR: any=3/73  single-pass=1  multi-pass=2
+
+Top SwissProt hit(s) across members:
+  [44x] Uncharacterized protein slr1819
+  [11x] Uncharacterized protein in mobD 3'region
+  [6x] Secreted effector protein PipB2
+  [2x] Uncharacterized protein slr1851
+  [2x] FH protein interacting protein FIP2
+  [2x] Uncharacterized protein slr1152
+  [1x] Thylakoid lumenal 15 kDa protein 1, chloroplastic
+  [1x] Dynamin-3
+  [1x] Uncharacterized protein slr0516
+
+Pfam domains observed:
+  [72x] Pentapeptide — Pentapeptide repeats (8 copies)
+  [70x] Pentapeptide_4 — Pentapeptide repeat region
+  [70x] Pentapeptide_3 — Pentapeptide repeats (9 copies)
+  [39x] Decapeptide — Decapeptide repeat region
+  [24x] LD_SV2 — SV2A/B/C luminal domain
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 303 aa | mean acidic (D+E): 10.8% | mean S+T: 14.6% | mean Cys: 1.6%
+Calcification score: 0

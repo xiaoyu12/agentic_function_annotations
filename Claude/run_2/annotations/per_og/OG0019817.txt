@@ -1,0 +1,21 @@
+Orthogroup: OG0019817
+Members: 12
+With BLAST hit: 10  |  With Pfam: 10
+SignalP positive: 8/12
+TMR: any=1/12  single-pass=1  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [5x] Aurachin C monooxygenase/isomerase
+  [2x] 3-amino-4-hydroxybenzoate 2-monooxygenase
+  [1x] 3-amino-4-hydroxybenzoate 2-monooxygenase PtmB3
+  [1x] Zeaxanthin epoxidase, chloroplastic
+  [1x] Putative 2-heptyl-3-hydroxy-4(1H)-quinolone synthase AqdB1
+
+Pfam domains observed:
+  [9x] FAD_binding_3 — FAD binding domain
+  [9x] NAD_binding_8 — NAD(P)-binding Rossmann-like domain
+
+Calcification tags: 
+Biomin flags: secretome_candidate
+Mean length: 370 aa | mean acidic (D+E): 10.2% | mean S+T: 11.5% | mean Cys: 1.3%
+Calcification score: 2

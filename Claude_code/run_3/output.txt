@@ -1,0 +1,26 @@
+Annotation complete. I parsed all 4 evidence streams for the 73 orthogroups (1,705 sequences) and
+  wrote a curated per-OG functional + calcification-relevance table.                                  
+                                                                                                      
+  Files produced               
+  - annotate_orthogroups.py — reproducible parser + scorer                                            
+  - orthogroup_annotation.tsv — one row per OG with: n_seq, function summary, top PFAM domains (with
+  e-value/count), top BLAST hits (best e-value), SignalP SP count, DeepTMHMM topology breakdown,      
+  localization note, calcification relevance tier, and rationale.                                     
+                                                                                                      
+  Relevance summary (73 OGs)                                                                          
+  - strong (2): OG0018986 FG-GAP/integrin-α-like Ca²⁺-binding β-propeller fused to a 7TM receptor     
+  (Ca²⁺-sensing-receptor-like); OG0020703 heparan-sulfate 6-O-sulfotransferase, 6/11 secreted —       
+  essential for sulfated-polysaccharide matrix that templates CaCO₃.                                  
+  - moderate (16): glycosyltransferases (Exostosin GT47, GT8, MNN13/14/15, MUCI70), sulfatase (ARSB), 
+  sulphotransferase (Stf0), secreted trypsin protease, collagen-triple-helix + RCC1 fusion, BMP2K-like
+   kinase, SEY1/RHD3 ER-fusion GTPase, Hint/Hedgehog auto-processing family, pentapeptide-repeat      
+  proteins (possible CCM/Ca²⁺ context), asparaginyl-tRNA-synthetase protein whose BLAST matches       
+  adhesive-plaque-matrix/collagen, and a secreted nucleoside hydrolase.                               
+  - weak (34): mostly uncharacterised small OGs with suggestive secretion/TM signatures but no
+  functional evidence.                                                                        
+  - unlikely (21): clear housekeeping enzymes (helicases, tRNA ligase, GST, ubiquitin-ligases, redox  
+  enzymes, WD40 scaffolds, etc.).                                                                   
+                                                                                                      
+  The rationale column in the TSV explains the biological reasoning behind each tier, citing the
+  specific PFAM domains, BLAST hits, and SP/TM topology that support the call. The two "strong" hits  
+  (OG0018986, OG0020703) are the most promising candidates for a direct role in calcification.

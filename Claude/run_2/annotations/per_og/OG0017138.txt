@@ -1,0 +1,29 @@
+Orthogroup: OG0017138
+Members: 16
+With BLAST hit: 16  |  With Pfam: 14
+SignalP positive: 2/16
+TMR: any=0/16  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [14x] Arylsulfatase B
+  [1x] Arylsulfatase I
+  [1x] Arylsulfatase J
+
+Pfam domains observed:
+  [14x] Sulfatase — Sulfatase
+  [1x] Polysacc_lyase — Polysaccharide lyase
+  [1x] Kelch_1 — Kelch motif
+  [1x] Kelch_2 — Kelch motif
+  [1x] Kelch_FKB95 — FKB95, Kelch-repeats domain
+  [1x] Beta-prop_Calicin — Calicin, beta-propeller domain
+  [1x] Kelch_KLHDC2_KLHL20_DRC7 — KLHDC2/KLHL20/DRC7 Kelch-repeats domain
+  [1x] Beta-prop_ATRN-LZTR1 — Attractin/LZTR1 beta-propeller
+  [1x] NANM — N-acetylneuraminate epimerase
+  [1x] Beta-prop_FBX42 — FBX42, beta-propeller domain
+  [1x] Phosphodiest — Type I phosphodiesterase / nucleotide pyrophosphatase
+  [1x] Sulfatase_C — C-terminal region of aryl-sulfatase
+
+Calcification tags: sulfation
+Biomin flags: -
+Mean length: 517 aa | mean acidic (D+E): 9.7% | mean S+T: 12.2% | mean Cys: 2.1%
+Calcification score: 18

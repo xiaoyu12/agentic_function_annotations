@@ -1,0 +1,31 @@
+Orthogroup: OG0022492
+Members: 9
+With BLAST hit: 5  |  With Pfam: 9
+SignalP positive: 0/9
+TMR: any=0/9  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [4x] Myosin heavy chain kinase B
+  [1x] Zinc finger CCCH domain-containing protein 17
+
+Pfam domains observed:
+  [7x] Beta-prop_TEP1_2nd — TEP-1 second beta-propeller
+  [5x] WD40 — WD domain, G-beta repeat
+  [5x] Beta-prop_WDR3_1st — WDR3 first beta-propeller domain
+  [5x] WD40_Prp19 — Prp19 WD40 domain
+  [5x] Beta-prop_THOC3 — THOC3 beta-propeller domain
+  [5x] Beta-prop_WDR5 — WDR5 beta-propeller domain
+  [5x] Beta-prop_TEP1_C — TEP-1 C-terminal beta-propeller
+  [5x] WDR55 — WDR55
+  [4x] PDZ_6 — PDZ domain
+  [4x] PDZ — PDZ domain
+  [4x] Beta-prop_WDR36-Utp21_1st — WDR36/Utp21 first beta-propeller
+  [4x] WD40_WDHD1_1st — WDHD1 first WD40 domain
+  [3x] WD40_CDC20-Fz — CDC20/Fizzy WD40 domain
+  [2x] Beta-prop_IFT122_1st — IFT122 first beta-propeller
+  [1x] PQQ_2 — Outer membrane protein assembly factor BamB
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 473 aa | mean acidic (D+E): 9.8% | mean S+T: 15.4% | mean Cys: 1.8%
+Calcification score: 0

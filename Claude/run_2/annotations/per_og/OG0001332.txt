@@ -1,0 +1,27 @@
+Orthogroup: OG0001332
+Members: 91
+With BLAST hit: 84  |  With Pfam: 86
+SignalP positive: 1/91
+TMR: any=76/91  single-pass=70  multi-pass=6
+
+Top SwissProt hit(s) across members:
+  [68x] Warthog protein 1
+  [6x] Protein hedgehog
+  [4x] Warthog protein 8
+  [2x] Protein qua-1
+  [1x] Desert hedgehog protein
+  [1x] Sonic hedgehog protein
+  [1x] Complement C2
+  [1x] Warthog protein 4
+
+Pfam domains observed:
+  [85x] Hint — Hint module
+  [2x] Trypsin — Trypsin
+  [2x] Hint_2 — Hint domain
+  [1x] Recep_L_domain — Receptor L domain
+  [1x] Trypsin_2 — Trypsin-like peptidase domain
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 290 aa | mean acidic (D+E): 8.4% | mean S+T: 14.2% | mean Cys: 2.0%
+Calcification score: 0

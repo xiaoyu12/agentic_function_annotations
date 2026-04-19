@@ -1,0 +1,17 @@
+Orthogroup: OG0009301
+Members: 29
+With BLAST hit: 1  |  With Pfam: 5
+SignalP positive: 21/29
+TMR: any=15/29  single-pass=14  multi-pass=1
+
+Top SwissProt hit(s) across members:
+  [1x] DNA-directed RNA polymerase II subunit RPB1
+
+Pfam domains observed:
+  [4x] SHOCT — Short C-terminal domain
+  [1x] PRIMA1 — Proline-rich membrane anchor 1
+
+Calcification tags: 
+Biomin flags: secretome_candidate,novel_secreted,cysteine_rich
+Mean length: 220 aa | mean acidic (D+E): 9.2% | mean S+T: 14.6% | mean Cys: 7.4%
+Calcification score: 6

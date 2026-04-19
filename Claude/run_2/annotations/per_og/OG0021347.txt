@@ -1,0 +1,24 @@
+Orthogroup: OG0021347
+Members: 10
+With BLAST hit: 10  |  With Pfam: 10
+SignalP positive: 5/10
+TMR: any=0/10  single-pass=0  multi-pass=0
+
+Top SwissProt hit(s) across members:
+  [3x] Trypsin-1
+  [2x] Snake venom serine protease HS112
+  [1x] Transmembrane protease serine 2
+  [1x] Trypsin 3A1
+  [1x] Chymotrypsin-like elastase family member 2A
+  [1x] Brachyurin
+  [1x] Complement factor D
+
+Pfam domains observed:
+  [10x] Trypsin — Trypsin
+  [3x] Trypsin_2 — Trypsin-like peptidase domain
+  [1x] DUF1986 — Domain of unknown function (DUF1986)
+
+Calcification tags: 
+Biomin flags: secretome_candidate
+Mean length: 314 aa | mean acidic (D+E): 10.5% | mean S+T: 12.2% | mean Cys: 3.2%
+Calcification score: 2

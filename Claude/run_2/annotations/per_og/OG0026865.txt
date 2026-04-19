@@ -1,0 +1,20 @@
+Orthogroup: OG0026865
+Members: 6
+With BLAST hit: 6  |  With Pfam: 5
+SignalP positive: 0/6
+TMR: any=0/6  single-pass=0  multi-pass=0
+TMHMM topology types: [('GLOB', 1)]
+
+Top SwissProt hit(s) across members:
+  [3x] Bifunctional arginine demethylase and lysyl-hydroxylase PSR
+  [2x] Bifunctional arginine demethylase and lysyl-hydroxylase JMJD6
+  [1x] Arginine-specific demethylase JMJ22
+
+Pfam domains observed:
+  [5x] JmjC — JmjC domain, hydroxylase
+  [1x] Cupin_8 — Cupin-like domain
+
+Calcification tags: 
+Biomin flags: -
+Mean length: 493 aa | mean acidic (D+E): 11.5% | mean S+T: 11.1% | mean Cys: 3.4%
+Calcification score: 0
