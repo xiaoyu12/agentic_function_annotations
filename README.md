@@ -23,14 +23,11 @@ Each method has three independent runs.
 ```text
 .
 |-- README.md
-|-- compare_and_merge_annotations.ps1
-|-- comparison_curated_final_calls.psv
 |-- Orthogroups.calcifying_loose_fastas/
 |-- Claude/
 |-- Claude_code/
 |-- Codex/
 |-- comparison_merged_annotation/
-`-- biorxiv-paper/
 ```
 
 Key folders:
@@ -40,7 +37,7 @@ Key folders:
 - `Claude_code/`: outputs from Claude Code CLI Opus 4.7 runs with Claude Scientific Skills.
 - `Codex/`: outputs from Codex App GPT-5.4 runs with Claude Scientific Skills.
 - `comparison_merged_annotation/`: normalized comparison tables, recomputed evidence summaries, and final merged annotations.
-- `biorxiv-paper/`: LaTeX manuscript, bibliography, generated figures, supplement tables, and manuscript PDF.
+
 
 ## Main Outputs
 
@@ -51,15 +48,6 @@ The most important benchmark outputs are in `comparison_merged_annotation/`:
 - `method_consistency_summary.tsv`: run-level label distributions and score summaries.
 - `recomputed_evidence.tsv`: evidence re-aggregation from FASTA, BLAST, Pfam/HMMER, SignalP, and DeepTMHMM.
 - `comparison_and_final_annotation_report.md`: human-readable audit report.
-
-The manuscript is in `biorxiv-paper/`:
-
-- `main.tex`: manuscript source.
-- `references.bib`: bibliography.
-- `main.pdf`: compiled manuscript.
-- `figures/`: generated manuscript figures.
-- `supplement/`: generated supplementary LaTeX tables.
-- `sources/web_research_20260418.md`: web and literature sources used while drafting the paper.
 
 ## Summary of Findings
 
@@ -79,60 +67,6 @@ The strongest high-confidence candidates were sulfatase or sulfotransferase fami
 
 The skill-enabled coding-agent workflows improved evidence handling, reproducible scripts, and auditability, but they did not eliminate biological overinterpretation.
 
-## Reproducing the Comparison
-
-Run the comparison and merge workflow from the repository root:
-
-```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -File .\compare_and_merge_annotations.ps1
-```
-
-This regenerates the comparison outputs in `comparison_merged_annotation/`.
-
-## Regenerating Manuscript Figures and Supplementary Tables
-
-The manuscript assets are generated from the comparison TSV files using PowerShell and .NET drawing utilities:
-
-```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -File .\biorxiv-paper\scripts\generate_manuscript_assets.ps1
-```
-
-This regenerates:
-
-- `biorxiv-paper/figures/final_relevance_distribution.png`
-- `biorxiv-paper/figures/run_relevance_distribution.png`
-- `biorxiv-paper/figures/within_method_agreement.png`
-- `biorxiv-paper/figures/candidate_evidence_heatmap.png`
-- `biorxiv-paper/supplement/final_annotations_table.tex`
-- `biorxiv-paper/supplement/method_summary_table.tex`
-- `biorxiv-paper/supplement/pairwise_agreement_table.tex`
-
-## Building the Manuscript
-
-From `biorxiv-paper/`, compile the LaTeX manuscript with:
-
-```powershell
-pdflatex -interaction=nonstopmode -halt-on-error main.tex
-bibtex main
-pdflatex -interaction=nonstopmode -halt-on-error main.tex
-pdflatex -interaction=nonstopmode -halt-on-error main.tex
-```
-
-The compiled PDF is written to:
-
-```text
-biorxiv-paper/main.pdf
-```
-
-## Requirements
-
-The comparison and asset-generation scripts are designed for Windows PowerShell. Building the manuscript requires a LaTeX distribution such as MiKTeX with `pdflatex` and `bibtex` available.
-
-No Python or R environment is required for the current figure-generation workflow.
-
-## Citation
-
-If you use this repository, cite the manuscript in `biorxiv-paper/main.pdf` or the repository itself until a preprint DOI is available.
 
 ## Notes for Reuse
 
